@@ -1,0 +1,3239 @@
+extracellular matrix organization	4.64E-08
+collagen biosynthesis and modifying enzymes	1.87E-06
+collagen formation	8.46E-06
+gpcr signaling g alpha q	8.46E-06
+signal transduction	8.60E-06
+protein digestion and absorption   homo sapiens  human	9.41E-06
+pathways in cancer   homo sapiens  human	1.20E-05
+gpcr signaling cholera toxin	1.20E-05
+gpcr signaling pertussis toxin	1.20E-05
+class b 2  secretin family receptors	3.49E-05
+gpcr ligand binding	4.40E-05
+gpcr signaling g alpha s epac and erk	5.60E-05
+gpcr signaling g alpha s pka and erk	0.000135793
+integrin cell surface interactions	0.000292501
+vitamin d receptor pathway	0.000292501
+signaling by gpcr	0.000436163
+integrin	0.00055779
+basal cell carcinoma   homo sapiens  human	0.000585239
+ecm proteoglycans	0.000992034
+wnt signaling network	0.001517373
+o linked glycosylation	0.001597234
+ecm receptor interaction   homo sapiens  human	0.002240163
+small cell lung cancer   homo sapiens  human	0.002723276
+wnt signaling pathway	0.006670302
+degradation of the extracellular matrix	0.008196138
+signaling pathways regulating pluripotency of stem cells   homo sapiens  human	0.011494918
+beta1 integrin cell surface interactions	0.013597083
+complement and coagulation cascades   homo sapiens  human	0.014188079
+cell adhesion molecules  cams    homo sapiens  human	0.014552443
+pi3k akt signaling pathway   homo sapiens  human	0.026154525
+collagen degradation	0.03538655
+wnt5a dependent internalization of fzd2  fzd5 and ror2	0.038149383
+hippo signaling pathway   homo sapiens  human	0.038867452
+gpcr downstream signaling	0.041489172
+benzo a pyrene metabolism	0.041489172
+o linked glycosylation of mucins	0.043023272
+axon guidance	0.043023272
+prostaglandin synthesis and regulation	0.043023272
+activation of trka receptors	0.043575467
+neuroactive ligand receptor interaction   homo sapiens  human	0.043575467
+small ligand gpcrs	0.044484398
+wnt signaling pathway and pluripotency	0.045271547
+dissolution of fibrin clot	0.051361462
+bladder cancer	0.051664448
+regulation of actin cytoskeleton   homo sapiens  human	0.069515154
+synthesis of bile acids and bile salts via 24 hydroxycholesterol	0.075767748
+formation of fibrin clot  clotting cascade	0.077463639
+hemostasis	0.078740792
+celecoxib pathway  pharmacodynamics	0.083266333
+wnt canonical	0.083266333
+hedgehog signaling pathway   homo sapiens  human	0.083266333
+nitric oxide stimulates guanylate cyclase	0.083266333
+capecitabine action pathway	0.087750174
+beta2 integrin cell surface interactions	0.087750174
+allopregnanolone biosynthesis	0.087793207
+prostanoid ligand receptors	0.088951583
+cytokine cytokine receptor interaction   homo sapiens  human	0.09567685
+wnt signaling pathway   homo sapiens  human	0.102844967
+glycosaminoglycan metabolism	0.112417399
+focal adhesion   homo sapiens  human	0.129549676
+signaling events mediated by the hedgehog family	0.130850136
+complement and coagulation cascades	0.130850136
+developmental biology	0.138958185
+tight junction interactions	0.138958185
+integrated cancer pathway	0.138958185
+adipogenesis	0.14939962
+proteoglycans in cancer   homo sapiens  human	0.156325944
+keratan sulfate biosynthesis	0.165403112
+foxm1 transcription factor network	0.169129229
+renin secretion   homo sapiens  human	0.184494189
+melanogenesis   homo sapiens  human	0.184494189
+wnt ligand biogenesis and trafficking	0.18795415
+african trypanosomiasis   homo sapiens  human	0.191485071
+leukocyte transendothelial migration   homo sapiens  human	0.203801855
+kinesins	0.203801855
+assembly of collagen fibrils and other multimeric structures	0.205956807
+g alpha  s  signalling events	0.205956807
+human complement system	0.20810032
+glucagon type ligand receptors	0.222434893
+micrornas in cancer   homo sapiens  human	0.235021996
+o glycosylation of tsr domain containing proteins	0.240535961
+phenylalanine degradation	0.240535961
+hh ncore	0.240535961
+transcriptional activity of smad2 smad3 smad4 heterotrimer	0.244969398
+transport of glucose and other sugars  bile salts and organic acids  metal ions and amine compounds	0.2466955
+validated transcriptional targets of tap63 isoforms	0.2466955
+spinal cord injury	0.2466955
+differentiation pathway	0.251519688
+beta catenin independent wnt signaling	0.254881437
+mucin type o glycan biosynthesis   homo sapiens  human	0.255672625
+class a 1  rhodopsin like receptors	0.263206759
+extrinsic pathway of fibrin clot formation	0.263206759
+beta5 beta6 beta7 and beta8 integrin cell surface interactions	0.263206759
+ngf independant trka activation	0.269420558
+synthesis of bile acids and bile salts via 27 hydroxycholesterol	0.269420558
+transport of connexins along the secretory pathway	0.269542115
+transport of connexons to the plasma membrane	0.269542115
+scavenging of heme from plasma	0.273748229
+p53 signaling pathway   homo sapiens  human	0.273748229
+htlv i infection   homo sapiens  human	0.273748229
+il4 mediated signaling events	0.273748229
+validated transcriptional targets of deltanp63 isoforms	0.273748229
+cell surface interactions at the vascular wall	0.285177566
+amoebiasis   homo sapiens  human	0.288050928
+glucocorticoid receptor pathway	0.288050928
+wnt	0.288050928
+gpcrs  class b secretin like	0.290033314
+constitutive signaling by aberrant pi3k in cancer	0.290033314
+eicosanoid ligand binding receptors	0.290033314
+melanoma   homo sapiens  human	0.290033314
+alpha9 beta1 integrin signaling events	0.290033314
+pcp ce pathway	0.298545419
+mirnas involved in dna damage response	0.298545419
+glycine  serine and threonine metabolism   homo sapiens  human	0.298545419
+erythrocytes take up oxygen and release carbon dioxide	0.298545419
+growth hormone signaling pathway	0.298545419
+keratan sulfate keratin metabolism	0.298545419
+cgmp effects	0.298545419
+tp53 network	0.299119102
+phenylalanine metabolism   homo sapiens  human	0.308889555
+gastric cancer network 2	0.308889555
+camp signaling pathway   homo sapiens  human	0.32170758
+retinoblastoma  rb  in cancer	0.324613991
+regulation of complement cascade	0.324613991
+maturity onset diabetes of the young   homo sapiens  human	0.324613991
+signaling by wnt	0.324613991
+syndecan 1 mediated signaling events	0.324695006
+arrhythmogenic right ventricular cardiomyopathy  arvc    homo sapiens  human	0.326898818
+separation of sister chromatids	0.343497337
+transcriptional misregulation in cancer   homo sapiens  human	0.343497337
+histidine degradation INOH	0.343497337
+tnf receptor superfamily  tnfsf  members mediating non canonical nf kb pathway	0.345444968
+ligand receptor interactions	0.347531322
+amino acid transport across the plasma membrane	0.358052543
+signaling by rho gtpases	0.361382171
+mitotic anaphase	0.362752504
+p73 transcription factor network	0.364955892
+ncam signaling for neurite out growth	0.367114815
+gli proteins bind promoters of hh responsive genes to promote transcription	0.369706371
+amine compound slc transporters	0.37343604
+anchoring fibril formation	0.37343604
+stimuli sensing channels	0.37343604
+mitotic metaphase and anaphase	0.373503951
+gpcrs  class a rhodopsin like	0.378219822
+neural crest differentiation	0.378219822
+p53 signaling pathway	0.378219822
+common pathway of fibrin clot formation	0.378219822
+aminocaproic acid action pathway	0.378219822
+ardeparin action pathway	0.378219822
+glibenclamide action pathway	0.378219822
+tyrosine metabolism INOH	0.381000641
+synthesis of bile acids and bile salts	0.38159498
+visual phototransduction	0.38159498
+bladder cancer   homo sapiens  human	0.38159498
+hs gag degradation	0.38159498
+nucleosome assembly	0.38159498
+senescence associated secretory phenotype  sasp	0.38159498
+tyrosine metabolism   homo sapiens  human	0.382710188
+eicosanoid metabolism	0.382710188
+circadian entrainment   homo sapiens  human	0.402860672
+alpha6 beta4 integrin ligand interactions	0.412197055
+histidine catabolism	0.413630497
+hair follicle development  induction  part 1 of 3	0.413630497
+fto obesity variant mechanism	0.413630497
+mucin core 1 and core 2  i o  i  glycosylation	0.423758121
+binding of tcf lef ctnnb1 to target gene promoters	0.429740288
+cell cell communication	0.443423562
+bile acid and bile salt metabolism	0.445883324
+wnt lrp6 signalling	0.476500613
+formation of senescence associated heterochromatin foci  sahf	0.476500613
+laminin interactions	0.47800566
+regulation of map kinase pathways through dual specificity phosphatases	0.478519051
+electric transmission across gap junctions	0.485668283
+copper homeostasis	0.501345345
+hedgehog  on  state	0.501345345
+klotho mediated ligand binding	0.501345345
+resolution of sister chromatid cohesion	0.501345345
+calcineurin regulated nfat dependent transcription in lymphocytes	0.501345345
+serotonin neurotransmitter release cycle	0.507022248
+ncam1 interactions	0.516648802
+mitotic prometaphase	0.516648802
+gpcrs  other	0.516648802
+dna damage response  only atm dependent	0.516648802
+overview of telomerase protein component gene htert transcriptional regulation	0.516648802
+ion channels and their functional role in vascular endothelium	0.516648802
+inflammatory response pathway	0.516648802
+cell cell junction organization	0.534003931
+termination of o glycan biosynthesis	0.534881008
+rho gtpase cycle	0.536626905
+cytokines and inflammatory response	0.556182944
+mineral absorption   homo sapiens  human	0.557097304
+retinoid metabolism and transport	0.557097304
+pou5f1  oct4   sox2  nanog repress genes related to differentiation	0.562702367
+ca2  pathway	0.568642262
+metapathway biotransformation	0.568865841
+platelet aggregation inhibitor pathway  pharmacodynamics	0.568865841
+cyclins and cell cycle regulation	0.568865841
+chondroitin sulfate dermatan sulfate metabolism	0.576324277
+tamoxifen action pathway	0.585098416
+nuclear receptors	0.594791928
+bdnf	0.594791928
+antagonism of activin by follistatin	0.596570904
+transmembrane transport of small molecules	0.596570904
+cell junction organization	0.596570904
+a tetrasaccharide linker sequence is required for gag synthesis	0.596570904
+peptide hormone metabolism	0.596570904
+type i hemidesmosome assembly	0.596570904
+dna damage telomere stress induced senescence	0.596570904
+malaria   homo sapiens  human	0.606712906
+tp53 regulates metabolic genes	0.606712906
+gastrin creb signalling pathway via pkc and mapk	0.606712906
+anti diabetic drug potassium channel inhibitors pathway  pharmacodynamics	0.606823946
+activation of noxa and translocation to mitochondria	0.607282794
+focal adhesion	0.613840601
+histidine metabolism   homo sapiens  human	0.614213675
+aldosterone regulated sodium reabsorption   homo sapiens  human	0.614213675
+extrinsic prothrombin activation pathway	0.614867698
+inactivation of gsk3 by akt causes accumulation of b catenin in alveolar macrophages	0.624399026
+ngf processing	0.626196179
+regulation of rac1 activity	0.627532683
+beta3 integrin cell surface interactions	0.642289844
+cardiac progenitor differentiation	0.642289844
+jak stat core	0.643087139
+polythiazide action pathway	0.643087139
+cell cycle   homo sapiens  human	0.643087139
+validated targets of c myc transcriptional repression	0.643087139
+rho gtpases activate formins Reactome	0.643087139
+interaction between l1 and ankyrins	0.643415568
+fgfr3b ligand binding and activation	0.644336142
+phenylethylamine degradation i	0.647375186
+arf6 trafficking events	0.652774364
+endochondral ossification	0.653309067
+wnt core	0.665637573
+jak stat signaling pathway   homo sapiens  human	0.666301868
+dermatan sulfate biosynthesis  late stages	0.666301868
+neurofascin interactions	0.67485556
+foxa1 transcription factor network	0.67485556
+synthesis of bile acids and bile salts via 7alpha hydroxycholesterol	0.67485556
+mammary gland development pathway   involution  stage 4 of 4	0.686882116
+hs gag biosynthesis	0.688953777
+amino acid and oligopeptide slc transporters	0.688953777
+ectoderm differentiation	0.693542595
+fibronectin matrix formation	0.695260123
+negative regulation of tcf dependent signaling by wnt ligand antagonists	0.714761371
+fibrinolysis pathway	0.714761371
+ion channel transport	0.716320924
+complement cascade	0.72266256
+integrated breast cancer pathway	0.72266256
+indomethacin action pathway	0.723448822
+passive transport by aquaporins	0.723448822
+neuronal system	0.723588569
+repression of wnt target genes	0.723588569
+sema4d induced cell migration and growth cone collapse	0.723588569
+monoamine transport	0.738176538
+asthma   homo sapiens  human	0.738176538
+phospholipase c epsilon pathway	0.740684434
+fosb gene expression and drug abuse	0.747019562
+neurotrophic factor mediated trk receptor signaling	0.751776533
+calcium signaling pathway   homo sapiens  human	0.759065691
+signaling by notch1	0.771141583
+fgf	0.771141583
+fluoropyrimidine pathway  pharmacokinetics	0.771141583
+cd40 cd40l signaling	0.771141583
+adenosine nucleotides degradation	0.771141583
+cell cycle  g1 s check point	0.771141583
+signalling to ras	0.771141583
+nuclear receptors meta pathway	0.771141583
+netrin 1 signaling	0.771141583
+histidine degradation	0.771141583
+mitotic g2 g2 m phases	0.773054334
+trka activation by ngf	0.773054334
+signaling by pdgf	0.773054334
+vegfr3 signaling in lymphatic endothelium	0.773054334
+signaling by vegf	0.773054334
+tachykinin receptors bind tachykinins	0.78088834
+asymmetric localization of pcp proteins	0.781397043
+urate biosynthesis inosine 5  phosphate degradation	0.786912032
+gap junction   homo sapiens  human	0.786912032
+dopamine neurotransmitter release cycle	0.791078497
+release of hh np from the secreting cell	0.791708293
+heparan sulfate heparin  hs gag  metabolism	0.791708293
+osteoblast signaling	0.791708293
+pi3k akt signaling in cancer	0.797152106
+conjugation of benzoate with glycine	0.797152106
+platelet amyloid precursor protein pathway	0.797152106
+creatine phosphate biosynthesis	0.800859561
+gaba synthesis  release  reuptake and degradation	0.800859561
+glutamate removal from folates	0.806963861
+fgfr4 ligand binding and activation	0.811128688
+g alpha  q  signalling events	0.812207805
+irs activation	0.812207805
+fluorouracil action pathway	0.812207805
+insulin signaling pathway	0.813860357
+fgfr2c ligand binding and activation	0.813860357
+fgfr3c ligand binding and activation	0.813860357
+g alpha  i  signalling events	0.818181152
+tnfr2 non canonical nf kb pathway	0.818587176
+prion pathway	0.818587176
+signalling to p38 via rit and rin	0.823320208
+phase i biotransformations  non p450	0.825111637
+the retinoid cycle in cones  daylight vision	0.825111637
+chondroitin sulfate biosynthesis  late stages	0.825111637
+integrated pancreatic cancer pathway	0.825214765
+pyrimidine catabolism	0.830202539
+regulation of lipolysis in adipocytes   homo sapiens  human	0.835125731
+fluoropyrimidine activity	0.835125731
+pou5f1  oct4   sox2  nanog repress genes related to differentiation Reactome	0.836564996
+downregulated of mta 3 in er negative breast tumors	0.836564996
+arms mediated activation	0.840186448
+autoimmune thyroid disease   homo sapiens  human	0.841079024
+aryl hydrocarbon receptor	0.841079024
+l dopachrome biosynthesis	0.841079024
+primary focal segmental glomerulosclerosis fsgs	0.850301844
+platelet homeostasis	0.850301844
+mapk signaling pathway   homo sapiens  human	0.850564129
+nrcam interactions	0.850564129
+cell cycle checkpoints	0.850564129
+signaling by fgfr4 mutants	0.85161539
+vitamin b12 metabolism	0.852594532
+alpha 6 beta 4 signaling pathway	0.854450159
+sema4d in semaphorin signaling	0.855249628
+frs2 mediated activation	0.855249628
+mtb iron assimilation by chelation	0.855249628
+pi3k akt activation	0.855249628
+melatonin degradation i	0.855249628
+organic anion transport	0.855249628
+xenobiotics metabolism	0.855249628
+osteoclast signaling	0.855249628
+vegfr2 mediated cell proliferation	0.855249628
+chemical carcinogenesis   homo sapiens  human	0.855249628
+muscle contraction	0.855249628
+metastatic brain tumor	0.855249628
+dopaminergic neurogenesis	0.855249628
+deactivation of the beta catenin transactivating complex	0.855249628
+inflammatory mediator regulation of trp channels   homo sapiens  human	0.855249628
+differentiation of white and brown adipocyte	0.855249628
+signalling to erks	0.855249628
+activation of camp dependent protein kinase pka	0.855249628
+wnt signaling pathway netpath	0.855249628
+voltage gated potassium channels	0.855249628
+syndecan 3 mediated signaling events	0.855249628
+biopterin metabolism	0.861208389
+bone remodeling	0.872748677
+natural killer cell mediated cytotoxicity   homo sapiens  human	0.872748677
+hydroxycarboxylic acid binding receptors	0.872748677
+betaklotho mediated ligand binding	0.876000044
+fgfr4 mutant receptor activation	0.876000044
+colorectal cancer   homo sapiens  human	0.878011756
+microtubule dependent trafficking of connexons from golgi to the plasma membrane	0.878011756
+prolonged erk activation events	0.879422091
+regulation of nuclear beta catenin signaling and target gene transcription	0.881477469
+sids susceptibility pathways	0.881477469
+acetylcholine neurotransmitter release cycle	0.883068475
+trka receptor signaling pathway	0.884114727
+influence of ras and rho proteins on g1 to s transition	0.885367503
+potassium channels	0.885367503
+insulin like growth factor 2 mrna binding proteins  igf2bps imps vickzs  bind rna	0.885367503
+non integrin membrane ecm interactions	0.885367503
+lysosphingolipid and lpa receptors	0.885367503
+sodium coupled sulphate  di  and tri carboxylate transporters	0.885367503
+signaling by fgfr2 amplification mutants	0.885367503
+t 4 14  translocations of fgfr3	0.885367503
+thyroid cancer   homo sapiens  human	0.885367503
+regulation of rhoa activity	0.885367503
+superpathway of choline degradation to l serine	0.885367503
+interleukin 7 signaling	0.885367503
+l1cam interactions	0.885367503
+tgf beta signaling pathway   homo sapiens  human	0.885782918
+il5 mediated signaling events	0.885782918
+calcium signaling in the cd4  tcr pathway	0.887340086
+fgfr1 ligand binding and activation	0.895750783
+dscam interactions	0.895750783
+folate malabsorption  hereditary	0.901041737
+superpathway of steroid hormone biosynthesis	0.901612253
+allograft rejection   homo sapiens  human	0.901612253
+sulfation biotransformation reaction	0.901612253
+acute myeloid leukemia   homo sapiens  human	0.901612253
+m phase	0.903241952
+effects of calcineurin in keratinocyte differentiation	0.903241952
+eicosanoid synthesis	0.903855465
+estrogen responsive protein efp controls cell cycle and breast tumors growth	0.903855465
+selenium micronutrient network	0.906048126
+eph ephrin mediated repulsion of cells	0.9115967
+pdgf receptor signaling network	0.9115967
+nf kappa b signaling pathway   homo sapiens  human	0.914741967
+renin angiotensin system   homo sapiens  human	0.915522061
+activation of c3 and c5	0.917587418
+fgf signaling pathway	0.917587418
+sos mediated signalling	0.930411027
+heroin action pathway	0.93402848
+interleukin receptor shc signaling	0.93421778
+g alpha  12 13  signalling events	0.93421778
+rho gtpase effectors	0.93421778
+aurora b signaling	0.93421778
+ras signaling pathway   homo sapiens  human	0.93421778
+signaling pathways in glioblastoma	0.93421778
+vegfa vegfr2 pathway	0.93421778
+dna damage response	0.93421778
+leucine stimulation on insulin signaling	0.939202028
+trafficking of glur2 containing ampa receptors	0.939202028
+purine catabolism	0.939202028
+actions of nitric oxide in the heart	0.939202028
+raf independent mapk1 3 activation	0.940459142
+frs mediated fgfr1 signaling	0.943498328
+neurotransmitter release cycle	0.943498328
+jak stat molecularvariation 1	0.943835103
+superpathway of melatonin degradation	0.947165692
+mapk family signaling cascades	0.947165692
+slc mediated transmembrane transport	0.949464764
+regulation of insulin like growth factor  igf  transport and uptake by insulin like growth factor binding proteins  igfbps	0.954942533
+complement activation  classical pathway	0.954942533
+rap1 signaling pathway   homo sapiens  human	0.954942533
+atf 2 transcription factor network	0.956077676
+il2 signaling events mediated by stat5	0.956077676
+rho gtpases activate nadph oxidases	0.956274397
+direct p53 effectors	0.956274397
+regulation of actin cytoskeleton	0.956274397
+serotonergic synapse   homo sapiens  human	0.956274397
+metabolism of angiotensinogen to angiotensins	0.956274397
+glycogen biosynthesis	0.964041657
+polo like kinase mediated events	0.964041657
+activated point mutants of fgfr2	0.964041657
+tcf dependent signaling in response to wnt Reactome	0.964041657
+metal ion slc transporters	0.964041657
+glycosphingolipid biosynthesis   lacto and neolacto series   homo sapiens  human	0.964041657
+cell cycle  mitotic	0.964847328
+egf ncore	0.978512632
+plk1 signaling events	0.978927708
+tryptophan metabolism EHMN	0.978927708
+linoleate metabolism	0.980776252
+arylamine metabolism	0.980776252
+internalization of erbb1	0.980776252
+prostate cancer   homo sapiens  human	0.987359264
+il 7 signaling pathway	0.995807283
+prostaglandin leukotriene metabolism	1
+netrin mediated signaling events	1
+nectin adhesion pathway	1
+long term depression   homo sapiens  human	1
+neurotoxicity of clostridium toxins	1
+rho gtpases activate cit	1
+morphine addiction   homo sapiens  human	1
+mirna regulation of dna damage response	1
+citalopram action pathway	1
+validated transcriptional targets of ap1 family members fra1 and fra2	1
+norepinephrine neurotransmitter release cycle	1
+aquaporin mediated transport	1
+cross presentation of particulate exogenous antigens  phagosomes	1
+lgi adam interactions	1
+tyrosine metabolism EHMN	1
+mapk1 mapk3 signaling	1
+viral myocarditis   homo sapiens  human	1
+il 7 signal transduction	1
+pi 3k cascade fgfr1	1
+e2f transcription factor network	1
+carbamazepine metabolism pathway	1
+g secretase mediated erbb4 signaling pathway	1
+androgen biosynthesis	1
+putrescine degradation iii	1
+role of egf receptor transactivation by gpcrs in cardiac hypertrophy	1
+interleukin 2 signaling	1
+transport of inorganic cations anions and amino acids oligopeptides	1
+hedgehog signaling pathway	1
+purine nucleotides degradation	1
+conjugation of carboxylic acids	1
+conjugation of salicylate with glycine	1
+guanine and guanosine salvage	1
+immunoregulatory interactions between a lymphoid and a non lymphoid cell	1
+sema4d mediated inhibition of cell attachment and migration	1
+purine deoxyribonucleosides degradation	1
+s1p2 pathway	1
+vegf and vegfr signaling network	1
+nfg and prongf binds to p75ntr	1
+bdnf signaling pathway	1
+chondroitin sulfate biosynthesis Reactome	1
+signaling by leptin	1
+metabolism of xenobiotics by cytochrome p450   homo sapiens  human	1
+amino acid conjugation of benzoic acid	1
+dap12 interactions	1
+signaling by egfr	1
+mirna targets in ecm and membrane receptors	1
+peptide ligand binding receptors	1
+breakdown of the nuclear lamina	1
+staphylococcus aureus infection   homo sapiens  human	1
+melanin biosynthesis	1
+signalling to stat3	1
+apc c cdc20 mediated degradation of mitotic proteins	1
+tnfs bind their physiological receptors	1
+uric acid lowering drugs pathway  pharmacodynamics	1
+thrombin signaling and protease activated receptors	1
+platelet activation  signaling and aggregation	1
+transcriptional  activation of  cell cycle inhibitor p21	1
+plexin d1 signaling	1
+nhr	1
+celecoxib action pathway	1
+etodolac action pathway	1
+mir targeted genes in muscle cell   tarbase	1
+shp2 signaling	1
+fceri mediated mapk activation	1
+vitamin a and carotenoid metabolism	1
+gpcr groupi metabotropic glutamate receptor	1
+g protein signaling pathways	1
+cytosolic sulfonation of small molecules	1
+integrin mediated cell adhesion	1
+glioma   homo sapiens  human	1
+heroin metabolism	1
+heroin metabolism pathway	1
+signaling by fgfr3 in disease	1
+o glycan biosynthesis	1
+ngf signalling via trka from the plasma membrane	1
+opsins	1
+sphingosine 1 phosphate  s1p  pathway	1
+il 13 signaling	1
+hemoglobins chaperone	1
+vegf signaling pathway	1
+toxicity of botulinum toxin type c  bont c	1
+response to elevated platelet cytosolic ca2	1
+nitric oxide signaling pathway	1
+the igf 1 receptor and longevity	1
+arginine proline metabolism	1
+pyrimidine metabolism Reactome	1
+regulation of eif 4e and p70s6 kinase	1
+activation of csk by camp dependent protein kinase inhibits signaling through the t cell receptor	1
+intestinal immune network for iga production   homo sapiens  human	1
+mirs in muscle cell differentiation	1
+vemurafenib pathway  pharmacodynamics	1
+bupropion degradation	1
+biogenic amines are oxidatively deaminated to aldehydes by maoa and maob	1
+aspirin triggered resolvin e biosynthesis	1
+cyclin d associated events in g1	1
+urokinase type plasminogen activator  upa  and upar mediated signaling	1
+antiarrhythmic pathway  pharmacodynamics	1
+hematopoietic cell lineage   homo sapiens  human	1
+fgfr2 ligand binding and activation	1
+hedgehog ligand biogenesis	1
+ace inhibitor pathway	1
+netrin mediated repulsion signals	1
+gab1 signalosome	1
+regulation of insulin secretion	1
+foxo signaling pathway   homo sapiens  human	1
+activation of apc c and apc c cdc20 mediated degradation of mitotic proteins	1
+glycerol 3 phosphate shuttle	1
+choline degradation	1
+cbl mediated ligand induced downregulation of egf receptors pathway	1
+signaling mediated by p38 alpha and p38 beta	1
+a6b1 and a6b4 integrin signaling	1
+other semaphorin interactions	1
+eptifibatide action pathway	1
+degradation of the rar and rxr by the proteasome	1
+pathogenic escherichia coli infection	1
+pathogenic escherichia coli infection   homo sapiens  human	1
+glycogen synthesis	1
+dap12 signaling	1
+prolactin signaling pathway   homo sapiens  human	1
+integrins in angiogenesis	1
+celecoxib metabolism pathway	1
+pathway_pa165986194  need delete	1
+nicotinamide salvaging	1
+degradation of gaba	1
+fgfr1c and klotho ligand binding and activation	1
+activation of ampa receptors	1
+pde3b signalling	1
+steroid hormone biosynthesis   homo sapiens  human	1
+carbohydrate digestion and absorption   homo sapiens  human	1
+toxicity of botulinum toxin type a  bont a	1
+toxicity of botulinum toxin type e  bont e	1
+phagosomal maturation  early endosomal stage	1
+calcium regulation in the cardiac cell	1
+rho gtpases activate rocks	1
+aflatoxin b1 metabolism	1
+syndecan 2 mediated signaling events	1
+pyrimidine deoxyribonucleosides degradation	1
+dermatan sulfate biosynthesis Reactome	1
+growth hormone receptor signaling	1
+glutamatergic synapse   homo sapiens  human	1
+folate metabolism	1
+hedgehog INOH	1
+role of lat2 ntal lab on calcium mobilization	1
+carvedilol action pathway	1
+disopyramide action pathway	1
+lidocaine  antiarrhythmic  action pathway	1
+interleukin 3  5 and gm csf signaling	1
+amphetamine addiction   homo sapiens  human	1
+arginine and proline metabolism   homo sapiens  human	1
+superpathway of tryptophan utilization	1
+cell cycle	1
+tamoxifen pathway  pharmacokinetics	1
+rac1 cell motility signaling pathway	1
+rankl rank signaling pathway	1
+trif mediated programmed cell death	1
+pertussis   homo sapiens  human	1
+oxidation by cytochrome p450	1
+histidine metabolism	1
+dopamine metabolism	1
+axon guidance   homo sapiens  human	1
+fluoropyrimidine pathway  pharmacodynamics	1
+synthesis of 15 eicosatetraenoic acid derivatives	1
+adenine and adenosine salvage iii	1
+ebv lmp1 signaling	1
+glutamate neurotransmitter release cycle	1
+doxorubicin pathway  cardiomyocyte cell   pharmacodynamics	1
+signaling by fgfr2 in disease	1
+chrebp regulation by carbohydrates and camp	1
+purine nucleotides nucleosides metabolism	1
+transcription factor creb and its extracellular signals	1
+retinol biosynthesis	1
+inactivation of cdc42 and rac	1
+tight junction   homo sapiens  human	1
+e cadherin signaling in the nascent adherens junction	1
+phenytoin  antiarrhythmic  action pathway	1
+ceramide signalling	1
+wnt signaling pathway BioCarta	1
+thyroid hormone metabolism ii  via conjugation and or degradation	1
+apoptotic cleavage of cell adhesion  proteins	1
+inactivation of apc c via direct inhibition of the apc c complex	1
+nrage signals death through jnk	1
+autointegration results in viral dna circles	1
+globo sphingolipid metabolism	1
+thrombin signalling through proteinase activated receptors  pars	1
+striated muscle contraction Reactome	1
+primary bile acid biosynthesis   homo sapiens  human	1
+serine biosynthesis	1
+mesodermal commitment pathway	1
+chondroitin sulfate biosynthesis	1
+glycosaminoglycan biosynthesis   chondroitin sulfate   dermatan sulfate   homo sapiens  human	1
+polycystic kidney disease pathway	1
+class ii gluts	1
+il 10 anti inflammatory signaling pathway	1
+glycoprotein hormones	1
+reelin signaling pathway	1
+vitamin d sub 3  sub  biosynthesis	1
+foxa2 and foxa3 transcription factor networks	1
+facilitative na  independent glucose transporters	1
+pancreatic cancer   homo sapiens  human	1
+metabolism of carbohydrates	1
+bile acid biosynthesis	1
+purine ribonucleosides degradation to ribose 1 phosphate	1
+nuclear receptors in lipid metabolism and toxicity	1
+gastric acid secretion   homo sapiens  human	1
+il 4 signaling pathway BioCarta	1
+clopidogrel pathway  pharmacokinetics	1
+transport of fatty acids	1
+visual signal transduction  cones	1
+role of erbb2 in signal transduction and oncology	1
+tryptophan degradation via tryptamine	1
+gemcitabine action pathway	1
+platelet degranulation	1
+platelet activation   homo sapiens  human	1
+vitamins	1
+adp signalling through p2y purinoceptor 12	1
+attenuation of gpcr signaling	1
+glycine serine metabolism	1
+pyrimidine metabolism	1
+glycerol phosphate shuttle	1
+signal attenuation	1
+beta oxidation of myristoyl coa to lauroyl coa	1
+intrinsic pathway of fibrin clot formation	1
+eumelanin biosynthesis	1
+depolymerisation of the nuclear lamina	1
+arrestins in gpcr desensitization	1
+insulin receptor signalling cascade	1
+signaling by fgfr in disease	1
+vasopressin regulates renal water homeostasis via aquaporins	1
+segmentation clock	1
+phospholipase c mediated cascade  fgfr4	1
+lysosomal glycogen catabolism	1
+hedgehog  on  state Reactome	1
+phospholipase c mediated cascade  fgfr3	1
+teniposide action pathway	1
+pi3k cascade	1
+downstream signaling events of b cell receptor  bcr	1
+rb tumor suppressor checkpoint signaling in response to dna damage	1
+serotonin receptors	1
+il23 mediated signaling events	1
+nicotinate metabolism	1
+g2 phase	1
+neuroregulin receptor degredation protein 1 controls erbb3 receptor recycling	1
+formation of the active cofactor  udp glucuronate	1
+glucuronidation Reactome	1
+insulin secretion   homo sapiens  human	1
+bmp2 signaling tgf beta mv	1
+downstream signaling of activated fgfr1	1
+degradation of superoxides	1
+synthesis of pa	1
+mitotic spindle checkpoint	1
+micrornas in cardiomyocyte hypertrophy	1
+aromatase inhibitor pathway  breast cell   pharmacodynamics	1
+blood clotting cascade	1
+the nlrp1 inflammasome	1
+nicotine degradation iii	1
+atp sensitive potassium channels	1
+endometrial cancer   homo sapiens  human	1
+class ib pi3k non lipid kinase events	1
+signaling by activin	1
+citalopram metabolism pathway	1
+guanosine nucleotides degradation	1
+tcf dependent signaling in response to wnt	1
+gap junction trafficking	1
+bmp signaling dro	1
+ra biosynthesis pathway	1
+notch signaling pathway PID	1
+alphae beta7 integrin cell surface interactions	1
+sialic acid metabolism	1
+e cadherin signaling in keratinocytes	1
+fosphenytoin  antiarrhythmic  metabolism pathway	1
+effects of pip2 hydrolysis	1
+phospholipase c mediated cascade  fgfr1	1
+glycosphingolipid biosynthesis   neolactoseries	1
+nicotine addiction   homo sapiens  human	1
+apc c cdc20 mediated degradation of securin	1
+one carbon pool by folate   homo sapiens  human	1
+g protein activation	1
+matrix metalloproteinases	1
+erk1 erk2 mapk signaling pathway	1
+salivary secretion   homo sapiens  human	1
+unwinding of dna	1
+synthesis of pips at the er membrane	1
+c src mediated regulation of cx43 function and closure of gap junctions	1
+signaling by hedgehog	1
+central carbon metabolism in cancer   homo sapiens  human	1
+amb2 integrin signaling	1
+glycogen synthetase deficiency	1
+prostacyclin signalling through prostacyclin receptor	1
+g1 to s cell cycle control	1
+arsenate detoxification i  glutaredoxin	1
+thromboxane signalling through tp receptor	1
+codeine action pathway	1
+desipramine action pathway	1
+escitalopram action pathway	1
+imipramine action pathway	1
+lidocaine  local anaesthetic  action pathway	1
+methadone action pathway	1
+nalbuphine action pathway	1
+fanconi anemia pathway	1
+arachidonic acid metabolism   homo sapiens  human	1
+rapoport luebering glycolytic shunt	1
+peptide gpcrs	1
+cdt1 association with the cdc6 orc origin complex	1
+serine biosynthesis  phosphorylated route	1
+riboflavin metabolism   homo sapiens  human	1
+signaling by fgfr1	1
+signaling by fgfr3	1
+role of second messengers in netrin 1 signaling	1
+phospholipase c mediated cascade  fgfr2	1
+igf core	1
+shc mediated cascade fgfr3	1
+leishmaniasis   homo sapiens  human	1
+g alpha  z  signalling events	1
+scf skp2  mediated degradation of p27 p21	1
+transcriptional activation of dbpb from mrna	1
+binding and uptake of ligands by scavenger receptors	1
+axonal growth stimulation	1
+signal transduction of s1p receptor	1
+syndecan interactions	1
+cocaine addiction   homo sapiens  human	1
+trp channels	1
+il2 mediated signaling events	1
+synthesis of prostaglandins  pg  and thromboxanes  tx	1
+signaling by retinoic acid	1
+hypoxia and p53 in the cardiovascular system	1
+cellular senescence	1
+role of  arrestins in the activation and targeting of map kinases	1
+condensation of prometaphase chromosomes	1
+generation of second messenger molecules	1
+the fatty acid cycling model	1
+agents acting on the renin angiotensin system pathway  pharmacodynamics	1
+formation of the beta catenin tcf transactivating complex	1
+post chaperonin tubulin folding pathway	1
+erythropoietin mediated neuroprotection through nf kb	1
+signaling by erbb4	1
+signaling by fgfr	1
+signaling by fgfr2	1
+insulin processing	1
+signaling by fgfr4 in disease	1
+role of phospholipids in phagocytosis	1
+acetone degradation i  to methylglyoxal	1
+rheumatoid arthritis   homo sapiens  human	1
+estradiol biosynthesis i	1
+senescence and autophagy in cancer	1
+urea cycle HumanCyc	1
+cd4 t cell receptor signaling jnk cascade	1
+erks are inactivated	1
+uricosurics pathway  pharmacodynamics	1
+activation of puma and translocation to mitochondria	1
+fluoxetine action pathway	1
+let 7 inhibition of es cell reprogramming	1
+transcriptional regulation of pluripotent stem cells Reactome	1
+cyclin b2 mediated events	1
+irs mediated signalling	1
+citrulline nitric oxide cycle	1
+signaling by insulin receptor	1
+signal transduction by l1	1
+amine oxidase reactions	1
+rho gtpases activate paks	1
+effects of nitric oxide	1
+etoposide pathway  pharmacokinetics pharmacodynamics	1
+signalling by ngf	1
+semaphorin interactions	1
+chronic myeloid leukemia   homo sapiens  human	1
+p53 dependent g1 dna damage response	1
+initial triggering of complement	1
+phosphorylation of proteins involved in g1 s transition by active cyclin e cdk2 complexes	1
+signaling by the b cell receptor  bcr	1
+rho gtpases activate iqgaps	1
+aromatase inhibitor pathway  multiple tissues   pharmacodynamics	1
+tgfbr1 kd mutants in cancer	1
+validated targets of c myc transcriptional activation	1
+pyrimidine deoxyribonucleotides  i de novo  i  biosynthesis	1
+2  deoxy  alpha  d ribose 1 phosphate degradation	1
+pyrimidine deoxyribonucleotides biosynthesis from ctp	1
+c myb transcription factor network	1
+signal regulatory protein  sirp  family interactions	1
+shc mediated cascade fgfr1	1
+histidine metabolism EHMN	1
+erk mapk targets	1
+adp signalling through p2y purinoceptor 1	1
+g beta gamma signalling through pi3kgamma	1
+il 2 receptor beta chain in t cell activation	1
+glycine betaine degradation	1
+signaling by nodal	1
+synthesis of udp n acetyl glucosamine	1
+sulfide oxidation to sulfate	1
+disinhibition of snare formation	1
+signaling by erbb2	1
+gpcrs  class c metabotropic glutamate  pheromone	1
+carm1 and regulation of the estrogen receptor	1
+ras independent pathway in nk cell mediated cytotoxicity	1
+regulation of signaling by nodal	1
+ahr signal transduction pathway	1
+ghrelin	1
+il2 signaling events mediated by pi3k	1
+toxoplasmosis   homo sapiens  human	1
+ibuprofen action pathway	1
+glypican 3 network	1
+cytokine signaling in immune system	1
+endogenous tlr signaling	1
+serotonin htr1 group and fos pathway	1
+type ii diabetes mellitus   homo sapiens  human	1
+zinc transporters	1
+lkb1 signaling events	1
+vitamin d  calciferol  metabolism	1
+pre notch transcription and translation	1
+toxicity of botulinum toxin type d  bont d	1
+spermine and spermidine degradation i	1
+irs related events triggered by igf1r	1
+cell cycle Reactome	1
+transmission across chemical synapses	1
+proteoglycan syndecan mediated signaling events	1
+vitamin b6 metabolism	1
+il11	1
+formyl peptide receptors bind formyl peptides and many other ligands	1
+pentose and glucuronate interconversions   homo sapiens  human	1
+removal of licensing factors from origins	1
+p38 mapk signaling pathway	1
+neurophilin interactions with vegf and vegfr	1
+multiple antiapoptotic pathways from igf 1r signaling lead to bad phosphorylation	1
+downstream signaling in na  xef ve cd8  t cells	1
+apc cdc20 mediated degradation of nek2a	1
+beta alanine metabolism   homo sapiens  human	1
+tumor suppressor arf inhibits ribosomal biogenesis	1
+fructose and mannose metabolism	1
+gap junction trafficking and regulation	1
+eph ephrin signaling	1
+taste transduction   homo sapiens  human	1
+ionomycin and phorbal ester signaling pathway	1
+tamoxifen metabolism	1
+pyrimidine deoxyribonucleosides salvage	1
+nicotine action pathway	1
+glycosaminoglycan biosynthesis   keratan sulfate   homo sapiens  human	1
+non small cell lung cancer   homo sapiens  human	1
+downstream signal transduction	1
+no2 dependent il 12 pathway in nk cells	1
+repression of pain sensation by the transcriptional regulator dream	1
+phase ii conjugation	1
+signal amplification	1
+glucagon like peptide 1  glp1  regulates insulin secretion	1
+g2 m dna replication checkpoint	1
+intrinsic prothrombin activation pathway	1
+fgfr1c ligand binding and activation	1
+signaling by activated point mutants of fgfr1	1
+p130cas linkage to mapk signaling for integrins	1
+sodium calcium exchangers	1
+plc gamma1 signalling	1
+unblocking of nmda receptor  glutamate binding and activation	1
+ctcf  first multivalent nuclear factor	1
+cell differentiation   meta	1
+basigin interactions	1
+beta oxidation of lauroyl coa to decanoyl coa coa	1
+oleate biosynthesis	1
+opioid signalling	1
+nicotinate nicotinamide metabolism	1
+creatine metabolism	1
+peptide hormone biosynthesis	1
+grb2 sos provides linkage to mapk signaling for integrins	1
+g beta gamma signalling through plc beta	1
+gastric cancer network 1	1
+b cell survival pathway	1
+tgf beta signaling pathway	1
+ca2  activated k  channels	1
+senescence associated secretory phenotype  sasp Reactome	1
+arginine biosynthesis   homo sapiens  human	1
+apoptotic cleavage of cellular proteins	1
+riboflavin metabolism	1
+trafficking of ampa receptors	1
+apoptosis	1
+inwardly rectifying k  channels	1
+mitotic telophase cytokinesis	1
+igf signaling	1
+wnt5a dependent internalization of fzd4	1
+cyanoamino acid metabolism   homo sapiens  human	1
+apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	1
+multi step regulation of transcription by pitx2	1
+apc cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	1
+cdc20 phospho apc c mediated degradation of cyclin a	1
+estrogen metabolism pathway	1
+epha mediated growth cone collapse	1
+hyperornithinemia with gyrate atrophy  hoga	1
+one carbon metabolism	1
+zinc efflux and compartmentalization by the slc30 family	1
+nuclear receptor transcription pathway	1
+phospholipases	1
+dtmp  i de novo  i  biosynthesis  mitochondrial	1
+sulfate sulfite metabolism	1
+transcription regulation by methyltransferase of carm1	1
+mir targeted genes in epithelium   tarbase	1
+hypertrophic cardiomyopathy  hcm    homo sapiens  human	1
+formation of tubulin folding intermediates by cct tric	1
+oxytocin signaling pathway   homo sapiens  human	1
+dermatan sulfate biosynthesis	1
+urea cycle and metabolism of amino groups	1
+negative regulation of tcf dependent signaling by dvl interacting proteins	1
+caspase activation via extrinsic apoptotic signalig pathway	1
+folate polyglutamylation	1
+il 9 signaling pathway	1
+mtor signaling pathway BioCarta	1
+notch signaling pathway Wikipathways	1
+ripk1 mediated regulated necrosis	1
+roles of  arrestin dependent recruitment of src kinases in gpcr signaling	1
+cadmium induces dna synthesis and proliferation in macrophages	1
+apc c mediated degradation of cell cycle proteins	1
+adrenaline noradrenaline inhibits insulin secretion	1
+cystic fibrosis transmembrane conductance regulator  cftr  and beta 2 adrenergic receptor  b2ar  pathway	1
+glucagon signaling in metabolic regulation	1
+pkc catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase	1
+heparan sulfate biosynthesis  late stages	1
+dopamine degradation	1
+g protein beta gamma signalling	1
+carnosinuria  carnosinemia	1
+shc mediated cascade fgfr4	1
+methotrexate pathway  cancer cell   pharmacodynamics	1
+nicotinate and nicotinamide metabolism   homo sapiens  human	1
+tgf beta receptor signaling in emt  epithelial to mesenchymal transition	1
+metabolism of anandamide an endogenous cannabinoid	1
+cardiac protection against ros	1
+ubiquitin dependent degradation of cyclin d1	1
+starch and sucrose metabolism   homo sapiens  human	1
+porphyrin metabolism EHMN	1
+arf6 downstream pathway	1
+darpp 32 events	1
+il 2 signaling	1
+presynaptic function of kainate receptors	1
+cdk mediated phosphorylation and removal of cdc6	1
+ap 1 transcription factor network	1
+nuclear events  kinase and transcription factor activation	1
+irinotecan pathway  pharmacodynamics	1
+etoposide action pathway	1
+nrf2 pathway	1
+na  cl  dependent neurotransmitter transporters	1
+hedgehog	1
+ligand dependent caspase activation	1
+synthesis  secretion  and inactivation of glucagon like peptide 1  glp 1	1
+gaba shunt	1
+nade modulates death signalling	1
+ikk complex recruitment mediated by rip1	1
+glutathione metabolism	1
+elevation of cytosolic ca2  levels	1
+trafficking of myristoylated proteins to the cilium	1
+role of erk5 in neuronal survival pathway	1
+il3 mediated signaling events	1
+synthesis of substrates in n glycan biosythesis	1
+activation of kainate receptors upon glutamate binding	1
+serotonin receptor 2 and elk srf gata4 signaling	1
+fc epsilon receptor  fceri  signaling	1
+ppar alpha pathway	1
+gp1b ix v activation signalling	1
+aspirin blocks signaling pathway involved in platelet activation	1
+role of pi3k subunit p85 in regulation of actin organization and cell migration	1
+lipoate metabolism	1
+insulin signalling	1
+g1 s dna damage checkpoints	1
+sonic hedgehog receptor ptc1 regulates cell cycle	1
+pyrimidine biosynthesis	1
+molecules associated with elastic fibres	1
+urea cycle	1
+oncogene induced senescence Reactome	1
+folate metabolism INOH	1
+vegf	1
+stathmin and breast cancer resistance to antimicrotubule agents	1
+acetylcholine regulates insulin secretion	1
+phospholipase c signaling pathway	1
+serotonin degradation	1
+graft versus host disease   homo sapiens  human	1
+pelp1 modulation of estrogen receptor activity	1
+apoptosis modulation and signaling	1
+mycophenolic acid pathway  pharmacokinetics pharmacodynamics	1
+programmed cell death	1
+vascular smooth muscle contraction   homo sapiens  human	1
+cam pde 1 activation	1
+carbamazepine pathway  pharmacokinetics	1
+arachidonic acid metabolism	1
+vegf binds to vegfr leading to receptor dimerization	1
+the visual cycle i  vertebrates	1
+pre notch expression and processing Reactome	1
+p75ntr negatively regulates cell cycle via sc1	1
+taurine and hypotaurine metabolism   homo sapiens  human	1
+glutathione mediated detoxification	1
+endoderm differentiation	1
+retrograde endocannabinoid signaling   homo sapiens  human	1
+homologous dna pairing and strand exchange	1
+presynaptic phase of homologous dna pairing and strand exchange	1
+vitamin b6 metabolism   homo sapiens  human	1
+ras activation uopn ca2  infux through nmda receptor	1
+hh core	1
+nef and signal transduction	1
+ccr3 signaling in eosinophils	1
+il8  and cxcr2 mediated signaling events	1
+doxorubicin pathway  pharmacokinetics	1
+tgf core	1
+proximal tubule bicarbonate reclamation   homo sapiens  human	1
+bile salt and organic anion slc transporters	1
+noradrenaline and adrenaline degradation	1
+regulation of nuclear smad2 3 signaling	1
+glial cell differentiation	1
+il 10 signaling	1
+gpvi mediated activation cascade	1
+type ii interferon signaling  ifng	1
+il 7	1
+dna replication Reactome	1
+nuclear signaling by erbb4	1
+irinotecan pathway  pharmacokinetics	1
+shc mediated cascade fgfr2	1
+alpha6beta4integrin	1
+glycine  serine  alanine and threonine metabolism	1
+biological oxidations	1
+serine and glycine biosynthesis	1
+ceramide  i de novo  i  biosynthesis	1
+udp  i n  i  acetyl d galactosamine biosynthesis ii	1
+acyl chain remodelling of pi	1
+leukotriene modifiers pathway  pharmacodynamics	1
+phenytoin pathway  pharmacokinetics	1
+chromosome maintenance	1
+cell death signalling via nrage  nrif and nade	1
+akt signaling pathway	1
+er quality control compartment  erqc	1
+apobec3g mediated resistance to hiv 1 infection	1
+signaling events regulated by ret tyrosine kinase	1
+reactive oxygen species degradation	1
+negative regulation of mapk pathway	1
+2 ltr circle formation	1
+ligand gated ion channel transport	1
+endocrine and other factor regulated calcium reabsorption   homo sapiens  human	1
+il1 and megakaryotyces in obesity	1
+nicotine activity on dopaminergic neurons	1
+trehalose degradation	1
+drug metabolism   other enzymes   homo sapiens  human	1
+smad2 3 phosphorylation motif mutants in cancer	1
+cyclin a b1 associated events during g2 m transition	1
+ketogenesis	1
+trail  signaling	1
+signaling by scf kit	1
+fc gamma r mediated phagocytosis   homo sapiens  human	1
+activation of nima kinases nek9  nek6  nek7	1
+degradation of cysteine and homocysteine	1
+abacavir pathway  pharmacokinetics pharmacodynamics	1
+rac1 pak1 p38 mmp 2 pathway	1
+serotonin transporter activity	1
+cyclin e associated events during g1 s transition	1
+tcr signaling	1
+trans sulfuration and one carbon metabolism	1
+dilated cardiomyopathy   homo sapiens  human	1
+lactose degradation	1
+attachment of gpi anchor to upar	1
+il 2 signaling pathway	1
+bicarbonate transporters	1
+fgfr2b ligand binding and activation	1
+p38 mapk signaling pathway BioCarta	1
+glycogen breakdown  glycogenolysis	1
+cxcr4 signaling pathway	1
+pdgf signaling pathway	1
+mycophenolic acid metabolism pathway	1
+mycophenolic acid pathway  pharmacokinetics	1
+betaine metabolism	1
+mir targeted genes in leukocytes   tarbase	1
+pyrimidine salvage reactions	1
+mitotic g1 g1 s phases	1
+rac1 signaling pathway	1
+regulation of fzd by ubiquitination	1
+mitochondrial beta oxidation of short chain saturated fatty acids	1
+morphine action pathway	1
+assembly of the pre replicative complex	1
+vitamin d metabolism	1
+purine nucleoside phosphorylase deficiency	1
+integration of energy metabolism	1
+amine ligand binding receptors	1
+monoamine gpcrs	1
+synthesis of pg	1
+glucuronidation	1
+pyrimidine nucleotides nucleosides metabolism	1
+sphingomyelin metabolism ceramide salvage	1
+sumoylation as a mechanism to modulate ctbp dependent gene responses	1
+il 4 signaling pathway	1
+gpcr dopamine d1like receptor	1
+nerve growth factor pathway  ngf	1
+tnf signaling pathway   homo sapiens  human	1
+epha2 forward signaling	1
+galactosemia iii	1
+il 4 signaling	1
+incretin synthesis  secretion  and inactivation Reactome	1
+synthesis  secretion  and inactivation of glucose dependent insulinotropic polypeptide  gip	1
+keratinocyte differentiation	1
+beta agonist beta blocker pathway  pharmacodynamics	1
+role of calcineurin dependent nfat signaling in lymphocytes	1
+signaling by notch	1
+cdc6 association with the orc origin complex	1
+aurora a signaling	1
+mitochondrial fatty acid beta oxidation of saturated fatty acids	1
+signaling by robo receptor	1
+a4b7 integrin signaling	1
+inactivation  recovery and regulation of the phototransduction cascade	1
+signaling by tgf beta receptor complex in cancer	1
+irinotecan pathway	1
+par1 mediated thrombin signaling events	1
+regulation of ck1 cdk5 by type 1 glutamate receptors	1
+mapk6 mapk4 signaling Reactome	1
+innate immune system	1
+antigen activates b cell receptor  bcr  leading to generation of second messengers	1
+glut 1 deficiency syndrome	1
+effects of botulinum toxin	1
+acyl chain remodelling of ps	1
+myometrial relaxation and contraction pathways	1
+cyclin a cdk2 associated events at s phase entry	1
+p75ntr regulates axonogenesis	1
+rip mediated nfkb activation via zbp1	1
+prefoldin mediated transfer of substrate  to cct tric	1
+rho cell motility signaling pathway	1
+gemcitabine pathway  pharmacodynamics	1
+creb phosphorylation	1
+p75 ntr  mediated signaling	1
+bh3 only proteins associate with and inactivate anti apoptotic bcl 2 members	1
+superpathway of pyrimidine deoxyribonucleotides  i de novo  i  biosynthesis	1
+vegf signaling pathway   homo sapiens  human	1
+estrogen metabolism	1
+vegfr1 specific signals	1
+ephrin signaling	1
+activation of matrix metalloproteinases	1
+phospholipids as signalling intermediaries	1
+bmp signalling pathway	1
+activation of pkc through g protein coupled receptors	1
+syndecan 4 mediated signaling events	1
+notch mediated hes hey network	1
+rho gtpases activate rhotekin and rhophilins	1
+elastic fibre formation	1
+apoptosis Reactome	1
+arylhydrocarbon receptor  ahr  signaling pathway	1
+ras signaling pathway	1
+inhibition of matrix metalloproteinases	1
+primary immunodeficiency   homo sapiens  human	1
+rho selective guanine exchange factor akap13 mediates stress fiber formation	1
+cdc42 signaling events	1
+cd40l signaling pathway	1
+heart development	1
+terminal  i o  i  glycans residues modification	1
+neurotransmitter receptor binding and downstream transmission in the  postsynaptic cell	1
+zinc influx into cells by the slc39 gene family	1
+presenilin action in notch and wnt signaling	1
+neurotrophin signaling pathway   homo sapiens  human	1
+cooperation of prefoldin and tric cct  in actin and tubulin folding	1
+alpha4 beta1 integrin signaling events	1
+acyl chain remodelling of pg	1
+nicotine degradation iv	1
+the phototransduction cascade	1
+organic cation anion zwitterion transport	1
+butanoate metabolism   homo sapiens  human	1
+glycosaminoglycan biosynthesis   heparan sulfate   heparin   homo sapiens  human	1
+btg family proteins and cell cycle regulation	1
+thyroid hormone signaling pathway   homo sapiens  human	1
+mapk targets  nuclear events mediated by map kinases	1
+post translational protein modification	1
+allograft rejection	1
+dopaminergic synapse   homo sapiens  human	1
+aflatoxin activation and detoxification	1
+association of licensing factors with the pre replicative complex	1
+ion transport by p type atpases	1
+apoptotic execution  phase	1
+c20 prostanoid biosynthesis	1
+the canonical retinoid cycle in rods  twilight vision	1
+insulin receptor recycling	1
+insulin pathway	1
+hepatitis b   homo sapiens  human	1
+regulation of cdc42 activity	1
+corticosteroids and cardioprotection	1
+nanoparticle triggered regulated necrosis	1
+caspase cascade in apoptosis	1
+e2f1 destruction pathway	1
+piwi interacting rna  pirna  biogenesis	1
+oncostatin m signaling pathway	1
+cyclophosphamide pathway  pharmacodynamics	1
+bioactive peptide induced signaling pathway	1
+hypothetical network for drug addiction	1
+systemic lupus erythematosus   homo sapiens  human	1
+integration of provirus	1
+cgmp pkg signaling pathway   homo sapiens  human	1
+antigen processing cross presentation	1
+synthesis and degradation of ketone bodies   homo sapiens  human	1
+linoleic acid metabolism   homo sapiens  human	1
+age rage pathway	1
+ibuprofen metabolism pathway	1
+the co stimulatory signal during t cell activation	1
+noncanonical wnt signaling pathway	1
+long term potentiation   homo sapiens  human	1
+heparan sulfate biosynthesis	1
+interleukin 11 signaling pathway	1
+warfarin pathway  pharmacodynamics	1
+the 41bb dependent immune response	1
+trk receptor signaling mediated by pi3k and plc gamma	1
+sphingolipid signaling pathway   homo sapiens  human	1
+stat3 signaling pathway	1
+cyclin e destruction pathway	1
+nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells	1
+mapk signaling pathway	1
+tsh signaling pathway	1
+glutathione synthesis and recycling	1
+phosphorylation of the apc c	1
+dag and ip3 signaling	1
+3 phosphoglycerate dehydrogenase deficiency	1
+hedgehog signaling events mediated by gli proteins	1
+guanosine deoxyribonucleotides  i de novo  i  biosynthesis	1
+nlr proteins	1
+formation of annular gap junctions	1
+growth hormone signaling	1
+sprouty regulation of tyrosine kinase signals	1
+bile acid biosynthesis  neutral pathway	1
+hyaluronan uptake and degradation	1
+zidovudine pathway  pharmacokinetics pharmacodynamics	1
+epha forward signaling	1
+cell differentiation   index	1
+choline metabolism in cancer   homo sapiens  human	1
+alk in cardiac myocytes	1
+p75ntr recruits signalling complexes	1
+s phase	1
+conversion from apc c cdc20 to apc c cdh1 in late anaphase	1
+reversible hydration of carbon dioxide	1
+type i diabetes mellitus   homo sapiens  human	1
+il8  and cxcr1 mediated signaling events	1
+egf signaling pathway	1
+ganglio sphingolipid metabolism	1
+synthesis of pyrophosphates in the cytosol	1
+egfr dependent endothelin signaling events	1
+sulfur metabolism   homo sapiens  human	1
+cdo in myogenesis	1
+t cell receptor signaling pathway	1
+tgf beta signaling pathway BioCarta	1
+ligand independent caspase activation via dcc	1
+regulation by c flip	1
+tarbasepathway	1
+negative regulators of rig i mda5 signaling	1
+gamma glutamyl transpeptidase deficiency	1
+regulation of bad phosphorylation	1
+vinblastine action pathway	1
+vincristine action pathway	1
+synthesis of leukotrienes  lt  and eoxins  ex	1
+il 7 signaling	1
+glycogen metabolism	1
+fcgamma receptor  fcgr  dependent phagocytosis	1
+mitochondrial beta oxidation of long chain saturated fatty acids	1
+tyrosine metabolism	1
+synthesis of dna	1
+toll like receptor 3  tlr3  cascade	1
+yap1  and wwtr1  taz  stimulated gene expression	1
+valine  leucine and isoleucine degradation	1
+angiogenesis	1
+retrograde neurotrophin signalling	1
+oocyte meiosis   homo sapiens  human	1
+igf 1 signaling pathway	1
+progesterone mediated oocyte maturation   homo sapiens  human	1
+uptake and actions of bacterial toxins	1
+signaling mediated by p38 gamma and p38 delta	1
+striated muscle contraction	1
+negative regulation of fgfr4 signaling	1
+regulation of apc c activators between g1 s and early anaphase	1
+orc1 removal from chromatin	1
+negative regulation of fgfr3 signaling	1
+factors involved in megakaryocyte development and platelet production	1
+signaling pathway from g protein families	1
+signaling by bmp	1
+ovarian steroidogenesis   homo sapiens  human	1
+synaptic vesicle pathway	1
+glypican 1 network	1
+sema3a plexin repulsion signaling by inhibiting integrin adhesion	1
+epo signaling	1
+mtor signaling pathway   homo sapiens  human	1
+membrane binding and targetting of gag proteins	1
+regulation of the fanconi anemia pathway	1
+gmcsf mediated signaling events	1
+inflammasomes	1
+folate biosynthesis   homo sapiens  human	1
+activation of nmda receptor upon glutamate binding and postsynaptic events	1
+nicotinate and nicotinamide metabolism	1
+glycosphingolipid biosynthesis   globo series   homo sapiens  human	1
+adherens junctions interactions	1
+zbp1 dai  mediated induction of type i ifns	1
+role of ran in mitotic spindle regulation	1
+egfr interacts with phospholipase c gamma	1
+glycosphingolipid biosynthesis   ganglio series   homo sapiens  human	1
+signaling by notch1 Reactome	1
+adherens junction   homo sapiens  human	1
+hyaluronan metabolism	1
+gap junction degradation	1
+d  i myo  i  inositol  1 4 5  trisphosphate biosynthesis	1
+advanced glycosylation endproduct receptor signaling	1
+pdgf pathway	1
+gabaergic synapse   homo sapiens  human	1
+abc family proteins mediated transport	1
+degradation of beta catenin by the destruction complex Reactome	1
+erbb receptor signaling network	1
+signaling events mediated by ptp1b	1
+prolactin signaling pathway	1
+iron metabolism in placenta	1
+inhibition of cellular proliferation by gleevec	1
+mechanism of gene regulation by peroxisome proliferators via ppara	1
+notch1 intracellular domain regulates transcription	1
+vitamin b9  folate  metabolism	1
+mir targeted genes in lymphocytes   tarbase	1
+negative regulation of fgfr1 signaling	1
+abc transporters   homo sapiens  human	1
+id	1
+calnexin calreticulin cycle	1
+rankl	1
+il 2 signaling pathway BioCarta	1
+selenoamino acid metabolism	1
+fas  cd95  signaling pathway	1
+map2k and mapk activation	1
+phase 1   functionalization of compounds	1
+corticotropin releasing hormone	1
+purine salvage	1
+platinum pathway  pharmacokinetics pharmacodynamics	1
+glycolysis	1
+plcg1 events in erbb2 signaling	1
+autodegradation of cdh1 by cdh1 apc c	1
+n cadherin signaling events	1
+activated tlr4 signalling	1
+alcoholism   homo sapiens  human	1
+stress induction of hsp regulation	1
+rala downstream regulated genes	1
+myd88 mal cascade initiated on plasma membrane	1
+activation of g protein gated potassium channels	1
+mercaptopurine action pathway	1
+leptin	1
+activation of bh3 only proteins	1
+familial lipoprotein lipase deficiency	1
+signaling by interleukins	1
+dex h box helicases activate type i ifn and inflammatory cytokines production	1
+protein kinase a at the centrosome	1
+chemokine signaling pathway   homo sapiens  human	1
+busulfan pathway  pharmacodynamics	1
+hematopoietic stem cell differentiation	1
+negative regulation of fgfr2 signaling	1
+valproic acid pathway  pharmacodynamics	1
+smooth muscle contraction	1
+signaling events mediated by focal adhesion kinase	1
+c21 steroid hormone biosynthesis and metabolism	1
+3 phosphoinositide biosynthesis	1
+tetrahydrobiopterin  bh4  synthesis  recycling  salvage and regulation	1
+drug metabolism   cytochrome p450   homo sapiens  human	1
+n glycan antennae elongation	1
+proton pump inhibitor pathway  pharmacodynamics	1
+the activation of arylsulfatases	1
+tnfr2 signaling pathway	1
+galactose metabolism	1
+chagas disease  american trypanosomiasis    homo sapiens  human	1
+prolactin receptor signaling	1
+fgfr1 mutant receptor activation	1
+estrogen receptor pathway	1
+dimethyl branched chain fatty acid mitochondrial beta oxidation	1
+p38mapk events	1
+jnk signaling in the cd4  tcr pathway	1
+g protein mediated events	1
+plc beta mediated events	1
+initiation of nuclear envelope reformation	1
+srf and mirs in smooth muscle differentiation and proliferation	1
+hdms demethylate histones	1
+recycling pathway of l1	1
+apoptosis related network due to altered notch3 in ovarian cancer	1
+deregulation of rab and rab effector genes in bladder cancer	1
+integrin alphaiib beta3 signaling	1
+regulation of p27 phosphorylation during cell cycle progression	1
+glutathione metabolism   homo sapiens  human	1
+cytochrome p450   arranged by substrate type	1
+trail signaling pathway	1
+sialuria or french type sialuria	1
+leptin signaling pathway	1
+ovarian infertility genes	1
+bcr	1
+galactose metabolism INOH	1
+map kinase activation in tlr cascade	1
+egf core	1
+amino sugar and nucleotide sugar metabolism   homo sapiens  human	1
+il9	1
+erbb signaling pathway	1
+tgf beta signaling pathway Wikipathways	1
+egfr downregulation	1
+tryptophan degradation	1
+b cell receptor signaling pathway   homo sapiens  human	1
+degradation of dvl	1
+inhibition of replication initiation of damaged dna by rb1 e2f1	1
+activation of ca permeable kainate receptor	1
+cori cycle	1
+lysine degradation	1
+ephb forward signaling	1
+traf6 mediated induction of proinflammatory cytokines	1
+jak stat molecularvariation 2	1
+nitrogen metabolism   homo sapiens  human	1
+akap95 role in mitosis and chromosome dynamics	1
+mfap5 mediated ovarian cancer cell motility and invasiveness	1
+signaling events mediated by hdac class iii	1
+diuretics pathway  pharmacodynamics	1
+g1 s transition	1
+leucine degradation	1
+alpha linolenic acid metabolism   homo sapiens  human	1
+rxr and rar heterodimerization with other nuclear receptor	1
+epo receptor signaling	1
+metabolism of nucleotides	1
+overview of nanoparticle effects	1
+biosynthesis of the n glycan precursor  dolichol lipid linked oligosaccharide  llo  and transfer to a nascent protein	1
+abc transporters in lipid homeostasis	1
+traf6 mediated induction of tak1 complex	1
+fc epsilon receptor i signaling in mast cells BioCarta	1
+bile secretion   homo sapiens  human	1
+apc c cdc20 mediated degradation of cyclin b	1
+calmodulin induced events	1
+nf kb is activated and signals survival	1
+folate transformations i	1
+pre notch processing in golgi	1
+platelet calcium homeostasis	1
+bmp receptor signaling	1
+quercetin and nf kb  ap 1 induced cell apoptosis	1
+gata3 participate in activating the th2 cytokine genes expression	1
+guanosine nucleotides  i de novo  i  biosynthesis	1
+signaling events mediated by tcptp	1
+early phase of hiv life cycle	1
+bmal1 clock npas2 activates circadian gene expression	1
+tgf beta super family signaling pathway canonical	1
+homologous recombination	1
+thyroid hormone synthesis   homo sapiens  human	1
+acyl chain remodelling of pe	1
+id signaling pathway	1
+role of nicotinic acetylcholine receptors in the regulation of apoptosis	1
+downregulation of tgf beta receptor signaling	1
+n glycan trimming in the er and calnexin calreticulin cycle	1
+disassembly of the destruction complex and recruitment of axin to the membrane	1
+doxorubicin metabolism pathway	1
+tpo signaling pathway	1
+lissencephaly gene  lis1  in neuronal migration and development PID	1
+bacterial invasion of epithelial cells   homo sapiens  human	1
+thiopurine pathway  pharmacokinetics pharmacodynamics	1
+il 6 signaling pathway BioCarta	1
+bmp signalling and regulation	1
+ephb mediated forward signaling	1
+rho gtpases activate pkns	1
+diseases of signal transduction	1
+antimetabolite pathway   folate cycle  pharmacodynamics	1
+superpathway of pyrimidine deoxyribonucleoside salvage	1
+akt phosphorylates targets in the cytosol	1
+alpha synuclein signaling	1
+assembly of the hiv virion	1
+creb phosphorylation through the activation of ras	1
+downstream tcr signaling	1
+regulation of telomerase	1
+erbb signaling pathway   homo sapiens  human	1
+aryl hydrocarbon receptor pathway	1
+chemokine receptors bind chemokines	1
+golgi cisternae pericentriolar stack reorganization	1
+fceri mediated ca 2 mobilization	1
+pancreatic secretion   homo sapiens  human	1
+nrif signals cell death from the nucleus	1
+fmlp induced chemokine gene expression in hmc 1 cells	1
+purine metabolism Reactome	1
+extracellular vesicle mediated signaling in recipient cells	1
+arachidonic acid metabolism EHMN	1
+ras signaling in the cd4  tcr pathway	1
+tweak	1
+validated nuclear estrogen receptor alpha network	1
+agrin in postsynaptic differentiation	1
+atypical nf kappab pathway	1
+insulin mediated glucose transport	1
+long chain acyl coa dehydrogenase deficiency  lcad	1
+toll like receptor 4  tlr4  cascade	1
+activation of irf3 irf7 mediated by tbk1 ikk epsilon	1
+fanconi anemia pathway PID	1
+activated notch1 transmits signal to the nucleus	1
+phosphorylation of mek1 by cdk5 p35 down regulates the map kinase pathway	1
+il27 mediated signaling events	1
+ether lipid metabolism   homo sapiens  human	1
+retinoic acid receptors mediated signaling	1
+ca dependent events	1
+irinotecan action pathway	1
+degradation of gli2 by the proteasome	1
+glycosaminoglycan degradation   homo sapiens  human	1
+regulation of ras family activation	1
+mitochondrial fatty acid beta oxidation	1
+acetaminophen metabolism pathway	1
+crh	1
+amyotrophic lateral sclerosis  als    homo sapiens  human	1
+mcalpain and friends in cell motility	1
+oxidative stress induced senescence Reactome	1
+dcc mediated attractive signaling	1
+clec7a  dectin 1  induces nfat activation	1
+synaptic vesicle cycle   homo sapiens  human	1
+regulation of retinoblastoma protein	1
+p75 ntr receptor mediated signalling	1
+sphingolipid de novo biosynthesis	1
+phagosome   homo sapiens  human	1
+cholinergic synapse   homo sapiens  human	1
+mitochondrial biogenesis	1
+s1p3 pathway	1
+synthesis of pips at the early endosome membrane	1
+lpa4 mediated signaling events	1
+retinol metabolism   homo sapiens  human	1
+protein ubiquitylation	1
+p38 mapk signaling pathway PID	1
+dna strand elongation	1
+thromboxane a2 receptor signaling	1
+lissencephaly gene  lis1  in neuronal migration and development	1
+amino acid synthesis and interconversion  transamination	1
+isg15 antiviral mechanism	1
+s1p1 pathway	1
+urea cycle and metabolism of arginine  proline  glutamate  aspartate and asparagine	1
+control of skeletal myogenesis by hdac and calcium calmodulin dependent kinase  camk	1
+adp ribosylation factor	1
+bmal1 clock npas2 activates circadian gene expression Reactome	1
+synthesis of pc	1
+homologous recombination repair of replication independent double strand breaks	1
+erbb4 signaling events	1
+vegf hypoxia and angiogenesis	1
+kitreceptor	1
+platelet aggregation  plug formation	1
+constitutive signaling by egfrviii	1
+pten dependent cell cycle arrest and apoptosis	1
+acyl chain remodelling of pc	1
+glycosphingolipid biosynthesis   globoseries	1
+osteoclast differentiation   homo sapiens  human	1
+vitamin a deficiency	1
+nicotine pathway  dopaminergic neuron   pharmacodynamics	1
+tie2 signaling	1
+dna replication pre initiation	1
+doxorubicin pathway  cancer cell   pharmacodynamics	1
+telomeres telomerase cellular aging and immortality	1
+mir targeted genes in squamous cell   tarbase	1
+aminosugars metabolism INOH	1
+wnt ncore	1
+bmp2 signaling tak1	1
+fatty acid  beta  oxidation	1
+steroid biosynthesis   homo sapiens  human	1
+lamivudine metabolism pathway	1
+pka activation	1
+pka activation in glucagon signalling	1
+fc epsilon ri signaling pathway   homo sapiens  human	1
+jak stat pathway and regulation	1
+creb phosphorylation through the activation of camkii	1
+il4	1
+p75ntr signals via nf kb	1
+synthesis of pips at the plasma membrane	1
+g0 and early g1	1
+disulfiram action pathway	1
+type ii diabetes mellitus	1
+fceri mediated nf kb activation	1
+oxidative stress induced gene expression via nrf2	1
+structural pathway of interleukin 1  il 1	1
+tnfr1 signaling pathway	1
+bisphosphonate pathway  pharmacodynamics	1
+coregulation of androgen receptor activity	1
+endogenous sterols	1
+fat digestion and absorption   homo sapiens  human	1
+gpcr adenosine a2a receptor	1
+mitotic g2 g2 m phases Reactome	1
+ucalpain and friends in cell spread	1
+how progesterone initiates the oocyte maturation	1
+constitutive signaling by ligand responsive egfr cancer variants	1
+plasma membrane estrogen receptor signaling	1
+gluconeogenesis HumanCyc	1
+regulation of signaling by cbl	1
+scavenging by class a receptors	1
+trk receptor signaling mediated by the mapk pathway	1
+measles   homo sapiens  human	1
+il6 mediated signaling events	1
+synthesis and interconversion of nucleotide di  and triphosphates	1
+biosynthesis of unsaturated fatty acids   homo sapiens  human	1
+mitochondrial electron transport chain	1
+glycolysis gluconeogenesis	1
+triacylglyceride synthesis	1
+igf1 pathway	1
+serotonin receptor 4 6 7 and nr3c signaling	1
+cdk regulation of dna replication	1
+jak stat ncore	1
+tcr	1
+pka mediated phosphorylation of creb	1
+n glycan antennae elongation in the medial trans golgi	1
+trefoil factors initiate mucosal healing	1
+metabolism of amino acids and derivatives	1
+human cytomegalovirus and map kinase pathways	1
+signaling by fgfr1 mutants	1
+oxygen dependent proline hydroxylation of hypoxia inducible factor alpha	1
+mitochondrial lc fatty acid beta oxidation	1
+tgf beta receptor signaling activates smads	1
+selenocompound metabolism   homo sapiens  human	1
+tgf ncore	1
+internal ribosome entry pathway	1
+gluconeogenesis	1
+post nmda receptor activation events	1
+atm signaling pathway	1
+d  i myo  i  inositol 5 phosphate metabolism	1
+hiv 1 nef  negative effector of fas and tnf alpha	1
+s adenosylhomocysteine  sah  hydrolase deficiency	1
+synthesis of pips at the golgi membrane	1
+propanoate metabolism EHMN	1
+myd88 cascade initiated on plasma membrane	1
+fanconi anemia pathway   homo sapiens  human	1
+glycolysis HumanCyc	1
+endothelins	1
+ppar signaling pathway   homo sapiens  human	1
+activation of nf kappab in b cells	1
+parkinsons disease pathway	1
+activated tak1 mediates p38 mapk activation	1
+cd209  dc sign  signaling	1
+ceramide signaling pathway	1
+steroid hormones	1
+toll like receptor pathway	1
+nucleotide metabolism	1
+mitochondrial gene expression	1
+traf6 mediated induction of nfkb and map kinases upon tlr7 8 or 9 activation	1
+hif 1 alpha transcription factor network	1
+angiopoietin receptor tie2 mediated signaling	1
+atr signaling pathway	1
+nuclear envelope breakdown	1
+immune system	1
+2 hydroxyglutric aciduria  d and l form	1
+detoxification of reactive oxygen species	1
+putative anti inflammatory metabolites formation from epa	1
+il12 mediated signaling events	1
+androgen and estrogen biosynthesis and metabolism	1
+interferon type i signaling pathways	1
+cellular roles of anthrax toxin	1
+constitutive androstane receptor pathway	1
+fibroblast growth factor 1	1
+epo signaling pathway	1
+erbb1 downstream signaling	1
+hgf	1
+nephrin interactions	1
+apoptosis   homo sapiens  human	1
+olfactory transduction   homo sapiens  human	1
+metabolism of nitric oxide	1
+mets affect on macrophage differentiation	1
+phosphatidylinositol signaling system   homo sapiens  human	1
+myd88 dependent cascade initiated on endosome	1
+cell cycle  g2 m checkpoint	1
+tcr signaling in na  xef ve cd4  t cells	1
+hif 1 signaling pathway   homo sapiens  human	1
+cd28 dependent pi3k akt signaling	1
+class i pi3k signaling events mediated by akt	1
+regulation of hypoxia inducible factor  hif  by oxygen Reactome	1
+endothelin pathways	1
+ngf	1
+butanoate metabolism EHMN	1
+integrated lung cancer pathway	1
+dna replication	1
+regulation of plk1 activity at g2 m transition	1
+mono unsaturated fatty acid beta oxidation	1
+drotoll like	1
+intrinsic pathway for apoptosis	1
+collecting duct acid secretion   homo sapiens  human	1
+cd4 t cell receptor signaling erk cascade	1
+mitochondrial trna aminoacylation	1
+toll like receptors cascades	1
+e2f mediated regulation of dna replication	1
+signaling by fgfr1 fusion mutants	1
+sulfur amino acid metabolism	1
+rig i mda5 mediated induction of ifn alpha beta pathways	1
+salmonella infection   homo sapiens  human	1
+iron uptake and transport	1
+glycosphingolipid biosynthesis   ganglioseries	1
+notch2 activation and transmission of signal to the nucleus	1
+activation of gabab receptors	1
+il3	1
+p38 signaling mediated by mapkap kinases	1
+regulation of pgc 1a	1
+tgf beta signaling tak1	1
+induction of apoptosis through dr3 and dr4 5 death receptors	1
+cell cycle checkpoints Reactome	1
+hiv 1 nef  negative effector of fas and tnf	1
+toll like receptor 9  tlr9  cascade	1
+g2 m transition	1
+death receptor signalling	1
+cardiac hypertrophic response	1
+tcr signaling pathway	1
+prolactin	1
+di unsaturated fatty acid beta oxidation	1
+tgf_beta_receptor	1
+signaling events mediated by prl	1
+stabilization and expansion of the e cadherin adherens junction	1
+bbsome mediated cargo targeting to cilium	1
+transport of vitamins  nucleosides  and related molecules	1
+regulation of actin dynamics for phagocytic cup formation	1
+phosphoinositides and their downstream targets	1
+rna polymerase iii transcription termination	1
+gastrin	1
+hepatitis c   homo sapiens  human	1
+role of mef2d in t cell apoptosis	1
+oncostatin_m	1
+galactose metabolism   homo sapiens  human	1
+il 5 signaling pathway	1
+fas pathway and stress induction of hsp regulation	1
+tcr signaling in na  xef ve cd8  t cells	1
+glutathione conjugation	1
+saturated fatty acids beta oxidation	1
+double strand break repair	1
+tlr ecsit mekk1 p38	1
+cytosolic trna aminoacylation	1
+insulin signaling pathway   homo sapiens  human	1
+trna aminoacylation	1
+traf6 mediated nf kb activation	1
+downregulation of smad2 3 smad4 transcriptional activity	1
+the role of nef in hiv 1 replication and disease pathogenesis	1
+sphingolipid metabolism   homo sapiens  human	1
+estrogen signaling pathway	1
+fas	1
+tweak signaling pathway	1
+pdgfr alpha signaling pathway	1
+rhoa signaling pathway	1
+vitamin d3  cholecalciferol  metabolism	1
+role of brca1 brca2 and atr in cancer susceptibility	1
+chaperonin mediated protein folding	1
+viral carcinogenesis   homo sapiens  human	1
+ephrin b reverse signaling	1
+glutamate glutamine metabolism	1
+hedgehog  off  state	1
+phospholipid biosynthesis	1
+c myc pathway	1
+transferrin endocytosis and recycling	1
+tslp signaling pathway	1
+nephrin neph1 signaling in the kidney podocyte	1
+tlr ecsit mekk1 jnk	1
+physiological and pathological hypertrophy of the heart	1
+notch NetPath	1
+pyrimidine metabolism   homo sapiens  human	1
+budding and maturation of hiv virion	1
+b cell receptor signaling pathway	1
+glycerophospholipid metabolism	1
+glycerophospholipid biosynthesis	1
+phosphatidylinositol phosphate metabolism	1
+post translational modification  synthesis of gpi anchored proteins	1
+other types of o glycan biosynthesis   homo sapiens  human	1
+homologous recombination   homo sapiens  human	1
+alk1 signaling events	1
+regulation of autophagy   homo sapiens  human	1
+dorso ventral axis formation   homo sapiens  human	1
+tak1 activates nfkb by phosphorylation and activation of ikks complex	1
+diurnally regulated genes with circadian orthologs	1
+purine metabolism   homo sapiens  human	1
+oxidative stress	1
+jak stat	1
+sorafenib pharmacodynamics	1
+constitutive signaling by akt1 e17k in cancer	1
+vibrio cholerae infection   homo sapiens  human	1
+integrin linked kinase signaling	1
+toll like receptor signaling pathway   homo sapiens  human	1
+asparagine n linked glycosylation	1
+toll like receptor signaling pathway	1
+tca cycle EHMN	1
+epithelial cell signaling in helicobacter pylori infection   homo sapiens  human	1
+nucleotide binding domain  leucine rich repeat containing receptor  nlr  signaling pathways	1
+prostate cancer	1
+dna damage bypass	1
+activation of the pre replicative complex	1
+prostaglandin formation from arachidonate	1
+egfr inhibitor pathway  pharmacodynamics	1
+gaba receptor activation	1
+gamma carboxylation  hypusine formation and arylsulfatase activation	1
+recognition of dna damage by pcna containing replication complex	1
+tryptophan metabolism   homo sapiens  human	1
+prostaglandin formation from dihomo gama linoleic acid	1
+glycerophospholipid metabolism   homo sapiens  human	1
+nongenotropic androgen signaling	1
+nfkb activation by nontypeable hemophilus influenzae	1
+skeletal muscle hypertrophy is regulated via akt mtor pathway	1
+nod pathway	1
+glycolysis   gluconeogenesis   homo sapiens  human	1
+links between pyk2 and map kinases	1
+loss of nlp from mitotic centrosomes	1
+vegfr2 mediated vascular permeability	1
+egf egfr signaling pathway	1
+alanine  aspartate and glutamate metabolism   homo sapiens  human	1
+termination of translesion dna synthesis	1
+pdgf	1
+cxcr3 mediated signaling events	1
+rage	1
+il17 signaling pathway	1
+protein folding	1
+n glycan biosynthesis   homo sapiens  human	1
+glucose metabolism	1
+superpathway of inositol phosphate compounds	1
+cd28 co stimulation	1
+cytosolic sensors of pathogen associated dna	1
+proteoglycan biosynthesis	1
+sphingolipid metabolism Reactome	1
+regulation of toll like receptor signaling pathway	1
+arf6 signaling events	1
+signaling events mediated by hepatocyte growth factor receptor  c met	1
+bcr signaling pathway PID	1
+t cell receptor signaling pathway   homo sapiens  human	1
+superpathway of purine nucleotide salvage	1
+tp53 regulates metabolic genes Reactome	1
+fatty acid beta oxidation	1
+regulation of p38 alpha and p38 beta	1
+signaling by notch2 Reactome	1
+vpr mediated nuclear import of pics	1
+amyotrophic lateral sclerosis  als	1
+tnf receptor signaling pathway	1
+snare interactions in vesicular transport   homo sapiens  human	1
+cargo trafficking to the periciliary membrane	1
+posttranslational regulation of adherens junction stability and dissassembly	1
+mapk cascade	1
+signaling by tgf beta receptor complex	1
+pi metabolism	1
+bcr signaling pathway	1
+erk and pi 3 kinase are necessary for collagen binding in corneal epithelia	1
+mtor signaling pathway	1
+estrogen signaling pathway   homo sapiens  human	1
+interferon signaling	1
+tryptophan metabolism Wikipathways	1
+cd4 t cell receptor signaling	1
+glucagon signaling pathway   homo sapiens  human	1
+inflammatory bowel disease  ibd    homo sapiens  human	1
+interactions of vpr with host cellular proteins	1
+regulation of lipid metabolism by peroxisome proliferator activated receptor alpha  pparalpha	1
+hif 2 alpha transcription factor network	1
+integrin signaling pathway	1
+nuclear pore complex  npc  disassembly	1
+circadian clock Reactome	1
+il2	1
+nuclear import of rev protein	1
+fatty acid degradation   homo sapiens  human	1
+rmts methylate histone arginines	1
+activation of atr in response to replication stress	1
+tgf beta receptor signaling	1
+caspase cascade in apoptosis PID	1
+adrenergic signaling in cardiomyocytes   homo sapiens  human	1
+bile acid biosynthesis EHMN	1
+androgen receptor signaling pathway	1
+vitamin b3  nicotinate and nicotinamide  metabolism	1
+osteopontin mediated events	1
+il1 mediated signaling events	1
+adaptive immune system	1
+tor signaling	1
+nod1 2 signaling pathway	1
+peroxisome   homo sapiens  human	1
+rna polymerase iii abortive and retractive initiation	1
+g13 signaling pathway	1
+constitutive signaling by notch1 pest domain mutants	1
+galactose metabolism EHMN	1
+translesion synthesis by y family dna polymerases bypasses lesions on dna template	1
+recruitment of mitotic centrosome proteins and complexes	1
+glycosphingolipid metabolism Reactome	1
+triglyceride biosynthesis	1
+transport to the golgi and subsequent modification	1
+angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling	1
+nfat and hypertrophy of the heart	1
+fc epsilon receptor i signaling in mast cells	1
+interactions of rev with host cellular proteins	1
+kit receptor signaling pathway	1
+pkmts methylate histone lysines	1
+phospholipid metabolism	1
+cardiac muscle contraction   homo sapiens  human	1
+rho gtpases activate wasps and waves	1
+insulin	1
+mapkinase signaling pathway	1
+ampk signaling	1
+glycolysis and gluconeogenesis	1
+trna charging	1
+parkin ubiquitin proteasomal system pathway	1
+epstein barr virus infection   homo sapiens  human	1
+insulin signaling	1
+signaling events mediated by hdac class ii	1
+fc epsilon receptor i signaling in mast cells PID	1
+ampk signaling pathway   homo sapiens  human	1
+transcriptional activity of smad2 smad3 smad4 heterotrimer Reactome	1
+vasopressin regulated water reabsorption   homo sapiens  human	1
+gnrh signaling pathway   homo sapiens  human	1
+antigen processing and presentation   homo sapiens  human	1
+metabolism of proteins	1
+b cell receptor signaling	1
+hexose transport	1
+oxidative phosphorylation	1
+histone modifications	1
+class i pi3k signaling events	1
+superpathway of conversion of glucose to acetyl coa and entry into the tca cycle	1
+inositol phosphate metabolism INOH	1
+insulin mam	1
+glucocorticoid receptor regulatory network	1
+host interactions of hiv factors	1
+tnf	1
+erbb2 erbb3 signaling events	1
+formation of the ternary complex  and subsequently  the 43s complex	1
+adipocytokine signaling pathway   homo sapiens  human	1
+cytosolic dna sensing pathway   homo sapiens  human	1
+n glycan biosynthesis	1
+inositol phosphate metabolism Reactome	1
+c type lectin receptors  clrs Reactome	1
+pkb mediated events	1
+glycerolipid metabolism   homo sapiens  human	1
+aminoacyl trna biosynthesis   homo sapiens  human	1
+ifn gamma pathway	1
+tacrolimus cyclosporine pathway  pharmacodynamics	1
+il 6 signaling pathway	1
+endocytosis   homo sapiens  human	1
+lysine degradation   homo sapiens  human	1
+aminosugars metabolism	1
+tuberculosis   homo sapiens  human	1
+clec7a  dectin 1  signaling	1
+disease	1
+il 3 signaling pathway	1
+valine  leucine and isoleucine degradation   homo sapiens  human	1
+inositol phosphate metabolism   homo sapiens  human	1
+regulation of microtubule cytoskeleton	1
+regulation of androgen receptor activity	1
+cd4 t cell receptor signaling nfkb cascade	1
+nod like receptor signaling pathway   homo sapiens  human	1
+alzheimers disease	1
+proteasome degradation	1
+anchoring of the basal body to the plasma membrane	1
+signaling events mediated by stem cell factor receptor  c kit	1
+translation initiation complex formation	1
+ribosomal scanning and start codon recognition	1
+energy metabolism	1
+mitotic prophase	1
+purine metabolism	1
+activation of the mrna upon binding of the cap binding complex and eifs  and subsequent binding to 43s	1
+tnf alpha signaling pathway	1
+signaling events mediated by vegfr1 and vegfr2	1
+lysosome   homo sapiens  human	1
+costimulation by the cd28 family	1
+foxo family signaling	1
+golgi associated vesicle biogenesis	1
+purine nucleotides  i de novo  i  biosynthesis	1
+rig i like receptor signaling pathway   homo sapiens  human	1
+pdgfr beta signaling pathway	1
+notch	1
+il6	1
+egfr1	1
+infectious disease	1
+lpa receptor mediated events	1
+il1	1
+non alcoholic fatty liver disease  nafld    homo sapiens  human	1
+il 1 signaling pathway	1
+g2 m checkpoints	1
+androgenreceptor	1
+tlr jnk	1
+tlr p38	1
+p53 pathway	1
+dna repair	1
+cellular responses to stress	1
+respiratory electron transport  atp synthesis by chemiosmotic coupling  and heat production by uncoupling proteins	1
+influenza a   homo sapiens  human	1
+phosphatidylinositol phosphate metabolism EHMN	1
+shigellosis   homo sapiens  human	1
+vesicle mediated transport	1
+clathrin derived vesicle budding	1
+tlr nfkb	1
+eukaryotic translation termination	1
+fatty acid  triacylglycerol  and ketone body metabolism	1
+peptide chain elongation	1
+methionine and cysteine metabolism	1
+tnfalpha	1
+renal cell carcinoma   homo sapiens  human	1
+ubiquitin mediated proteolysis   homo sapiens  human	1
+respiratory electron transport	1
+eukaryotic translation elongation	1
+leukotriene metabolism	1
+nonsense mediated decay  nmd  independent of the exon junction complex  ejc	1
+electron transport chain	1
+pyrimidine metabolism EHMN	1
+regulatory rna pathways	1
+assembly of the primary cilium	1
+regulation of hsf1 mediated heat shock response	1
+cxcr4 mediated signaling events	1
+class i mhc mediated antigen processing   presentation	1
+formation of a pool of free 40s subunits	1
+rna degradation   homo sapiens  human	1
+antigen processing  ubiquitination   proteasome degradation	1
+metabolism of water soluble vitamins and cofactors	1
+metabolism	1
+nonsense mediated decay  nmd  enhanced by the exon junction complex  ejc	1
+hiv infection	1
+protein processing in endoplasmic reticulum   homo sapiens  human	1
+mrna surveillance pathway   homo sapiens  human	1
+3   utr mediated translational regulation	1
+srp dependent cotranslational protein targeting to membrane	1
+oxidative phosphorylation   homo sapiens  human	1
+hiv life cycle	1
+gtp hydrolysis and joining of the 60s ribosomal subunit	1
+huntington s disease   homo sapiens  human	1
+metabolism of lipids and lipoproteins	1
+parkinson s disease   homo sapiens  human	1
+cellular response to heat stress Reactome	1
+cap dependent translation initiation	1
+the citric acid  tca  cycle and respiratory electron transport	1
+rna polymerase i  rna polymerase iii  and mitochondrial transcription	1
+ribosome   homo sapiens  human	1
+late phase of hiv life cycle	1
+alzheimer s disease   homo sapiens  human	1
+membrane trafficking	1
+chromatin organization	1
+translation	1
+mrna processing	1
+rna transport   homo sapiens  human	1
+herpes simplex infection   homo sapiens  human	1
+generic transcription pathway	1
+organelle biogenesis and maintenance	1
+transcription	1
+olfactory signaling pathway	1
+artemether metabolism pathway	1
+artemisinin and derivatives pathway  pharmacokinetics	1
+benzodiazepine pathway  pharmacokinetics	1
+cyclophosphamide pathway  pharmacokinetics	1
+fluoxetine pathway  pharmacokinetics	1
+twik related alkaline ph activated k  channel  talk	1
+thiosulfate disproportionation iii  rhodanese	1
+oxidized gtp and dgtp detoxification	1
+the ipaf inflammasome	1
+thio molybdenum cofactor biosynthesis	1
+nad phosphorylation and dephosphorylation	1
+pregnenolone biosynthesis HumanCyc	1
+anandamide degradation	1
+d mannose degradation	1
+signaling by notch2	1
+highly sodium permeable acetylcholine nicotinic receptors	1
+postsynaptic nicotinic acetylcholine receptors	1
+presynaptic nicotinic acetylcholine receptors	1
+l glutamine trna biosynthesis	1
+vatalanib action pathway	1
+hyaluronan biosynthesis and export	1
+influenza a virus infection	1
+losartan pathway  pharmacokinetics	1
+lipoxin biosynthesis	1
+resolvin d biosynthesis	1
+citalopram pathway  pharmacokinetics	1
+proton pump inhibitor pathway  pharmacokinetics	1
+venlafaxine metabolism pathway	1
+warfarin pathway  pharmacokinetics	1
+sulfite oxidation	1
+reuptake of gaba	1
+entry of influenza virion into host cell via endocytosis	1
+histamine receptors	1
+panitumumab action pathway	1
+lipoate salvage	1
+signaling by fgfr1 amplification mutants	1
+hcn channels	1
+rosuvastatin pathway  pharmacokinetics	1
+uracil degradation	1
+glutamate dependent acid resistance	1
+glutamine biosynthesis	1
+pi and pc transport between er and golgi membranes	1
+thiamin salvage iii	1
+sorbitol degradation i	1
+tramadol pharmacokinetics	1
+nad biosynthesis from 2 amino 3 carboxymuconate semialdehyde	1
+ampk inhibits chrebp transcriptional activation activity	1
+phosphatidylserine biosynthesis i	1
+l dopa degradation	1
+ficolins bind to repetitive carbohydrate structures on the target cell surface	1
+lectin pathway of complement activation	1
+transcriptional regulation of pluripotent stem cells	1
+tyrosine degradation	1
+auf1  hnrnp d0  destabilizes mrna	1
+putrescine biosynthesis i	1
+2fe 2s  iron sulfur cluster biosynthesis	1
+phosphatidylserine biosynthesis ii	1
+synthesis of cl	1
+estradiol biosynthesis ii	1
+abnormal conversion of 2 oxoglutarate to 2 hydroxyglutarate	1
+reactions specific to the hybrid n glycan synthesis pathway	1
+mgmt mediated dna damage reversal	1
+adenine and adenosine salvage i	1
+pou5f1  oct4   sox2  nanog activate genes related to proliferation Reactome	1
+synthesis of ips in the er lumen	1
+thyroid hormone biosynthesis	1
+atorvastatin lovastatin simvastatin pathway  pharmacokinetics	1
+statin pathway   generalized  pharmacokinetics	1
+anthrax toxin mechanism of action	1
+lck and fyn tyrosine kinases in initiation of tcr activation	1
+sterols are 12 hydroxylated by cyp8b1	1
+endohydrolysis of 1 4 alpha d glucosidic linkages in polysaccharides by alpha amylase	1
+d  i myo  i  inositol  1 4 5 6  tetrakisphosphate biosynthesis	1
+ephrin a  reverse signaling	1
+methylglyoxal degradation vi	1
+cyclophosphamide action pathway	1
+alanine biosynthesis degradation	1
+prpp biosynthesis	1
+abacavir metabolism	1
+ascorbate and aldarate metabolism   homo sapiens  human	1
+glycine biosynthesis	1
+methadone metabolism pathway	1
+thioguanine metabolism pathway	1
+lidocaine  local anaesthetic  metabolism pathway	1
+vasopressin like receptors	1
+sumo is transferred from e1 to e2  ube2i  ubc9	1
+amodiaquine pathway  pharmacokinetics	1
+cox reactions	1
+fatty acid elongation    saturated	1
+udp  i n  i  acetyl d galactosamine biosynthesis i	1
+beta oxidation of very long chain fatty acids Reactome	1
+4 hydroxybenzoate biosynthesis	1
+acrosome reaction	1
+phosphorylation of proteins involved in the g2 m transition by cyclin a cdc2 complexes	1
+zymosterol biosynthesis	1
+pyruvate carboxylase deficiency	1
+chondroitin and dermatan biosynthesis	1
+valine  leucine and isoleucine biosynthesis   homo sapiens  human	1
+tandem of pore domain in a weak inwardly rectifying k  channels  twik	1
+acetylcholine synthesis	1
+codeine and morphine pathway  pharmacokinetics	1
+wnt ligand secretion is abrogated by the porcn inhibitor lgk974	1
+oxygen dependent asparagine hydroxylation of hypoxia inducible factor alpha	1
+activation of bim and translocation to mitochondria	1
+viral rnp complexes in the host cell nucleus	1
+ibuprofen pathway  pharmacokinetics	1
+twik related potassium channel  trek	1
+phosphate bond hydrolysis by nudt proteins	1
+inositol pyrophosphates biosynthesis	1
+activation of na permeable kainate receptors	1
+phenylalanine and tyrosine catabolism	1
+interaction with the zona pellucida	1
+akt mediated inactivation of foxo1a	1
+mitochondrial beta oxidation of medium chain saturated fatty acids	1
+activation  translocation and oligomerization of bax	1
+geranylgeranyldiphosphate biosynthesis	1
+astrocytic glutamate glutamine uptake and metabolism	1
+fatty acid omega oxidation	1
+organic cation transport	1
+pilocytic astrocytoma	1
+ifosfamide pathway  pharmacodynamics	1
+lipoate biosynthesis and incorporation	1
+vitamin c  ascorbate  metabolism	1
+s adenosyl l methionine biosynthesis	1
+trafficking of dietary sterols	1
+tryptophan degradation HumanCyc	1
+pp2a mediated dephosphorylation of key metabolic factors	1
+fatty acid  alpha  oxidation	1
+arachidonate epoxygenase   epoxide hydrolase	1
+adenine and adenosine salvage ii	1
+androgen biosynthesis Reactome	1
+incretin synthesis  secretion  and inactivation	1
+perk regulates gene expression	1
+transport of glycerol from adipocytes to the liver by aquaporins	1
+pyrophosphate hydrolysis	1
+evolocumab mechanism	1
+phenylalanine degradation tyrosine biosynthesis	1
+synthesis of dolichyl phosphate glucose	1
+glycosphingolipid biosynthesis   lactoseries	1
+acetyl coa biosynthesis from citrate	1
+gdp l fucose biosynthesis ii  from l fucose	1
+reduction of cytosolic ca   levels	1
+proline degradation	1
+adenosine p1 receptors	1
+fasl  cd95l signaling	1
+alkbh2 mediated reversal of alkylation damage	1
+hydrolysis of lpe	1
+toxicity of tetanus toxin  tent	1
+il 12 signaling	1
+gastric acid production	1
+arl13b mediated ciliary trafficking of inpp5e	1
+antisense pathway	1
+fructose catabolism	1
+d glucuronate degradation	1
+transcription from mitochondrial promoters	1
+phosphatidylethanolamine biosynthesis ii	1
+gdp l fucose biosynthesis i  from gdp d mannose	1
+xav939 inhibits tankyrase  stabilizing axin	1
+activation  myristolyation of bid and translocation to mitochondria	1
+polb dependent long patch base excision repair	1
+terminal pathway of complement	1
+vitamin k metabolism	1
+alkbh3 mediated reversal of alkylation damage	1
+l carnitine biosynthesis	1
+assembly of the rad50 mre11 nbs1 complex at dna double strand breaks	1
+generation of amyloid b peptide by ps1	1
+visual signal transduction  rods	1
+udp d xylose and udp d glucuronate biosynthesis	1
+tfs regulate mirnas related to cardiac hypertrophy	1
+regulation of thyroid hormone activity	1
+thyroxine biosynthesis	1
+dipyridamole  antiplatelet  action pathway	1
+synthesis and processing of env and vpu	1
+i s  i  methyl 5 thio  alpha  d ribose 1 phosphate degradation	1
+cell to cell adhesion signaling	1
+fsh	1
+phosphatidylcholine biosynthesis	1
+proton coupled neutral amino acid transporters	1
+mismatch repair	1
+i s  i  methyl 5  thioadenosine degradation	1
+acyl carrier protein metabolism	1
+ethanol degradation iv	1
+synthesis of  16 20  hydroxyeicosatetraenoic acids  hete	1
+selenocysteine biosynthesis	1
+methionine salvage pathway	1
+glypican 2 network	1
+sulindac metabolic pathway	1
+abacavir transmembrane transport	1
+sperm oocyte membrane binding	1
+felodipine metabolism pathway	1
+pyridoxal 5  phosphate salvage	1
+thiamine metabolism	1
+regulation of spermatogenesis by crem	1
+telomere c strand synthesis initiation	1
+reactions specific to the complex n glycan synthesis pathway	1
+progressive trimming of alpha 1 2 linked mannose residues from man9 8 7glcnac2 to produce man5glcnac2	1
+pou5f1  oct4   sox2  nanog activate genes related to proliferation	1
+tsp 1 induced apoptosis in microvascular endothelial cell	1
+the aim2 inflammasome	1
+biogenic amine synthesis	1
+inhibition of pkr	1
+pentose phosphate pathway  oxidative branch	1
+lanosterol biosynthesis	1
+fatty acid biosynthesis	1
+xbp1 s  activates chaperone genes	1
+melatonin degradation ii	1
+asparagine degradation	1
+erlotinib pathway  pharmacokinetics	1
+vpu mediated degradation of cd4	1
+beta oxidation of palmitoyl coa to myristoyl coa	1
+degradation of beta catenin by the destruction complex	1
+molybdenum cofactor biosynthesis HumanCyc	1
+il 3 signaling	1
+s1p5 pathway	1
+intracellular signalling through lhcgr receptor and luteinizing hormone choriogonadotropin	1
+tryptophan catabolism	1
+paos oxidise polyamines to amines	1
+long chain 3 hydroxyacyl coa dehydrogenase deficiency  lchad	1
+creation of c4 and c2 activators	1
+utp and ctp dephosphorylation ii	1
+nevirapine pathway  pharmacokinetics	1
+ifn gamma signaling	1
+alternative nf kappab pathway	1
+triacylglycerol degradation	1
+constitutive signaling by notch1 t 7 9  notch1 m1580_k2555  translocation mutant	1
+role of parkin in ubiquitin proteasomal pathway	1
+multi drug resistance factors	1
+visceral fat deposits and the metabolic syndrome	1
+d4gdi signaling pathway	1
+vitamin b2  riboflavin  metabolism	1
+fatty acids bound to gpr40  ffar1  regulate insulin secretion	1
+cmp  i n  i  acetylneuraminate biosynthesis i  eukaryotes	1
+rsk activation	1
+activation of bmf and translocation to mitochondria	1
+oxidative stress regulatory pathway  erythrocyte	1
+alpha synuclein and parkin mediated proteolysis in parkinson s disease	1
+taurine and hypotaurine metabolism	1
+taurine biosynthesis	1
+glycine serine biosynthesis	1
+nectin necl  trans heterodimerization	1
+molybdenum cofactor biosynthesis	1
+cysteine biosynthesis	1
+cs ds degradation	1
+lactose synthesis	1
+release of apoptotic factors from the mitochondria	1
+eicosanoids	1
+arachidonate biosynthesis iii  metazoa	1
+plasmalogen biosynthesis	1
+synthesis  secretion  and deacylation of ghrelin	1
+sphingosine and sphingosine 1 phosphate metabolism	1
+dna damage reversal	1
+putrescine biosynthesis ii	1
+nifedipine activity	1
+retinoate biosynthesis ii	1
+sumo is proteolytically processed	1
+caffeine metabolism	1
+caffeine pathway  pharmacokinetics	1
+cyp2e1 reactions	1
+felbamate metabolism	1
+felbamate metabolism pathway	1
+theophylline pathway  pharmacokinetics	1
+morphine metabolism pathway	1
+sorafenib metabolism pathway	1
+synthesis of 12 eicosatetraenoic acid derivatives	1
+regulation of commissural axon pathfinding by slit and robo	1
+glucose alanine cycle	1
+intracellular signalling through prostacyclin receptor and prostacyclin	1
+classical kir channels	1
+l cysteine degradation i	1
+malate aspartate shuttle	1
+synthesis of ketone bodies	1
+rna polymerase iii transcription	1
+grb7 events in erbb2 signaling	1
+insulin effects increased synthesis of xylulose 5 phosphate	1
+abacavir transport and metabolism	1
+methylation pathways	1
+farnesoid x receptor pathway	1
+lactate fermentation  reoxidation of cytosolic nadh	1
+pyruvate decarboxylation to acetyl coa	1
+phosphorylation of cd3 and tcr zeta chains	1
+translocation of zap 70 to immunological synapse	1
+serotonin and melatonin biosynthesis	1
+aspartate biosynthesis	1
+retinoate biosynthesis i	1
+lysine biosynthesis   homo sapiens  human	1
+propionyl coa degradation	1
+hydrolysis of lpc	1
+ns1 mediated effects on host pathways	1
+electron transport from nadph to ferredoxin	1
+dna damage recognition in gg ner	1
+thyroid hormone synthesis	1
+activation of ras in b cells	1
+activation of camk iv	1
+fatty acid  alpha  oxidation iii	1
+glycine cleavage	1
+7  3 amino 3 carboxypropyl  wyosine biosynthesis	1
+drug induction of bile acid pathway	1
+vitamin c metabolism	1
+hypusine synthesis from eif5a lysine	1
+homocarnosine biosynthesis	1
+multifunctional anion exchangers	1
+glycogenolysis	1
+gdp mannose biosynthesis	1
+spermidine and spermine biosynthesis	1
+mir34a and tgif2 in osteoclastogenesis	1
+ethanol degradation	1
+linoleic acid  la  metabolism	1
+adefovir dipivoxil metabolism pathway	1
+excitatory neural signalling through 5 htr 4 and serotonin	1
+excitatory neural signalling through 5 htr 6 and serotonin	1
+intracellular signalling through fsh receptor and follicle stimulating hormone	1
+intracellular signalling through histamine h2 receptor and histamine	1
+ifn alpha signaling	1
+dectin 2 family	1
+homocysteine degradation	1
+1d  i myo  i  inositol hexakisphosphate biosynthesis ii  mammalian	1
+2 oxobutanoate degradation	1
+3 methylglutaconic aciduria type i	1
+3 oxo 10r octadecatrienoate beta oxidation	1
+3 phosphoinositide degradation	1
+a third proteolytic cleavage releases nicd	1
+abortive elongation of hiv 1 transcript in the absence of tat	1
+activated pkn1 stimulates transcription of ar  androgen receptor  regulated genes klk2 and klk3 Reactome	1
+activation of bad and translocation to mitochondria	1
+activation of gene expression by srebf  srebp	1
+activation of gene expression by srebf  srebp Reactome	1
+activation of ppargc1a  pgc 1alpha  by phosphorylation	1
+activation of rac	1
+activation of smo	1
+activation of the ap 1 family of transcription factors	1
+adenosine ribonucleotides  i de novo  i  biosynthesis	1
+adenylate cyclase activating pathway	1
+adenylate cyclase inhibitory pathway	1
+akt phosphorylates targets in the nucleus	1
+alanine and aspartate metabolism	1
+alanine aspartate asparagine metabolism	1
+alpha linolenic acid  ala  metabolism	1
+ammonia recycling	1
+amyloids	1
+angiogenesis overview	1
+antigen presentation  folding  assembly and peptide loading of class i mhc	1
+antigen processing and presentation	1
+apoptosis induced dna fragmentation	1
+apoptosis modulation by hsp70	1
+apoptotic dna fragmentation and tissue homeostasis	1
+apoptotic signaling in response to dna damage	1
+arf1 pathway	1
+argininemia	1
+association of tric cct with target proteins during biosynthesis	1
+atm pathway	1
+atm signaling pathway BioCarta	1
+attenuation phase	1
+bard1 signaling events	1
+basal transcription factors   homo sapiens  human	1
+base excision repair   homo sapiens  human	1
+base excision repair  ap site formation	1
+benzodiazepine pathway  pharmacodynamics	1
+beta catenin phosphorylation cascade	1
+beta mercaptolactate cysteine disulfiduria	1
+beta oxidation of pristanoyl coa	1
+beta oxidation of very long chain fatty acids	1
+biotin transport and metabolism	1
+branched chain amino acid catabolism	1
+butanoate metabolism	1
+butyrate response factor 1  brf1  destabilizes mrna	1
+calcium signaling by hbx of hepatitis b virus	1
+canonical nf kappab pathway	1
+canonical wnt signaling pathway	1
+caspase mediated cleavage of cytoskeletal proteins	1
+cd28 dependent vav1 pathway	1
+cdp diacylglycerol biosynthesis	1
+cell extracellular matrix interactions	1
+cellular response to heat stress	1
+ceramide signaling pathway BioCarta	1
+chaperones modulate interferon signaling pathway	1
+chk1 chk2 cds1  mediated inactivation of cyclin b cdk1 complex	1
+cholesterol biosynthesis	1
+cholesterol biosynthesis ii  via 24 25 dihydrolanosterol	1
+cholesterol biosynthesis Reactome	1
+chromatin remodeling by hswi snf atp dependent complexes	1
+chylomicron mediated lipid transport	1
+circadian clock	1
+circadian rhythm   homo sapiens  human	1
+circadian rhythm pathway	1
+citrate cycle	1
+citrate cycle  tca cycle    homo sapiens  human	1
+citric acid cycle  tca cycle	1
+classical complement pathway	1
+cleavage of growing transcript in the termination region	1
+cmp phosphorylation	1
+cobalamin  cbl  vitamin b12  transport and metabolism	1
+coenzyme a biosynthesis Reactome	1
+cohesin loading onto chromatin	1
+condensation of prophase chromosomes	1
+constitutive signaling by notch1 hd domain mutants	1
+copi mediated transport	1
+copii  coat protein 2  mediated vesicle transport	1
+crmps in sema3a signaling	1
+crosslinking of collagen fibrils	1
+ctla4 inhibitory signaling	1
+cycling of ran in nucleocytoplasmic transport	1
+cysteine and methionine metabolism   homo sapiens  human	1
+cytoplasmic ribosomal proteins	1
+d  i myo  i  inositol  1 3 4  trisphosphate biosynthesis	1
+d  i myo  i  inositol  1 4 5  trisphosphate degradation	1
+de novo fatty acid biosynthesis	1
+deadenylation dependent mrna decay	1
+deadenylation of mrna	1
+degradation of axin	1
+degradation of beta catenin	1
+degradation of gli1 by the proteasome	1
+displacement of dna glycosylase by apex1	1
+dna double strand breaks response	1
+dna methylation	1
+dna pk pathway in nonhomologous end joining	1
+dna replication   homo sapiens  human	1
+dolichyl diphosphooligosaccharide biosynthesis	1
+double stranded rna induced gene expression	1
+downregulation of erbb2 erbb3 signaling	1
+downregulation of erbb4 signaling	1
+dual incision reaction in gg ner	1
+e2f enabled inhibition of pre replication complex formation	1
+egf	1
+egfr transactivation by gastrin	1
+endocytotic role of ndk phosphins and dynamin	1
+endosomal sorting complex required for transport  escrt	1
+energy dependent regulation of mtor by lkb1 ampk	1
+enos activation	1
+epigenetic regulation of gene expression	1
+epo signaling pathway BioCarta	1
+er associated degradation  erad  pathway	1
+establishment of sister chromatid cohesion	1
+eukaryotic protein translation	1
+eukaryotic transcription initiation	1
+export of viral ribonucleoproteins from nucleus	1
+extension of telomeres	1
+fas signaling pathway  cd95	1
+fatty acid  beta  oxidation  peroxisome	1
+fatty acid biosynthesis   homo sapiens  human	1
+fatty acid biosynthesis Wikipathways	1
+fatty acid elongation   homo sapiens  human	1
+fatty acyl coa biosynthesis	1
+fertilization	1
+folate alcohol and cancer pathway	1
+folding of actin by cct tric	1
+formation of atp by chemiosmotic coupling	1
+formation of hiv 1 elongation complex containing hiv 1 tat	1
+formation of rna pol ii elongation complex	1
+formation of the early elongation complex	1
+formation of transcription coupled ner  tc ner  repair complex	1
+fructose and mannose metabolism   homo sapiens  human	1
+fructose intolerance  hereditary	1
+fructose mannose metabolism	1
+fsh signaling pathway	1
+g2 m dna damage checkpoint	1
+gamma  linolenate biosynthesis	1
+gamma aminobutyric acid receptor life cycle pathway	1
+gap filling dna repair synthesis and ligation in gg ner	1
+gene expression	1
+gli3 is processed to gli3r by the proteasome	1
+global genomic ner  gg ner	1
+glucocorticoid pathway  peripheral tissue   pharmacodynamics	1
+gluconeogenesis Reactome	1
+glucose transport	1
+glycolysis and gluconeogenesis EHMN	1
+glycolysis Reactome	1
+glycosphingolipid metabolism	1
+glycosylphosphatidylinositol gpi  anchor biosynthesis   homo sapiens  human	1
+glyoxylate and dicarboxylate metabolism   homo sapiens  human	1
+granzyme a mediated apoptosis pathway	1
+guanosine ribonucleotides  i de novo  i  biosynthesis	1
+hats acetylate histones	1
+hdacs deacetylate histones	1
+hdl mediated lipid transport	1
+heme biosynthesis	1
+heme biosynthesis Reactome	1
+hereditary coproporphyria  hcp	1
+hh mutants that don t undergo autocatalytic processing are degraded by erad	1
+hiv elongation arrest and recovery	1
+hormone sensitive lipase  hsl  mediated triacylglycerol hydrolysis	1
+how does salmonella hijack a cell	1
+hsf1 activation	1
+hsf1 dependent transactivation	1
+hur stabilizes mrna	1
+hypertrophy model	1
+hypoacetylaspartia	1
+hypoxia inducible factor in the cardivascular system	1
+hypoxic and oxygen homeostasis regulation of hif 1 alpha	1
+icosapentaenoate biosynthesis ii  metazoa	1
+igf ncore	1
+il 1 jnk	1
+il 1 nfkb	1
+il 1 p38	1
+il 3 signaling pathway BioCarta	1
+il 5 signaling	1
+il12 and stat4 dependent signaling pathway in th1 development	1
+il12 signaling mediated by stat4	1
+il22 soluble receptor signaling pathway	1
+il5	1
+import of palmitoyl coa into the mitochondrial matrix	1
+influenza infection	1
+influenza life cycle	1
+influenza viral rna transcription and replication	1
+inositol metabolism	1
+inositol phosphate metabolism	1
+interactome of polycomb repressive complex 2  prc2	1
+interferon alpha beta signaling	1
+interferon gamma signaling	1
+interleukin 1 signaling	1
+interleukin 6 signaling	1
+intracellular signalling through adenosine receptor a2a and adenosine	1
+intracellular signalling through adenosine receptor a2b and adenosine	1
+intraflagellar transport	1
+irak1 recruits ikk complex upon tlr7 8 or 9 stimulation	1
+ire1alpha activates chaperones	1
+irf3 mediated induction of type i ifn	1
+isoleucine degradation	1
+jnk  c jun kinases  phosphorylation and  activation mediated by activated human tak1	1
+ksrp destabilizes mrna	1
+l kynurenine degradation	1
+lagging strand synthesis	1
+lamivudine pathway  pharmacokinetics pharmacodynamics	1
+legionellosis   homo sapiens  human	1
+lif signaling	1
+lipid digestion  mobilization  and transport	1
+lipoprotein metabolism	1
+lysine degradation INOH	1
+lysine metabolism	1
+lysosome vesicle biogenesis	1
+macroautophagy	1
+malonyl coa decarboxylase deficiency	1
+map kinase cascade	1
+map kinase inactivation of smrt corepressor	1
+mapk1  erk2  activation	1
+mapk3  erk1  activation	1
+mastl facilitates mitotic progression	1
+mechanism of protein import into the nucleus	1
+meiosis	1
+meiotic recombination	1
+meiotic synapsis	1
+melanocyte development and pigmentation pathway	1
+melatonin metabolism and effects	1
+mercaptopurine metabolism pathway	1
+metabolism of folate and pterines	1
+metabolism of polyamines	1
+metabolism of porphyrins	1
+metformin pathway  pharmacodynamic	1
+methionine cysteine metabolism	1
+methionine salvage cycle iii	1
+methylation	1
+mevalonate pathway	1
+mhc class ii antigen presentation	1
+mir targeted genes in adipocytes   tarbase	1
+miscellaneous transport and binding events	1
+mismatch repair   homo sapiens  human	1
+mismatch repair  mmr  directed by msh2 msh3  mutsbeta	1
+mismatch repair  mmr  directed by msh2 msh6  mutsalpha	1
+mismatch repair Reactome	1
+mitochondrial biogenesis Reactome	1
+mitochondrial iron sulfur cluster biogenesis	1
+mitochondrial protein import	1
+mitochondrial translation	1
+mitochondrial translation elongation	1
+mitochondrial translation initiation	1
+mitochondrial translation termination	1
+mrna 3  end processing	1
+mrna capping Reactome	1
+mrna decay by 3  to 5  exoribonuclease	1
+mrna decay by 5  to 3  exoribonuclease	1
+mrna splicing   major pathway	1
+mrna splicing   minor pathway	1
+mtor signalling	1
+mtorc1 mediated signalling	1
+nanomaterial induced apoptosis	1
+nanoparticle triggered autophagic cell death	1
+nef mediated cd4 down regulation	1
+nef mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	1
+negative epigenetic regulation of rrna expression	1
+negative regulation of the pi3k akt network	1
+nep ns2 interacts with the cellular export machinery	1
+nf kb activation through fadd rip 1 pathway mediated by caspase 8 and  10	1
+nf kb signaling pathway	1
+nik   noncanonical nf kb signaling	1
+non homologous end joining   homo sapiens  human	1
+norc negatively regulates rrna expression	1
+notch core	1
+notch hlh transcription pathway	1
+notch ncore	1
+notch signaling pathway	1
+notch signaling pathway   homo sapiens  human	1
+notch2 intracellular domain regulates transcription	1
+nucleotide excision repair	1
+nucleotide excision repair   homo sapiens  human	1
+nucleotide excision repair Reactome	1
+nucleotide gpcrs	1
+nucleotide like  purinergic  receptors	1
+omega 3 fatty acid metabolism	1
+omega 6 fatty acid metabolism	1
+osteopontin signaling	1
+other glycan degradation   homo sapiens  human	1
+oxidation of branched chain fatty acids	1
+packaging of telomere ends	1
+pantothenate and coa biosynthesis   homo sapiens  human	1
+par4 mediated thrombin signaling events	1
+pathway_pa165959425	1
+pcna dependent long patch base excision repair	1
+pd 1 signaling	1
+pecam1 interactions	1
+pentose phosphate cycle	1
+pentose phosphate pathway	1
+pentose phosphate pathway   homo sapiens  human	1
+pentose phosphate pathway EHMN	1
+pentose phosphate pathway HumanCyc	1
+peroxisomal lipid metabolism	1
+phenylalanine and tyrosine metabolism	1
+phototransduction   homo sapiens  human	1
+phytanic acid peroxisomal oxidation	1
+platelet adhesion to exposed collagen	1
+platelet sensitization by ldl	1
+polyadenylation of mrna	1
+polymerase switching on the c strand of the telomere	1
+porphyrin and chlorophyll metabolism   homo sapiens  human	1
+post elongation processing of intronless pre mrna	1
+prc2 methylates histones and dna	1
+pregnane x receptor pathway	1
+pregnenolone biosynthesis	1
+prion diseases   homo sapiens  human	1
+processing and activation of sumo	1
+processing of capped intron containing pre mrna	1
+processing of intronless pre mrnas	1
+processive synthesis on the c strand of the telomere	1
+processive synthesis on the lagging strand	1
+propanoate metabolism	1
+propanoate metabolism   homo sapiens  human	1
+proteasome   homo sapiens  human	1
+proteasome complex	1
+protein export   homo sapiens  human	1
+pterine biosynthesis	1
+purine deoxyribonucleosides salvage	1
+purine ribonucleoside monophosphate biosynthesis	1
+pyrimidine deoxyribonucleotide phosphorylation	1
+pyruvate dehydrogenase complex deficiency	1
+pyruvate dehydrogenase deficiency  e3	1
+pyruvate metabolism	1
+pyruvate metabolism   homo sapiens  human	1
+pyruvate metabolism and citric acid  tca  cycle	1
+pyruvate metabolism INOH	1
+raf activation	1
+rap1 signalling	1
+receptor ligand binding initiates the second proteolytic cleavage of notch receptor	1
+recognition and association of dna glycosylase with site containing an affected pyrimidine	1
+recruitment of numa to mitotic centrosomes	1
+recycling of eif2 gdp	1
+regulated proteolysis of p75ntr	1
+regulation of cell cycle progression by plk3	1
+regulation of cholesterol biosynthesis by srebp  srebf	1
+regulation of cytoplasmic and nuclear smad2 3 signaling	1
+regulation of cytoskeletal remodeling and cell spreading by ipp complex components	1
+regulation of eif2	1
+regulation of glucokinase by glucokinase regulatory protein	1
+regulation of ifna signaling	1
+regulation of ifng signaling	1
+regulation of innate immune responses to cytosolic dna	1
+regulation of kit signaling	1
+regulation of lipid metabolism by peroxisome proliferator activated receptor alpha  pparalpha Reactome	1
+regulation of mrna stability by proteins that bind au rich elements	1
+regulation of pyruvate dehydrogenase  pdh  complex	1
+regulation of ras by gaps	1
+regulation of splicing through sam68	1
+regulation of transcriptional activity by pml	1
+regulators of bone mineralization	1
+removal of the flap intermediate	1
+removal of the flap intermediate from the c strand	1
+repair synthesis for gap filling by dna polymerase in tc ner	1
+resolution of abasic sites  ap sites	1
+resolution of ap sites via the multiple nucleotide patch replacement pathway	1
+rev mediated nuclear export of hiv rna	1
+reversal of insulin resistance by leptin	1
+rho gtpases activate ktn1	1
+ribosome biogenesis in eukaryotes   homo sapiens  human	1
+rna pol ii ctd phosphorylation and interaction with ce	1
+rna polymerase   homo sapiens  human	1
+rna polymerase i chain elongation	1
+rna polymerase i promoter clearance	1
+rna polymerase i promoter escape	1
+rna polymerase i promoter opening	1
+rna polymerase i transcription	1
+rna polymerase i transcription initiation	1
+rna polymerase i transcription termination	1
+rna polymerase ii pre transcription events	1
+rna polymerase ii promoter escape	1
+rna polymerase ii transcription	1
+rna polymerase ii transcription initiation	1
+rna polymerase iii chain elongation	1
+rna polymerase iii transcription initiation	1
+rna polymerase iii transcription initiation from type 1 promoter	1
+rna polymerase iii transcription initiation from type 2 promoter	1
+rna polymerase iii transcription initiation from type 3 promoter	1
+role of abl in robo slit signaling	1
+role of mal in rho mediated activation of srf	1
+role of mitochondria in apoptotic signaling	1
+rora activates gene expression Reactome	1
+scf beta trcp mediated degradation of emi1	1
+selective serotonin reuptake inhibitor pathway  pharmacodynamics	1
+selenium metabolism and selenoproteins	1
+selenoamino acid metabolism EHMN	1
+sema3a pak dependent axon repulsion	1
+shc related events triggered by igf1r	1
+signal transduction through il1r	1
+signaling by hippo	1
+signaling by notch3	1
+signaling by notch4	1
+signaling events mediated by hdac class i	1
+signaling of hepatocyte growth factor receptor	1
+simvastatin action pathway	1
+sirt1 negatively regulates rrna expression	1
+slbp dependent processing of replication dependent histone pre mrnas	1
+slbp independent processing of histone pre mrnas	1
+smad2 smad3 smad4 heterotrimer regulates transcription	1
+snrnp assembly	1
+sodd tnfr1 signaling pathway	1
+sphingolipid metabolism	1
+sphingolipid metabolism Wikipathways	1
+spliceosomal assembly	1
+spliceosome   homo sapiens  human	1
+spry regulation of fgf signaling	1
+squalene and cholesterol biosynthesis	1
+srebf and mir33 in cholesterol and lipid homeostasis	1
+srebp signalling	1
+stabilization of p53	1
+statin pathway	1
+statin pathway  pharmacodynamics	1
+stearate biosynthesis	1
+steroids metabolism	1
+sting mediated induction of host immune responses	1
+sulfur relay system   homo sapiens  human	1
+sumoylation	1
+sumoylation by ranbp2 regulates transcriptional repression	1
+sumoylation by ranbp2 regulates transcriptional repression PID	1
+sumoylation of dna damage response and repair proteins	1
+superpathway of cholesterol biosynthesis	1
+superpathway of d  i myo  i  inositol  1 4 5  trisphosphate metabolism	1
+superpathway of geranylgeranyldiphosphate biosynthesis i  via mevalonate	1
+superpathway of methionine degradation	1
+superpathway of pyrimidine ribonucleotides  i de novo  i  biosynthesis	1
+synthesis of glycosylphosphatidylinositol  gpi	1
+synthesis of ip2  ip  and ins in the cytosol	1
+synthesis of ip3 and ip4 in the cytosol	1
+synthesis of pe	1
+synthesis of pips at the late endosome membrane	1
+synthesis of very long chain fatty acyl coas	1
+t cell receptor and co stimulatory signaling	1
+tat mediated hiv elongation arrest and recovery	1
+taxane pathway  pharmacokinetics	1
+tca cycle	1
+tca cycle and pdhc	1
+tca cycle HumanCyc	1
+telomere c strand  lagging strand  synthesis	1
+telomere maintenance	1
+terpenoid backbone biosynthesis   homo sapiens  human	1
+the information processing pathway at the ifn beta enhancer	1
+the nlrp3 inflammasome	1
+the prc2 complex sets long term gene silencing through modification of histone tails	1
+threonine and 2 oxobutanoate degradation	1
+tnf signaling	1
+tnf stress related signaling	1
+tnfr1 induced proapoptotic signaling	1
+traf3 dependent irf activation pathway	1
+traf6 mediated irf7 activation	1
+traf6 mediated irf7 activation in tlr7 8 or 9 signaling	1
+trafficking and processing of endosomal tlr	1
+trans sulfuration pathway	1
+transcription coupled ner  tc ner	1
+transcription of the hiv genome	1
+transcriptional activation by nrf2	1
+transcriptional activation of mitochondrial biogenesis	1
+transcriptional regulation by small rnas	1
+transcriptional regulation of white adipocyte differentiation	1
+transcriptional regulation of white adipocyte differentiation Reactome	1
+transfer of acetyl groups into mitochondria	1
+translation factors	1
+translesion synthesis by polh	1
+translesion synthesis by poli	1
+translesion synthesis by polk	1
+translesion synthesis by rev1	1
+translocation of glut4 to the plasma membrane	1
+transport of mature mrna derived from an intron containing transcript	1
+transport of mature mrna derived from an intronless transcript	1
+transport of mature mrnas derived from intronless transcripts	1
+transport of mature transcript to cytoplasm	1
+transport of nucleotide sugars	1
+transport of ribonucleoproteins into the host nucleus	1
+transport of the slbp dependant mature mrna	1
+transport of the slbp independent mature mrna	1
+triacylglycerol biosynthesis	1
+trihydroxycoprostanoyl coa beta oxidation	1
+tristetraprolin  ttp  destabilizes mrna	1
+tryptophan metabolism	1
+tsh	1
+tslp	1
+ubiquinone and other terpenoid quinone biosynthesis   homo sapiens  human	1
+ubiquitin mediated degradation of phosphorylated cdc25a	1
+unfolded protein response  upr	1
+uptake and function of anthrax toxins	1
+utp and ctp  i de novo  i  biosynthesis	1
+validated nuclear estrogen receptor beta network	1
+valine degradation	1
+valine leucine isoleucine degradation	1
+vif mediated degradation of apobec3g	1
+vinka alkaloid pathway  pharmacokinetics	1
+viral messenger rna synthesis	1
+vitamin b5   coa biosynthesis from pantothenate	1
+vitamin b5  pantothenate  metabolism	1
+vitamin digestion and absorption   homo sapiens  human	1
+vitamin e metabolism	1
+vxpx cargo targeting to cilium	1
+warburg effect	1
+west nile virus	1
+wnt mediated activation of dvl	1
+y branching of actin filaments	1
+fluvastatin pathway  pharmacokinetics	1
+atf4 activates genes	1
+nef mediated cd8 down regulation	1
+acyl chain remodeling of cl	1
+transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	1
+activation of akt2	1
+deregulation of cdk5 in alzheimers disease	1
+dicer pathway	1
+carnitine synthesis	1
+creb phosphorylation through the activation of camkk	1
+nr1d1  rev erba  represses gene expression Reactome	1
+methotrexate pathway  pharmacokinetics	1
+palmitate biosynthesis	1
+activation and oligomerization of bak protein	1
+nonhomologous end joining  nhej	1
+phytol degradation	1
+classical antibody mediated complement activation	1
+tca cycle nutrient utilization and invasiveness of ovarian cancer	1
+xenobiotics	1
+bmi1	1
+regulation of hypoxia inducible factor  hif  by oxygen	1
+minus strand dna synthesis	1
+endosomal vacuolar pathway	1
+opposing roles of aif in apoptosis and cell survival	1
+fgfr1b ligand binding and activation	1
+genes and  common  pathways underlying drug addiction	1
+overview of telomerase rna component gene hterc transcriptional regulation	1
+lysine degradation ii  pipecolate pathway	1
+non homologous end joining	1
+utp and ctp dephosphorylation i	1
+butirosin and neomycin biosynthesis   homo sapiens  human	1
+methotrexate pathway  brain cell   pharmacokinetics	1
+gamma  glutamyl cycle	1
+synthesis of 5 eicosatetraenoic acids	1
+tet1 2 3 and tdg demethylate dna	1
+nef mediated downregulation of mhc class i complex cell surface expression	1
+glutamate biosynthesis degradation	1
+proteolysis and signaling pathway of notch	1
+calcitonin like ligand receptors	1
+docosahexaenoate biosynthesis iii  mammals	1
+ifn gamma signaling pathway	1
+mapk6 mapk4 signaling	1
+nadh repair	1
+il 23 signaling	1
+digestion of dietary carbohydrate	1
+glucocorticoid pathway  hpa axis   pharmacodynamics	1
+tandem pore domain potassium channels	1
+yaci and bcma stimulation of b cell immune responses	1
+leukotriene biosynthesis	1
+lrr flii interacting protein 1  lrrfip1  activates type i ifn production	1
+alternative complement activation	1
+ascorbate recycling  cytosolic	1
+formaldehyde oxidation	1
+valproic acid pathway  pharmacokinetics	1
+tenofovir adefovir pathway  pharmacokinetics	1
+fructose 2 6 bisphosphate synthesis	1
+sodium proton exchangers	1
+ca calmodulin dependent protein kinase activation	1
+excitatory neural signalling through 5 htr 7 and  serotonin	1
+chrebp activates metabolic gene expression	1
+transport of gamma carboxylated protein precursors from the endoplasmic reticulum to the golgi apparatus	1
+tpo signaling	1
+assembly of viral components at the budding site	1
+thioredoxin pathway	1
+histamine degradation	1
+vitamin h  biotin  metabolism	1
+heme degradation	1
+heme degradation HumanCyc	1
+alpha defensins	1
+spermine biosynthesis	1
+rho gtpases regulate cftr trafficking	1
+activation of caspases through apoptosome mediated cleavage	1
+hiv 1 defeats host mediated resistance by cem15	1
+chemical compounds to monitor proteins	1
+plk3 signaling events	1
+glycine metabolism	1
+vrnp assembly	1
+2 amino 3 carboxymuconate semialdehyde degradation to glutaryl coa	1
+fatty acid  beta  oxidation  unsaturated  odd number	1
+amplification  of signal from unattached  kinetochores via a mad2  inhibitory signal	1
+biotin metabolism   homo sapiens  human	1
+nad  i de novo  i  biosynthesis	1
+nad biosynthesis ii  from tryptophan	1
+4 hydroxy 2 nonenal detoxification	1
+mrna capping	1
+lactose degradation iii	1
+1d  i myo  i  inositol hexakisphosphate biosynthesis v  from ins 1 3 4 p3	1
+synthesis of gdp mannose	1
+nicotine metabolism	1
+nicotine metabolism pathway	1
+hormone ligand binding receptors	1
+synthesis of pi	1
+atf6 alpha activates chaperones	1
+lectin induced complement pathway	1
+pre notch processing in the endoplasmic reticulum	1
+inositol transporters	1
+vitamin b2  riboflavin  metabolism EHMN	1
+ornithine  i de novo   i  biosynthesis	1
+acyl coa hydrolysis	1
+inhibition of huntingtons disease neurodegeneration by histone deacetylase inhibitors	1
+negative feedback regulation of mapk pathway	1
+estrogen biosynthesis	1
+pre notch expression and processing	1
+mitotic metaphase anaphase transition	1
+toxicity of botulinum toxin type g  bont g	1
+d galactose degradation v  leloir pathway	1
+irak2 mediated activation of tak1 complex upon tlr7 8 or 9 stimulation	1
+biotin carboxyl carrier protein assembly	1
+lipoic acid metabolism   homo sapiens  human	1
+assembly of the rad51 ssdna nucleoprotein complex	1
+organic anion transporters	1
+refsum disease	1
+mitochondrial fatty acid beta oxidation of unsaturated fatty acids	1
+ev release from cardiac cells and their functional effects	1
+s1p4 pathway	1
+beta  alanine degradation	1
+apex1 independent resolution of ap sites via the single nucleotide replacement pathway	1
+phenylalanine  tyrosine and tryptophan biosynthesis   homo sapiens  human	1
+role of ppar gamma coactivators in obesity and thermogenesis	1
+pentose phosphate pathway  non oxidative branch	1
+formation of apoptosome	1
+pantoprazole action pathway	1
+glutathione redox reactions ii	1
+inhibition of host mrna processing and rna silencing	1
+malate aspartate shuttle HumanCyc	1
+bevacizumab action pathway	1
+pentose phosphate pathway  erythrocyte	1
+keratan sulfate degradation	1
+transport and synthesis of paps	1
+amine derived hormones	1
+proton oligonucleotide cotransporters	1
+vpr mediated induction of apoptosis by mitochondrial outer membrane permeabilization	1
+fmo oxidises nucleophiles	1
+regulation of pak 2p34 activity by ps gap rhg10	1
+alpha linolenic acid and linoleic acid metabolism	1
+utilization of ketone bodies	1
+rapid glucocorticoid signaling	1
+stimulation of the cell death response by pak 2p34	1
+proline biosynthesis	1
+influenza virus induced apoptosis	1
+resolution of ap sites via the single nucleotide replacement pathway	1
+cdc25 and chk1 regulatory pathway in response to dna damage	1
+butyrate metabolism	1
+removal of aminoterminal propeptides from gamma carboxylated proteins	1
+methylene blue pathway  pharmacodynamics	1
+gene regulatory network modelling somitogenesis	1
+eif5a regulation in response to inhibition of the nuclear export system	1
+scavenging by class b receptors	1
+spermidine biosynthesis	1
+vitamin a  retinol  metabolism	1
+glutathione biosynthesis	1
+scavenging by class h receptors	1
+lysine degradation i  saccharopine pathway	1
+camk iv mediated phosphorylation of creb	1
+vitamin b1  thiamin  metabolism	1
+glycerol degradation	1
+sucrose degradation	1
+apoptotic factor mediated response	1
+glycoaminoglycan protein linkage region biosynthesis	1
+2 oxoglutarate decarboxylation to succinyl coa	1
+fructose metabolism	1
+polyol pathway	1
+prednisolone action pathway	1
+oxidative stress pathway  erythrocyte	1
+neurotransmitter clearance in the synaptic cleft	1
+creatine biosynthesis	1
+phosphorylation of emi1	1
+nostrin mediated enos trafficking	1
+phospho pla2 pathway	1
+post transcriptional silencing by small rnas	1
+i myo  i  inositol  i de novo  i  biosynthesis	1
+nosip mediated enos trafficking	1
+small interfering rna  sirna  biogenesis	1
+lysine catabolism	1
+brca1 dependent ub ligase activity	1
+fcgr activation	1
+catalytic cycle of mammalian fmos	1
+microrna  mirna  biogenesis	1
+porphyrin metabolism	1
+mitochondrial abc transporters	1
+chl1 interactions	1
+mirna biogenesis	1
+host interactions with influenza factors	1
+ubiquinol 10 biosynthesis	1
+coenzyme a biosynthesis	1
+basic mechanism of action of ppara pparb d  and pparg and effects on gene expression	1
+depolarization of the presynaptic terminal triggers the opening of calcium channels	1
+mitochondrial transcription initiation	1
+methionine degradation	1
+acetate conversion to acetyl coa	1
+nr1d1  rev erba  represses gene expression	1
+creb phosphorylation through the activation of adenylate cyclase	1
+hypophosphatasia	1
+stat6 mediated induction of chemokines	1
+serotonin receptor 2 and stat3 signaling	1
+na  dependent glucose transporters	1
+synthesis of dolichyl phosphate mannose	1
+binding and entry of hiv virion	1
+interactions of tat with host cellular proteins	1
+cation coupled chloride cotransporters	1
+pyrimidine ribonucleosides degradation	1
+clearance of nuclear envelope membranes from chromatin	1
+heme biosynthesis from uroporphyrinogen iii i	1
+irf3 mediated activation of type 1 ifn	1
+orexin and neuropeptides ff and qrfp bind to their respective receptors	1
+alk2 signaling events	1
+gamma carboxylation of protein precursors	1
+sperm motility and taxes	1
+regulation of gene expression by hypoxia inducible factor	1
+adrenaline signalling through alpha 2 adrenergic receptor	1
+dual hijack model of vif in hiv infection	1
+ddx1 as a regulatory component of the drosha microprocessor	1
+alpha oxidation of phytanate	1
+vitamin b1  thiamin  metabolism Reactome	1
+scavenging by class f receptors	1
+beta oxidation of decanoyl coa to octanoyl coa coa	1
+tetrapyrrole biosynthesis	1
+glucocorticoid biosynthesis	1
+axonal growth inhibition  rhoa activation	1
+inhibition of tsc complex formation by pkb	1
+valproic acid metabolism pathway	1
+sulfate activation for sulfonation	1
+signalling to erk5	1
+4 hydroxyproline degradation	1
+17 beta hydroxysteroid dehydrogenase iii deficiency	1
+diphthamide biosynthesis	1
+tca and urea cycles	1
+succinyl coa  3 ketoacid coa transferase deficiency	1
+synthesis of epoxy  eet  and dihydroxyeicosatrienoic acids  dhet	1
+hypusine biosynthesis	1
+ldl mediated lipid transport	1
+glyoxylate metabolism	1
+biotin metabolism	1
+mitochondrial transcription termination	1
+metabolism of serotonin	1
+d  i myo  i  inositol  3 4 5 6  tetrakisphosphate biosynthesis	1
+d glutamine and d glutamate metabolism   homo sapiens  human	1
+interleukin 1 processing	1
+erlotinib action pathway	1
+er phagosome pathway	1
+one carbon donor	1
+abasic sugar phosphate removal via the single nucleotide replacement pathway	1
+glutaryl coa degradation	1
+hypoxia mediated emt and stemness	1
+oxidative ethanol degradation iii	1
+dermatan sulfate degradation  metazoa	1
+synthesis of ps	1
+n glycan trimming and elongation in the cis golgi	1
+defensins	1
+cytosolic iron sulfur cluster assembly	1
+class c 3  metabotropic glutamate pheromone receptors	1
+ifosfamide action pathway	1
+ifosfamide pathway  pharmacokinetics	1
+synthesis of ips in the nucleus	1
+imatinib pathway  pharmacokinetics pharmacodynamics	1
+glutamine degradation glutamate biosynthesis	1
+aurora c signaling	1
+type iii interferon signaling	1
+smac binds to iaps	1
+il 6 signaling	1
+processing of dna ends prior to end rejoining	1
+fatty acids	1
+dolichol and dolichyl phosphate biosynthesis	1
+propionyl coa catabolism	1
+phosphatidylcholine biosynthesis pathway	1
+methylglyoxal degradation iii	1
+protein  i o  i    i n  i  acetyl  glucosylation	1
+epoxysqualene biosynthesis	1
+tetrahydrofolate salvage from 5 10 methenyltetrahydrofolate	1
+fatty acid activation	1
+dopamine activation of neurological reward system	1
+intracellular signalling through pgd2 receptor and prostaglandin d2	1
+vasopressin regulation of water homeostasis	1
+telomere extension by telomerase	1
+transfer of lps from lbp carrier to cd14	1
+glucocorticoid   mineralcorticoid metabolism	1
+steroidogenesis	1
+2 oxoisovalerate decarboxylation to isobutanoyl coa	1
+threonine degradation	1
+fatty acid biosynthesis initiation	1
+i trans  trans  i  farnesyl diphosphate biosynthesis	1
+pentose phosphate pathway Wikipathways	1
+processing of dna double strand break ends	1
+regulation by trex1	1
+ethanol degradation ii	1
+pantothenate and coa biosynthesis	1
+trna splicing	1
+signaling by wnt in cancer	1
+proton coupled monocarboxylate transport	1
+sympathetic nerve pathway  neuroeffector junction	1
+acetylation and deacetylation of rela in nucleus	1
+recognition and association of dna glycosylase with site containing an affected purine	1
+synthesis of lipoxins  lx	1
+clopidogrel metabolism pathway	1
+gefitinib pathway  pharmacokinetics	1
+tacrolimus cyclosporine pathway  pharmacokinetics	1
+rora activates gene expression	1
+localization of the pinch ilk parvin complex to focal adhesions	1
+cross presentation of soluble exogenous antigens  endosomes	1
+vitamins b6 activation to pyridoxal phosphate	1
+ethanol oxidation	1
+g protein signaling through tubby proteins	1
+sodium coupled phosphate cotransporters	1
+arachidonate production from dag	1
+methionine salvage	1
+toxicity of botulinum toxin type b  bont b	1
+rho gtpases activate formins	1
+plasmalogen synthesis	1
+interconversion of polyamines	1
+mechanism of acetaminophen activity and toxicity	1
+inosine 5  phosphate biosynthesis	1
+acyl chain remodeling of dag and tag	1
+uptake and function of diphtheria toxin	1
+cardiolipin biosynthesis	1
+steroid biosynthesis	1
+regulation of ornithine decarboxylase  odc	1
+glutathione redox reactions i	1
+signal dependent regulation of myogenesis by corepressor mitr	1
+pyrimidine ribonucleosides salvage i	1
+mitochondrial l carnitine shuttle	1
+beta oxidation of butanoyl coa to acetyl coa	1
+docetaxel action pathway	1
+l cysteine degradation ii	1
+phospholipase c delta in phospholipid associated cell signaling	1
+wybutosine biosynthesis	1
+ubiquinone biosynthesis	1
+srebp control of lipid synthesis	1
+atm mediated phosphorylation of repair proteins	1
+asparagine biosynthesis	1
+liver x receptor pathway	1
+adrenoceptors	1
+rna interference	1
+fructose biosynthesis	1
+pertussis toxin insensitive ccr5 signaling in macrophage	1
+leukotriene receptors	1
+corticotropin activation of cortisol production	1
+5 aminoimidazole ribonucleotide biosynthesis	1
+tetrahydrobiopterin  i de novo  i  biosynthesis	1
+beta defensins	1
+beta oxidation of hexanoyl coa to butanoyl coa	1
+oncogene induced senescence	1
+oxidative stress induced senescence	1
+autodegradation of the e3 ubiquitin ligase cop1	1
+gamma carboxylation  transport  and amino terminal cleavage of proteins	1
+activation of the phototransduction cascade	1
+tryptophan degradation to 2 amino 3 carboxymuconate semialdehyde	1
+trehalose degradation HumanCyc	1
+i n  i  acetylglucosamine degradation i	1
+i n  i  acetylglucosamine degradation ii	1
+miscellaneous substrates	1
+atf6 alpha activates chaperone genes	1
+chondroitin sulfate degradation  metazoa	1
+gdp glucose biosynthesis ii	1
+thiamine metabolism   homo sapiens  human	1
+clec7a inflammasome pathway	1
+lipid storage and perilipins in skeletal muscle	1
+plc mediated hydrolysis of pip2	1
+metformin pathway  pharmacokinetics	1
+nevirapine metabolism pathway	1
+ketolysis	1
+nef mediated downregulation of cd28 cell surface expression	1
+galactose catabolism	1
+formation of editosomes by adar proteins	1
+mrna editing	1
+recycling of bile acids and salts	1
+pyruvaldehyde degradation	1
+alternative complement pathway	1
+inhibition of signaling by overexpressed egfr	1
+sumo is conjugated to e1  uba2 sae1	1
+assembly of the orc complex at the origin of replication	1
+gaba a receptor activation	1
+ifn alpha signaling pathway	1
+pka mediated phosphorylation of key metabolic factors	1
+p2y receptors	1
+tenofovir adefovir pathway  pharmacodynamics	1
+interconversion of 2 oxoglutarate and 2 hydroxyglutarate	1
+nicotine pathway  pharmacokinetics	1
+hop pathway in cardiac development	1
+reversal of alkylation damage by dna dioxygenases	1
+carnitine synthesis Reactome	1
+dopamine clearance from the synaptic cleft	1
+enzymatic degradation of dopamine by comt	1
+visual signal transduction	1
+transport of organic anions	1
+synthesis of dolichyl phosphate	1
+pravastatin pathway  pharmacokinetics	1
+synthesis of diphthamide eef2	1
+flavin biosynthesis	1
+temocapril action pathway	1
+ump biosynthesis	1
+pyrimidine ribonucleosides degradation HumanCyc	1

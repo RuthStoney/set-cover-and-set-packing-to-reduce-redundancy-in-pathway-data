@@ -1,0 +1,46 @@
+
+Required Files
+•	If you want to reduce redundancy from your own set of pathways, format them into a text file with the pathway name first then the gene names, on each line. Files should be delimited using tabs or commas. Alternatively you can use the included CPDB files (‘text pathways.txt’, ‘text pathways2.txt’).
+
+•	To perform redundancy reduction on enrichment data you need to supply a p-value file. This should be a text file with the pathway name then the p-value on each line.  We have included an example p-value file ‘enriched p values.txt’.
+
+•	Save files into the same folder as the code, so that you only have to type in the file name.
+
+Running the program
+•	open a terminal
+•	Navigate into the file path by typing  ‘cd ‘ followed by the file path
+•	Type ‘python main.py’
+•	To exit the script at any time press ctrl c
+•	Select an algorithm 
+
+Set  Cover
+•	You will be given a choice of algorithms
+		If you want the smallest number of pathways and it doesn’t matter if they’re very large choose ‘standard set cover’
+		If you want to control pathway side and reduce overlap select  ‘proportional set cover’
+		If you want to control pathway side and you have some rare genes in your data set choose ‘hitting set cover’
+
+•	You will be asked which pathway file you want to use.  Type n to use example or enter file name.
+
+•	You will be given the option to finish before all the genes are covered. If you select n (no) then 100% of the genes will be covers. If you choose y (yes) then you will have the opportunity to select how many of the genes in your data set you want to cover. E.g. if you want to cover 99% of the genes in the data set type 99.
+
+Set packing
+•	The set packing algorithm will return a set of pathways that do not overlap; however, a large proportion of your dataset may be lost. To increase the proportion of the data set returned you could allow some overlap (recommended).
+
+•	To use this option type ‘y’ when prompted. You will then be able to specify the maximum amount of pathway overlap that you want to allow, for example you can allow pathway to overlap by a maximum on 10% by typing 10. The higher the value the more overlap there will be but the more of your data set will be covered. If you press n the default of 0% overlap will be used.
+
+•	You will be asked which pathway file you want to use.  Type n to use example or enter file name.
+
+Enrichment set cover
+•	You will be asked which p-value file you want to use. Type n to use the example file, or type y then enter the file name
+
+•	Enter the p-value that you want to use
+
+•	Only pathways in the p-value file that have p-values below the threshold specified, will be retained
+
+Output files
+•	You will get a file called ‘new pathways’ + threshold, containing the name and genes for the new data set
+•	If requested you will get a histogram of jaccard overlap. This shows the total overlap between each pair of pathways in the new dataset
+•	If you do enrichment set cover you will get two heat maps, showing overlap between the top ten pathways.
+
+
+
