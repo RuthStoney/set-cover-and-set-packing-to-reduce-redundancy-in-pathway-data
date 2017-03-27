@@ -6,6 +6,7 @@ import numpy as np
 import pylab
 import copy
 import time
+import sys
 
 def open_pathway_txtfile(infile):
     infile = raw_input("whats the name of your file?\n").lower()
@@ -576,7 +577,6 @@ def enriched_path_overlap(scores, genes, total_genes, heat_map_size, outfile):
     fig.colorbar(cax, ticks=[0, 0.2, 0.4, 0.6, 0.8, 1])
     
     plt.savefig(outfile, bbox_inches='tight')
-    image.open('testplot.png')#.save(outfile.replace('.png', '.jpg',),'JPEG')
     plt.close('all')
 
     print str(len(saved_genes)*1.0/total_genes) + ' genes covered by top '+ str(heat_map_size) +' pathways'

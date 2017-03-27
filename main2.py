@@ -42,23 +42,23 @@ while user_input not in ['n','no','yes','y']:
     user_input = raw_input("\n\n sorry I didn't understand your answer\nto you want to input a pathway textfile? type yes\must be separated by commas or tabs and have .txt extension.\nto use CPDB file press n\n")
 
 if user_input == 'y' or user_input == 'yes':
-    cleanDict = functions2.open_pathway_txtfile('text pathways.txt')
+    pathway_genes_dict = functions2.open_pathway_txtfile('text pathways.txt')
 else:
-    cleanDict = functions2.CreatePathGeneDict_kegg(file_path+'CPDB_human.tab')
-#cleanDict = {k:cleanDict[k] for k in cleanDict.keys()[:200]}
+    pathway_genes_dict = functions2.CreatePathGeneDict_kegg(file_path+'CPDB_human.tab')
+#pathway_genes_dict = {k:pathway_genes_dict[k] for k in pathway_genes_dict.keys()[:200]}
 
 with open('text pathways2.txt', 'w') as f:
-    for k,v in cleanDict.items():
+    for k,v in pathway_genes_dict.items():
         f.write(k)
         for i in v:
             f.write(',' + i)
         f.write('\n')
 
-mean = functions2.descriptives(cleanDict, '\nraw pathways')
-gene_to_path = functions2.key_val_swapper(cleanDict)
+mean = functions2.descriptives(pathway_genes_dict, '\nraw pathways')
+gene_to_path = functions2.key_val_swapper(pathway_genes_dict)
 universe = copy.copy(gene_to_path.keys())
 
-results = functions2.methods_result_scores(cleanDict)
+results = functions2.methods_result_scores(pathway_genes_dict)
 print 'mean paths per gene raw data: ' + str(results)
 
 
@@ -67,25 +67,25 @@ if enrichment_data ==1:
     # read in / analyse
     enrich_pvals = functions2.read_enrichment_data()
     enrich_pvals = dict((k, (1.0-v)/1) for (k, v) in enrich_pvals.items())
-    cleanDict = dict((k, v) for (k, v) in cleanDict.items() if k in enrich_pvals.keys())
-    universe = functions2.key_val_swapper(cleanDict)
+    pathway_genes_dict = dict((k, v) for (k, v) in pathway_genes_dict.items() if k in enrich_pvals.keys())
+    universe = functions2.key_val_swapper(pathway_genes_dict)
 
-    functions2.descriptives(cleanDict, '\nenriched pathways')
-    results = functions2.methods_result_scores(cleanDict)
+    functions2.descriptives(pathway_genes_dict, '\nenriched pathways')
+    results = functions2.methods_result_scores(pathway_genes_dict)
     print 'mean paths per gene enriched paths: ' + str(results)
 
 elif set_overlap == 'set_cover_proportion_uncovered':
-    enrich_pvals = dict( (k, 1.0/((abs(len(v) - mean)+1)*1000000))    for (k, v) in cleanDict.items() )
+    enrich_pvals = dict( (k, 1.0/((abs(len(v) - mean)+1)*1000000))    for (k, v) in pathway_genes_dict.items() )
 
 
 
-#lens = [len(v) for v in cleanDict.values()]
+#lens = [len(v) for v in pathway_genes_dict.values()]
 
 # SET COVER
 if 'set_cover' in set_overlap: 
     
-    overlapping_paths = functions2.overlapping_pathways(cleanDict)
-    gene_to_path = functions2.key_val_swapper(cleanDict)
+    overlapping_paths = functions2.overlapping_pathways(pathway_genes_dict)
+    gene_to_path = functions2.key_val_swapper(pathway_genes_dict)
 
     reduced_redundancy_pathways = [] # store the new pathway dictionaries you make
 
@@ -99,9 +99,9 @@ if 'set_cover' in set_overlap:
 
         # generate the set cover
         if  enrichment_data ==1 or set_overlap == 'set_cover_proportion_uncovered':
-            set_cov, cover_paths_order = functions2.set_cover2(gene_to_path, cleanDict, overlapping_paths, universe, th, set_overlap , enrich_pvals) 
+            set_cov, cover_paths_order = functions2.set_cover2(gene_to_path, pathway_genes_dict, overlapping_paths, universe, th, set_overlap , enrich_pvals) 
         else:
-            set_cov, cover_paths_order = functions2.set_cover2(gene_to_path, cleanDict, overlapping_paths, universe, th, set_overlap ) 
+            set_cov, cover_paths_order = functions2.set_cover2(gene_to_path, pathway_genes_dict, overlapping_paths, universe, th, set_overlap ) 
 
         # stats on the set cover
         functions2.descriptives(set_cov, '\nset cover' + ths)
@@ -118,23 +118,23 @@ if 'set_cover' in set_overlap:
         if enrichment_data ==1:
             heat_map_size = 10
             # convert to jpg using http://png2jpg.com/
-            functions2.enriched_path_overlap(cover_paths_order, cleanDict, len(gene_to_path), heat_map_size, 'heatmap after.png')
+            functions2.enriched_path_overlap(cover_paths_order, pathway_genes_dict, len(gene_to_path), heat_map_size, 'heatmap after.png')
 
     if enrichment_data ==1:
-        functions2.enriched_path_overlap(enrich_pvals, cleanDict, len(gene_to_path), heat_map_size, 'heatmap before.jpg')
+        functions2.enriched_path_overlap(enrich_pvals, pathway_genes_dict, len(gene_to_path), heat_map_size, 'heatmap before.jpg')
 
 
 
 
 # SET PACKING
 if set_overlap == 'set_packing':
-    cleanDict2 = copy.copy (cleanDict)
+    pathway_genes_dict2 = copy.copy (pathway_genes_dict)
     # write dict of paths that go to R for pathclean_clustR.py
-    jaccard_distance_diag_0_bf = functions2.jaccard_simple_matrix (cleanDict) #jaccard_distance_matrix_bf, jac_matrix_abs_bf,
-    gene_list_clean = functions2.genelistmaker(cleanDict)
+    jaccard_distance_diag_0_bf = functions2.jaccard_simple_matrix (pathway_genes_dict) #jaccard_distance_matrix_bf, jac_matrix_abs_bf,
+    gene_list_clean = functions2.genelistmaker(pathway_genes_dict)
  
     set_packing_thresholds = functions2.get_user_thresholds2()
-    reduced_redundancy_pathways = functions2.set_packing3(jaccard_distance_diag_0_bf, cleanDict, len(gene_list_clean), set_packing_thresholds)
+    reduced_redundancy_pathways = functions2.set_packing3(jaccard_distance_diag_0_bf, pathway_genes_dict, len(gene_list_clean), set_packing_thresholds)
 
     for threshold, set_pack in reduced_redundancy_pathways:
         # stats on the set packing
@@ -158,10 +158,10 @@ if jaccard_hist == 'y' or jaccard_hist == 'yes':
 
     plt.close('all')
     if 'set_cover' in set_overlap:
-        jaccard_distance_diag_0_bf = functions2.jaccard_simple_matrix(cleanDict) #, jac_matrix_abs_bf, jaccard_distance_diag_0_bf
+        jaccard_distance_diag_0_bf = functions2.jaccard_simple_matrix(pathway_genes_dict) #, jac_matrix_abs_bf, jaccard_distance_diag_0_bf
         
     jac_before = sorted(list(jaccard_distance_diag_0_bf.values.ravel()))
-    #genes_count_paths1 = functions2.gene_path_count(cleanDict)
+    #genes_count_paths1 = functions2.gene_path_count(pathway_genes_dict)
     
     for th, pathways in reduced_redundancy_pathways:
 
@@ -170,5 +170,6 @@ if jaccard_hist == 'y' or jaccard_hist == 'yes':
         jac_after_cover = sorted(list(jaccard_distance_diag_0.values.ravel()))
         
         functions2.multi_hist([jac_before, jac_after_cover], 20, ['before redundancy removed', 'after redundancy removed'], 'hist ' + str(th) + '.png', 'log')
+
 
 
