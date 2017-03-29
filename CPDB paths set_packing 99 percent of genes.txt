@@ -1,0 +1,484 @@
+copi mediated transport	COPZ1	COPA	COPE	ARF1	COPG1	ARCN1	ARFGAP1	COPB1	COPB2	GBF1
+ev release from cardiac cells and their functional effects	RGS16	CXCL12	ERBB4	MIR143	PRL	MIR150	TNF	KLF2	MIR126	MYB
+proton oligonucleotide cotransporters	SLC15A2	SLC15A3	SLC15A1	SLC15A4
+beta defensins	DEFB1	CCR2	CCR6	DEFB116	DEFB106A	DEFB106B	DEFB115	DEFB112	DEFB4B	DEFB110	DEFB104A	DEFB108B	DEFB118	DEFB119	DEFB134	DEFB135	DEFB136	DEFB130	DEFB131	DEFB132	DEFB133	DEFB114	DEFB127	DEFB104B	DEFB113	DEFB107B	DEFB107A	DEFB124	DEFB4A	TLR2	TLR1	DEFB103A	DEFB129	DEFB128	DEFB105A	DEFB126	DEFB125	DEFB105B	DEFB123	DEFB103B	DEFB121
+minus strand dna synthesis	PPIAP22	PPIA
+er quality control compartment  erqc	MAN1B1	EDEM2	EDEM3	EDEM1	UGGT2	UGGT1
+oncogene induced senescence	ETS2	CDKN2A
+rna polymerase iii chain elongation	POLR3E	POLR3F	CRCP	POLR1D	POLR3H	POLR3GL	POLR2H	POLR2E	POLR3G	POLR3D	POLR1C	POLR3B	POLR3C	POLR2F	POLR3A	POLR2L	POLR3K	POLR2K
+senescence associated secretory phenotype  sasp	CDKN2B	CEBPB	CXCL8	IL6	IGFBP7	IL1A
+pou5f1  oct4   sox2  nanog repress genes related to differentiation	HHEX	TSC22D1	CDX2	DKK1	EOMES	GSC	GATA6
+methionine salvage	MTR	BHMT2	BHMT
+er phagosome pathway	TAP1	TAP2	SEC61G	SEC61B	SEC61A1	SEC61A2
+crosslinking of collagen fibrils	TLL1	TLL2	LOXL3	LOXL4	BMP1	LOXL1	LOXL2	PCOLCE	LOX
+alanine biosynthesis degradation	GPT	GPT2
+bbsome mediated cargo targeting to cilium	RAB3IP	ARL6	SMO	CCT8	CCT2	CCT3	TCP1	CCT4	CCT5	MKKS	TTC8	MCHR1	LZTFL1	BBS9	BBS1	BBIP1	BBS2	BBS5	BBS4	BBS7	BBS10	SSTR3	BBS12
+activation and oligomerization of bak protein	BID	BAK1
+interaction with cumulus cells	SPAM1
+fgfr1c and klotho ligand binding and activation	KL	FGF23	FGFR1
+how does salmonella hijack a cell	ASB15	RAC1	ARPC3	ARPC2	ARPC1A	ARPC4	WASL	ARPC1B	WASF1	ACTR3	ACTR2	CDC42
+ubiquinone biosynthesis	COQ5	COQ7	COQ6	COQ3	COQ2
+lissencephaly gene  lis1  in neuronal migration and development	CSNK2A3	DNAH3	DNAH1	DNAH6	DNAH5	DCTN6	LRP8	DCTN3	ABL1	CLIP1	CDK5R1	RELN	NDEL1	DCTN2	DYNLL1	DCTN1	PAFAH1B1	DNAH8	CSNK2A1	CDK5
+mitochondrial l carnitine shuttle	CPT1A	CRAT	CPT1C	CPT1B	CPT2	CHKB
+assembly of the orc complex at the origin of replication	ORC6	ORC4	ORC5	ORC2	ORC3	ORC1
+dicer pathway	DICER1
+voltage gated potassium channels	KCNC4	KCNC1	KCNC2	KCNC3	KCNG1	KCNG2	KCNG3	KCNG4	KCNA6	KCNA7	KCNA4	KCNA5	KCNA2	KCNA3	KCNA1	KCNS1	KCNS2	KCNS3	KCND1	KCND3	KCND2	KCNQ2	KCNQ4	KCNQ5	KCNAB1	KCNQ3	KCNAB3	KCNQ1	GALNT8	KCNF1	KCNB2	KCNB1	KCNAB2	KCNH5	KCNH4	KCNH7	KCNH6	KCNH1	KCNH3	KCNH2	KCNH8	KCNA10	KCNV2	KCNV1
+cmp  i n  i  acetylneuraminate biosynthesis i  eukaryotes	CMAS	NANP	NANS	GNE
+prostanoid ligand receptors	TBXA2R	PTGFR	PTGDR2	PTGER4	PTGER1	PTGER2	PTGER3	PTGDR	PTGIR
+beta oxidation of butanoyl coa to acetyl coa	ECHS1	ACADS	HADH
+mtb iron assimilation by chelation	LTF
+5 aminoimidazole ribonucleotide biosynthesis	GART	PPAT	PFAS
+sorbitol degradation i	SORD
+reversal of insulin resistance by leptin	ACACA	PRKAB1	PRKAG1	PRKAG2	PRKAA2	PRKAA1	LEPR	LEP	PRKAB2
+oxidized gtp and dgtp detoxification	NUDT1
+the ipaf inflammasome	NLRC4	CASP1
+vitamin c metabolism	SLC2A4	SLC2A3	SLC2A1
+2 amino 3 carboxymuconate semialdehyde degradation to glutaryl coa	DHTKD1	ACMSD
+lipoate biosynthesis and incorporation	LIAS	LIPT1
+phosphatidylserine biosynthesis ii	PTDSS2
+arachidonate biosynthesis iii  metazoa	FADS1	ELOVL5
+catalytic cycle of mammalian fmos	FMO2	FMO3	FMO1	FMO4	FMO5
+inhibition of matrix metalloproteinases	MMP14	RECK	TIMP4	TIMP3	TIMP2	TIMP1	MMP9	MMP2
+disinhibition of snare formation	PRKCA	STXBP3	PRKCB	STX4	PRKCG
+ddx1 as a regulatory component of the drosha microprocessor	DGCR8	MRE11A	ATM	DROSHA	NBN	RAD50	DDX1
+agmatine biosynthesis	AZIN2
+glycoaminoglycan protein linkage region biosynthesis	B3GALT6	XYLT2	XYLT1	B3GAT3	B3GAT2	B3GAT1	B4GALT7
+influenza a virus infection	MIR34C	BCL2
+reactions specific to the hybrid n glycan synthesis pathway	MGAT3
+ticlopidine metabolism pathway	P2RY12
+glutamate biosynthesis degradation	GLUD1P5	GLUD2	GLUD1
+fructose catabolism	KHK	ALDOB	TKFC
+tpo signaling	JAK2	MPL	STAT3	THPO
+abacavir metabolism	ADAL	PCK1	GUK1	NT5C2	ADH1A
+heparan sulfate biosynthesis  late stages	HS3ST6	HS3ST5	HS3ST4	HS3ST2	HS3ST1	HS2ST1	A4GNT	NDST4	NDST1	NDST2	NDST3	HS3ST3A1	HS3ST3B1	EXT2	EXT1	EXTL1	EXTL2	EXTL3	GLCE	HS6ST1	HS6ST2	HS6ST3
+mitochondrial transcription termination	MTERF1
+relaxin receptors	INSL5	RXFP3	RXFP2	RXFP4	INSL3	RXFP1	RLN1	RLN2	RLN3
+scavenging by class h receptors	APOB	SPARC	STAB1	STAB2
+purine deoxyribonucleosides degradation	PNP	ADA
+ahr signal transduction pathway	AHR	HSP90AA1	AIP	ARNT
+post transcriptional silencing by small rnas	TNRC6C	TNRC6B	TNRC6A	AGO4	AGO1	AGO3	AGO2
+vasopressin like receptors	AVPR1B	AVPR1A	OXT	AVPR2	AVP	OXTR
+assembly of viral components at the budding site	CALR	CANX
+toxicity of botulinum toxin type b  bont b	SYT1	SYT2	VAMP2
+plasmalogen biosynthesis	FAR2	AGPS	FAR1	GNPAT
+nef mediated downregulation of mhc class i complex cell surface expression	AP1M2	AP1G1	HLA-A	AP1M1	B2M	AP1S1	AP1S2	AP1S3	AP1B1	PACS1
+synthesis of pi	CDS1	CDIPT
+ceramide  i de novo  i  biosynthesis	KDSR	CERS1	GDF1	DEGS2	SPTLC2	SPTLC3	SPTLC1	SPTSSA
+grb7 events in erbb2 signaling	NRG1	ERBB2	NRG2	GRB7	ERBB3
+synthesis  secretion  and deacylation of ghrelin	SEC11A	SEC11C	PCSK1	SPCS1	SPCS2	GHRL	SPCS3	MBOAT4
+thyroid hormone biosynthesis	TPO	CTSD
+rosuvastatin pathway  pharmacokinetics	SLCO1B1	SLCO1B3	ABCB11	SLCO2B1
+nad biosynthesis from 2 amino 3 carboxymuconate semialdehyde	NMNAT2	QPRT	NMNAT1	NADSYN1	NMNAT3
+cimetidine metabolism pathway	HRH2
+tetrahydrobiopterin  i de novo  i  biosynthesis	SPR	GCH1	PTS
+ifn alpha signaling pathway	STAT2	STAT1	IFNA1	IFNB1	IFNAR2	IFNAR1	ST13	JAK1	IFNA13	TYK2
+homocarnosine biosynthesis	CARNS1
+sodium proton exchangers	SLC9A4	SLC9A5	SLC9A6	SLC9A7	SLC9A1	SLC9A2	SLC9A3	SLC9A8	SLC9A9
+sperm oocyte membrane binding	IZUMO1	IZUMO2	IZUMO3	IZUMO4	CD9
+d mannose degradation	MPI
+dermatan sulfate biosynthesis  late stages	UST	CHST15	CHST14	DSE
+2 oxoglutarate decarboxylation to succinyl coa	DLST	OGDH	DLD
+transfer of lps from lbp carrier to cd14	LBP	CD14
+pentose phosphate pathway  oxidative branch	PGD	G6PD	PGLS	H6PD
+inosine 5  phosphate biosynthesis	PAICS	ADSL	ATIC
+felodipine metabolism pathway	CACNA2D2	CACNB1	CACNA1C
+s adenosyl l methionine biosynthesis	MAT2A	MAT1A	MAT2B
+lactose degradation iii	GLB1L3	GLB1
+spliceosomal assembly	SNRPB2	SRSF2	U2AF1	U2AF2	SNRPA1	SNRPA	U2AF1L5	SNRPC	SNRNP70
+rho gtpases activate formins	ITGB1
+2  deoxy  alpha  d ribose 1 phosphate degradation	ALDH3B2	ALDH3B1	ALDH3A1	PGM2	ALDH1B1	DERA
+amodiaquine pathway  pharmacokinetics	CYP2C8	CYP1B1	CYP1A1
+irs activation	GRB10	INSR	IRS1	IRS2	INS
+inhibition of host mrna processing and rna silencing	PABPN1	CPSF4
+alternative complement activation	C3	GZMM	CFD	CFB
+synthesis of pips at the late endosome membrane	PIK3C3	PIKFYVE	MTM1	FIG4	PIK3C2A	PIK3R4	MTMR7	MTMR4	VAC14	MTMR2
+ketolysis	BDH2	ACAT2	OXCT1	ACAT1	BDH1
+piwi interacting rna  pirna  biogenesis	TDRKH	PIWIL4	PIWIL2	PIWIL1	TDRD1	ASZ1	PLD6	TDRD6	DDX4	TDRD9	MAEL	TDRD12	MOV10L1	HENMT1
+classical antibody mediated complement activation	IGKV4-1	IGLV4-3	CRP	C1S	IGKV5-2	IGLV5-45	IGHG4	IGLV1-44	IGHG1	IGHG2	IGHG3	IGLC6	IGLV2-11	IGLC2	IGLC3	IGKV1D-16	IGKC	IGLV1-36	IGLV2-18	IGLV2-33	IGLV7-46	IGLV3-12	IGLV7-43	IGKV1D-33	IGKV3D-20	IGKV3-11	IGLV11-55	IGLV8-61	IGHV7-81	IGKV2-40	IGLV5-37	IGLV3-25	IGKV1D-42	IGLV10-54	IGKV3-20	IGHV2-70	IGHV3-23	IGLV2-23	IGLV4-69	IGKV1-5	IGLV1-40	IGLV3-22	IGLV3-16	C1QC	C1QB	C1QA	IGLV3-27	IGLV4-60	IGLC7	IGKV3D-11	C1R
+incretin synthesis  secretion  and inactivation	GCG	GIP
+mrna decay by 5  to 3  exoribonuclease	DCP2	EDC4	LSM4	LSM5	LSM6	LSM7	LSM1	LSM2	LSM3	EDC3	DDX6	DCP1B	DCP1A	PATL1	XRN1
+glutamine degradation glutamate biosynthesis	GLS	ASNS	GLS2
+cam pde 1 activation	CALM2	CALM3	CALM1	PDE1C	PDE1B	PDE1A
+vitamin k metabolism	F2	GGCX	VKORC1	NQO1
+pcsk9 mediated ldlr degradation	PCSK9
+dual hijack model of vif in hiv infection	TCEB2	APOBEC3G	CBFB	RUNX1	UBB	CUL5	TCEB1
+heme degradation HumanCyc	BLVRB	BLVRA	HMOX1	HMOX2
+wnt ligand secretion is abrogated by the porcn inhibitor lgk974	PORCN
+formation of the editosome	APOBEC1	A1CF
+phosphatidylcholine biosynthesis pathway	PCYT1A	CEPT1	CHKA
+regulation by trex1	ATRIP	TREX1
+nectin necl  trans heterodimerization	PVR	PVRL1	PVRL3	PVRL2	PVRL4	CADM3	CADM1
+post chaperonin tubulin folding pathway	TUBA3C	ARL2	TUBA3D	TUBA1C	TUBB4B	TUBA1A	TBCD	TBCC	TBCB	TBCA	TUBB1	TUBB6	TUBB3	TUBA1B	TUBA4A	TUBB2A	TUBB4A	TBCE	TUBB2B
+gastric histamine release	CCK
+heme biosynthesis from uroporphyrinogen iii i	UROD	PPOX	CPOX	FECH
+taurine biosynthesis	ADO	CSAD	CDO1
+adenine and adenosine salvage i	APRT
+chrebp activates metabolic gene expression	MLXIPL	MLX
+sumo is conjugated to e1  uba2 sae1	SUMO1	SUMO3	SUMO2	UBA2	SAE1
+pilocytic astrocytoma	PTPN11	GRB2	SOS1	NF1
+regulation of cytoskeletal remodeling and cell spreading by ipp complex components	ACTN1	RSU1	ARHGEF6	LIMS1	PXN	LIMS3L	PARVB	PARVA	TESK1
+oxygen dependent asparagine hydroxylation of hypoxia inducible factor alpha	HIF1AN	HIF1A	EPAS1
+yap1  and wwtr1  taz  stimulated gene expression	WWTR1	KAT2B	RUNX2	TBX5	TEAD3	TEAD2	TEAD1	YAP1	TEAD4
+coenzyme a biosynthesis	PANK1	PPCDC	COASY	PANK2	PANK4	PANK3	PPCS
+proteoglycan syndecan mediated signaling events	SDC1	SDC2	SDC3	SDC4
+i myo  i  inositol  i de novo  i  biosynthesis	IMPA1	IMPA2	IMPAD1	ISYNA1
+clearance of nuclear envelope membranes from chromatin	EMD	TMPO	VRK1	VRK2	BANF1	LEMD3	LEMD2
+insulin like growth factor 2 mrna binding proteins  igf2bps imps vickzs  bind rna	IGF2BP1	IGF2BP3	IGF2BP2
+signalling to erk5	MAPK7	MAP2K5
+interactome of polycomb repressive complex 2  prc2	MORC3	THRAP3	ELL	RBBP7	MTF2	JARID2	BCLAF1	TRIM35	RBBP4	EZH1	EZH2	SUZ12	AEBP2	STK38	EED	SETX
+glutamate removal from folates	GGH
+alternative nf kappab pathway	BTRC	CHUK	MAP3K14	NFKB1	RELB	NFKB2
+copii  coat protein 2  mediated vesicle transport	SEC23A	SEC13	PREB	SEC24D	SEC24A	SEC24C	SEC24B	SAR1B	SEC31A
+aspartate biosynthesis	GOT1	GOT1L1
+formation of editosomes by adar proteins	ADAR	ADARB1
+terminal pathway of complement	C8B	C8A	C9	C8G	C7	C6	C5
+regulation of signaling by nodal	ACVR2A	ACVR2B	ACVR1C	ACVR1B	NODAL	LEFTY2	LEFTY1	TDGF1	CER1	CFC1
+rna polymerase iii transcription	NR3C1	BDP1	GTF3C3	GTF3C1	GTF3C5	GTF3C4	BRF1
+sodium coupled sulphate  di  and tri carboxylate transporters	SLC13A1	SLC13A2	SLC13A3	SLC13A4	SLC13A5
+adrenaline signalling through alpha 2 adrenergic receptor	ADRA2A	ADRA2B	ADRA2C
+chemical compounds to monitor proteins	OPRK1	GSK3A	BRDT	NR1H4	BRD4	BRD2	BRD3
+hop pathway in cardiac development	GATA4	HOPX	SRF	NKX2-5
+thioredoxin pathway	PRDX5	TXNRD2	TXNRD3	TXNRD1
+n glycan trimming and elongation in the cis golgi	MGAT1	MAN1C1	MAN1A1	MAN1A2	MANEA
+spirapril metabolism pathway	ACE
+atp sensitive potassium channels	KCNJ11	KCNJ8	ABCC8	ABCC9
+triacylglycerol biosynthesis	PPAP2C	PPAP2B	PPAP2A	LCLAT1	GPAT4	GPAT3	GPAT2	MBOAT2	MBOAT1	MBOAT7	GPAM	DGAT1	DGAT2	PPAPDC1A	LPCAT4	LPCAT3	MOGAT3	MOGAT1	ABHD5	AGPAT5	AGPAT4	AGPAT3	AGPAT2	AGPAT1
+glycerol degradation	GK	GK2	GK5	GK3P	GPD2
+dipyridamole  antiplatelet  action pathway	PDE4D
+irak2 mediated activation of tak1 complex upon tlr7 8 or 9 stimulation	TRAF6	TAB3	TAB2	TAB1	MAP3K7	IRAK2
+plc mediated hydrolysis of pip2	SYK	PLCG2	CLEC1B	PDPN
+amplification  of signal from unattached  kinetochores via a mad2  inhibitory signal	MAD1L1	MAD2L1
+vitamin b2  riboflavin  metabolism EHMN	ENPP2	ACP6	ACPP	ENPP3	ENPP1
+entry of influenza virion into host cell via endocytosis	CLTA
+proline biosynthesis	PYCR2	ALDH18A1	PYCR1	PYCRL
+creatine biosynthesis	GATM	GAMT
+malate aspartate shuttle	GOT2	SLC25A12	SLC25A11	MDH2
+formyl peptide receptors bind formyl peptides and many other ligands	ANXA1	FPR1	APP	FPR3	SAA1	MT-RNR2	HEBP1	CCL23	FPR2
+kinesins	KIF26A	KIF15	KIF11	KIFAP3	KIF2A	KIF2C	KIF2B	RACGAP1	KIF4B	KIF4A	KIFC1	KIF9	CENPE	KIF18A	KIF3B	KIF3C	KIF3A	KIF5A	KIF5B	KIF23	KIF22	KLC1	KLC2	KLC3	KLC4	KIF20A
+conjugation of salicylate with glycine	GLYATL2	GLYATL1	ACSM5	ACSM2A	ACSM2B	ACSM4	GLYAT
+ascorbate recycling  cytosolic	GSTO1	GLRX
+proteasome complex	RPN1	RPN2	PSMD4	PSMD3	UBE3A	PSMA2	PSMA3	PSMA1	PSMA6	PSMA7	PSMA4	PSMA5	UBA1	UBE2A	PSMD14	PSMD11	PSMD12	PSMB7	PSMB6	PSMB5	PSMB4	PSMB3	PSMB2	PSMB1
+atf6 alpha activates chaperones	ATF6	MBTPS2	HSPA5	MBTPS1
+proton coupled neutral amino acid transporters	SLC36A2	SLC36A1
+signaling by fgfr2 amplification mutants	FGFR2
+tachykinin receptors bind tachykinins	TAC1	TAC3	TACR3	TACR2	TACR1
+activation of ampa receptors	GRIA2	GRIA3	GRIA1	GRIA4
+synthesis of dolichyl phosphate mannose	DPM3	DPM2	DPM1
+prednisone metabolism pathway	CYP3A4
+miscellaneous transport and binding events	NIPAL1	NIPAL2	NIPAL3	ADD3	ADD2	ADD1	TUSC3	ANKH	NIPA2	NIPA1	DMTN	AZGP1	MRS2	MAGT1	MMGT1	PIP	NIPAL4	CTNS
+activation of bmf and translocation to mitochondria	MAPK8	BMF	DYNLL2
+udp  i n  i  acetyl d galactosamine biosynthesis i	GALE
+fructose 2 6 bisphosphate synthesis	PFKFB1	PFKFB3	PFKFB2	TIGAR	PFKFB4
+methylglyoxal degradation vi	LDHD
+pregnenolone biosynthesis HumanCyc	CYP11A1
+synthesis of udp n acetyl glucosamine	GFPT1	GFPT2	UAP1	GNPNAT1	PGM3
+telomere c strand synthesis initiation	POLA2	POLA1	POLE	PRIM1	POLE2	PRIM2
+glial cell differentiation	GAP43	CNP	TPPP	MIR206	MSN	MAG	PLP1	MBP
+cohesin loading onto chromatin	SMC1A	MAU2	RAD21	STAG2	SMC3	STAG1	PDS5A	PDS5B	NIPBL	WAPL
+vitamin b1  thiamin  metabolism	SLC19A2	SLC19A3	SLC19A1
+histamine biosynthesis	HDC
+twik related potassium channel  trek	KCNK4	KCNK10	KCNK2
+levomethadyl acetate metabolism pathway	CYP3A7	CYP3A7-CYP3A51P
+degradation of superoxides	TYRP1	CAT	SOD2	SOD3	SOD1
+alpha defensins	ART1	DEFA5	CD4	DEFA6	PRSS3	DEFA4	DEFA3	DEFA1	PRSS2	DEFA1B
+transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	SLC28A2	SLC28A3	SLC28A1	SLC29A4	SLC29A3	SLC29A2	SLC29A1
+interconversion of 2 oxoglutarate and 2 hydroxyglutarate	D2HGDH	ADHFE1	L2HGDH
+nadh repair	APOA1BP	GAPDH	CARKD
+gaba a  rho  receptor activation	GABRR1	GABRR2	GABRR3
+signal dependent regulation of myogenesis by corepressor mitr	MYOD1	HDAC9	YWHAH	CAMK2B	MEF2C	MEF2B	MEF2A	BORCS8-MEF2B	MEF2D
+glypican 2 network	MDK	GPC2
+gastric pepsin release	PGA3	PGA4	PGA5	PGC
+adenine and adenosine salvage ii	ADK
+alphae beta7 integrin cell surface interactions	CDH1	ITGAE	ITGB7
+nad phosphorylation and dephosphorylation	NADK	NNT
+aromatic amines can be n hydroxylated or n dealkylated by cyp1a2	CYP1A2
+recycling of eif2 gdp	EIF2B4	EIF2B5	EIF2B2	EIF2B3	EIF2B1	EIF2S1	EIF2S3	EIF2S2
+mir34a and tgif2 in osteoclastogenesis	MIR34A	TGIF2
+butirosin and neomycin biosynthesis   homo sapiens  human	HKDC1	HK2	GCK	HK1	HK3
+4 hydroxy 2 nonenal detoxification	GSTA4	GSTA5	GSTP1	GSTA1	GSTA3
+pre notch expression and processing	NOTCH1	NOTCH2	NOTCH3
+antagonism of activin by follistatin	INHBA	INHBB	FST	FSTL3
+phytol degradation	ALDH3A2	PECR
+histidine degradation	HAL	UROC1	MTHFD1	AMDHD1	FTCD	MTHFD2
+cation coupled chloride cotransporters	SLC12A5	SLC12A4	SLC12A7	SLC12A6	SLC12A1	SLC12A3	SLC12A2
+sperm motility and taxes	CATSPER4	HVCN1	CATSPER1	CATSPER2	CATSPER3	KCNU1	CATSPERD	CATSPERG	CATSPERB
+cross presentation of particulate exogenous antigens  phagosomes	NCF2	NCF1	ITGB5	NCF4	ITGAV	CYBB	CYBA	CD36
+ump biosynthesis	UMPS	CAD
+zinc efflux and compartmentalization by the slc30 family	SLC30A8	SLC30A5	SLC30A7	SLC30A6	SLC30A1	SLC30A3	SLC30A2
+synthesis of ips in the nucleus	IPMK	IPPK	IP6K2	IP6K1
+alpha synuclein and parkin mediated proteolysis in parkinson s disease	PARK2	SNCA
+alkbh3 mediated reversal of alkylation damage	ASCC3	ASCC2	ASCC1	ALKBH3
+release of apoptotic factors from the mitochondria	DIABLO	CYCS
+2fe 2s  iron sulfur cluster biosynthesis	NFS1
+oleate biosynthesis	SCD	SCD5	ACOT4	FADS6	ACOT2	ACOT1
+transport of fatty acids	APOD	LCN1	LCN9	LCN15	LCN12	SLC27A4	SLC27A6	SLC27A1
+abnormal conversion of 2 oxoglutarate to 2 hydroxyglutarate	IDH1
+i n  i  acetylglucosamine degradation i	GNPDA2	AMDHD2	GNPDA1
+l serine degradation	SDSL
+vitamin d sub 3  sub  biosynthesis	CYP2R1	POR	CYP27B1
+gaba synthesis	GAD1	GAD2
+regulation of thyroid hormone activity	DIO1	DIO2	DIO3
+nicotine degradation iii	AOX1	CYP2G1P	CYP2S1	UGT2B10	UGT2B11	UGT1A4	UGT1A6	CYP4X1	CYP2U1	CYP2A6
+lgi adam interactions	STX1A	CACNG8	STX1B	ADAM23	DLG4	LGI3	LGI4	ADAM11	LGI1	LGI2	ADAM22	CACNG2	CACNG3	CACNG4
+reversible hydration of carbon dioxide	IDH3A	CA5B	CA9	IDH3B	IDH3G	CA3	CA2	CA1	CA14	CA13	CA12	CA4	CA6	CA5A	CA7
+degradation of the rar and rxr by the proteasome	RARA	RXRA
+sulfite oxidation	SUOX
+digestion of dietary lipid	PNLIPRP1	CLPS	PNLIPRP2	PNLIP	CEL
+d glucuronate degradation	CRYL1	DCXR
+l carnitine biosynthesis	TMLHE	ALDH9A1	BBOX1
+flavin biosynthesis	RFK	FLAD1
+proline degradation	PRODH	ALDH4A1
+pdgf receptor signaling network	PDGFRB	PDGFB	PDGFC	PDGFD	PDGFA	PDGFRA
+gaba a receptor activation	GABRB3	ARHGEF9	GABRG3	GABRG2	GABRQ	GABRA4	GABRA5	GABRB1	GABRB2	GABRA6	GABRA1	GABRA3	GABRA2
+vatalanib action pathway	KDR
+multifunctional anion exchangers	SLC26A1	SLC26A2	SLC26A3	SLC26A6	SLC26A7	SLC26A9
+gdp l fucose biosynthesis ii  from l fucose	FPGT	FUK
+iron metabolism in placenta	TFR2	SLC11A2	SLC40A1	HAMP	HEPHL1	TF	TFRC	MCOLN1	ACO1	STEAP3	FTH1	IREB2
+rhesus glycoproteins mediate ammonium transport	RHCG	RHAG	RHBG
+alk2 signaling events	BMP7	AMH	ACVR1	SMAD9	SMAD4	SMAD5	AMHR2	SMAD1	TLX2	BMPR2	FKBP1A
+pi and pc transport between er and golgi membranes	PITPNB
+serine biosynthesis	PSAT1	PHGDH	PSPH
+glutamine biosynthesis	GLUL
+rho gtpases activate rhotekin and rhophilins	TAX1BP3	LIN7B	RHPN1	RHPN2	ROPN1	RTKN	RHOC	RHOB	RHOA
+hypusine biosynthesis	DHPS	DOHH
+abasic sugar phosphate removal via the single nucleotide replacement pathway	APEX1	POLB
+leukotriene receptors	GPR17	LTB4R	CYSLTR2	LTB4R2	CYSLTR1
+inhibition of pkr	EIF2AK2
+viral rnp complexes in the host cell nucleus	HSPA1B	HSPA1A
+twik related spinal cord k  channel  tresk	KCNK18
+4 hydroxybenzoate biosynthesis	TAT
+brca1 dependent ub ligase activity	BRCA1	FANCD2	BARD1	FANCG	FANCF	FANCE	FANCC	FANCA
+organic anion transport	SLC22A12	SLC22A6	SLC22A7	SLC22A8	SLC22A11
+acetate conversion to acetyl coa	ACSS3	ACSS2	ACSS1
+histamine degradation	AOC1	HNMT
+thiosulfate disproportionation iii  rhodanese	TST
+i s  i  methyl 5  thioadenosine degradation	MTAP
+creatine phosphate biosynthesis	CKMT2	CKM	CKMT1A	CKMT1B	CKB
+alpha6 beta4 integrin ligand interactions	LAMA1	LAMA2	LAMA3	LAMB2	LAMA5	ITGA6	LAMB1	LAMC2	LAMB3	LAMC1	ITGB4
+regulation of pak 2p34 activity by ps gap rhg10	ARHGAP10	PAK2
+nfg and prongf binds to p75ntr	NGF	NGFR
+abacavir transmembrane transport	ABCG2	SLC22A1	ABCB1	SLC22A2	SLC22A3
+retinoid cycle disease events	NAPEPLD
+geranylgeranyldiphosphate biosynthesis	GGPS1
+eukaryotic translation termination	RPL23	RPL17-C18ORF32	FAU	RPL14	RPL15	RPL17	RPL10	RPL11	RPL12	RPL13	RPL18	RPL19	RPL36AP37	UBA52	RPL37A	RPL8	RPL9	RPL6	RPL7	RPL27A	RPL5	RPL3	RPL7A	RPS9	RPL10A	GSPT2	RPS28P7	RPL39P3	RPSAP58	RPLP2	RPLP1	RPLP0	RPL18A	RPL35A	RPS15A	RPS7	RPS6	RPS5	RPS3	RPS2	RPL41	RPS8	RPS28P4	RPS4Y1	RPS15	ETF1	RPL13A	RPL4	RPS26	RPS27	RPS24	RPS25	RPS23	RPS20	RPS21	RPS28	RPS29	RPS4X	RPSA	RPS3A	RPS13	RPS12	RPS11	RPS10	RPS17	RPS16	RPL23A	RPS14	RPS19	RPS18	RPL3L	RPL29	RPL28	RPL24	RPL27	RPL26	RPL21	RPL21P16	RPL22	RPS26P25	RPS26P20	RPS27A	RPL26L1	RPL38	RPL39	RPL36	RPL37	RPL34	RPL35	RPL32	RPL30	RPL31	RPL36A	RPL23AP42
+adefovir dipivoxil metabolism pathway	AK2	AK1	NME1	NME2	NME1-NME2
+trafficking of dietary sterols	ABCG8	NPC1L1	ABCG5
+overview of telomerase rna component gene hterc transcriptional regulation	SP1	SP3	TERC	RB1	NFYC	NFYB	NFYA
+fatty acid  beta  oxidation  unsaturated  odd number	ECI2	ECI1	EHHADH
+hydrolysis of lpe	RPS18P1	PLA2G4C	GPCPD1
+l dopachrome biosynthesis	TYR
+acetylation and deacetylation of rela in nucleus	RELA	EP300	NFKBIA	HDAC3	CREBBP
+ficolins bind to repetitive carbohydrate structures on the target cell surface	FCN3	FCN2	FCN1	MASP1	MASP2
+cyclin b2 mediated events	CDC25C	CCNB2	CDC25A	CDC25B	CDK1
+protein  i o  i    i n  i  acetyl  glucosylation	OGT	MGEA5
+the fatty acid cycling model	UCP1	UCP2	SLC25A14	SLC25A27	UCP3
+highly calcium permeable nicotinic acetylcholine receptors	CHRNB3	CHRNB2	CHRNB4	CHRNA4	CHRNA5	CHRNA6	CHRNA1	CHRNA2	CHRNA3
+mgmt mediated dna damage reversal	MGMT
+progesterone biosynthesis	HSD3B1	HSD3B2
+glycine serine biosynthesis	SHMT2	SHMT1
+tandem of pore domain in a weak inwardly rectifying k  channels  twik	KCNK6	KCNK7	KCNK1
+twik releated acid sensitive k  channel  task	KCNK9	KCNK3
+phospholipase c delta in phospholipid associated cell signaling	TGM2	ADRA1B	DLC1	PLCD1
+tcf dependent signaling in response to wnt	TCF4	MYC	AXIN2
+lysosphingolipid and lpa receptors	S1PR3	S1PR2	S1PR1	S1PR5	S1PR4	LPAR2	LPAR3	LPAR1	LPAR5
+one carbon donor	MTHFR
+extrinsic pathway of fibrin clot formation	F9	F10	F3	F7	TFPI
+reactions specific to the complex n glycan synthesis pathway	MGAT2	MAN2A2	MAN2A1	FUT8
+organic anion transporters	SLC17A8	SLC17A5	SLC17A6	SLC17A7	SLC17A1	SLC5A5	SLC5A8	SLC25A10
+synthesis of dolichyl phosphate glucose	ALG5
+utp and ctp dephosphorylation i	NTPCR	CTPS2	CTPS1
+toxicity of botulinum toxin type a  bont a	SV2A	SNAP25	SV2C	SV2B
+glutathione redox reactions i	GSR	GPX1	GPX3	GPX2	GPX5	GPX4	GPX7	GPX6	GPX8
+c type lectin receptors  clrs	IL1B
+formaldehyde oxidation	ESD	ADH5
+insulin effects increased synthesis of xylulose 5 phosphate	TKT	TALDO1
+alpha oxidation of phytanate	SLC25A17	HACL1	SLC27A2	PHYH
+mir targeted genes in epithelium   tarbase	MIR30E	MIR30D	MIRLET7E	MIRLET7B	UBE2J1	GNAI2	MIR30B	PLK1	SRSF9	MIR138-2	MIR138-1	P4HA2	CHMP2A	ANP32B	SRSF10	GFM1	DHX15	BRI3BP	LTN1	MIR15B	TMED10	MIR107	PPP1R7	COMMD9	MIR1-1	MIR1-2	ACAA2	PPP2R4	FSTL1	SLC12A4	RARS	MIR30C2	MIR30C1	TMEM59	MIR196A2	MIR196A1	DMTF1	BCL6	TDG	CDKN2A	SLC38A1	MTX1	RAB5C	SLC38A2	SLC12A2	IDH1	CTSC	CD164	SLC25A22	SERP1	YIF1B	IFRD1	SLC25A24	CLDN1	NXN	NUCB1	KRAS	SYPL1	PODXL	UBE4A	PTMA	TNFRSF10B	CCND1	UBE2S	ARID1A	PPP5C	SNAP29	ARCN1	KIT	DDX5	TMEM189-UBE2V1	CEP72	MTRR	CSRP1	SPTLC1	TMEM43	MAGT1	HSD17B12	HOXC8	FBXW11	SNX6	ATP2A2	CDKN1C	CDKN1B	KDELC2	DOCK7	SEC62	MIR9-3	MIR23A	MIR92A2	RAI14	MATR3	CUL4B	UNC93B1	COL3A1	MIR3074	SERPINE2	ATAD3B	MIR222	MIR221	ABCF2	MIR199B	ATG9A	MIR141	MIR140	NT5E	NARS	MRC2	MIR26A2	FNDC3A	FNDC3B	CDK5RAP1	PKM	SMC1A	PDLIM5	PDLIM7	RCN2	DCAF7	COL1A1	ATP6V0E1	MAP3K8	PGM1	MIR30A	TP53INP1	COL4A2	POLR2C	CDK5RAP3	TPM1	RHOB	PHLDB2	CAPG	NUFIP2	GALNT1	LMNB2	GJA1	HACD3	RHEB	MTHFD2	HAND2	TUBA1A	PHC2	MRPS24	G6PD	HMOX1	DHX40	TNFAIP2	ELOVL5	PXDN	WDFY1	GFPT1	IPO4	DNAJB1	LAMTOR3	GRPEL2	RAD23B	HDAC4	ACP2	CLOCK	MIR34A	LCLAT1	MYO1E	MIR103A1	SCYL1	MAPK14	CCNG1	PRPF40A	MIR16-1	CA12	MIR16-2	HARS	ATRX	CDIPT	EHMT1	GALNT7	GAS2L1	TMED2	WDR82	ADIPOR2	MIR206	TPM4	NEDD4	CSNK1D	ZNF622	ARF4	MIR181A2	MIR181A1	HNRNPM	UTP15	TMED3	IGF2R	MIR127	MIR199A1	MIR199A2	MIR122	SDCBP	TGFBR2	C1QBP	MIR196B	BACE1	FAR1	GOLGA7	FAM96A	WNT5A	ANXA2	MIR9-1	RAB6A	MPZL1	TMED7	MBNL1	FADS1	SYNE1	SYNE2	DOCK5	AP3D1	MIR20B	KCNJ2	LRP1	NELFCD	CORO1C	VPS39	GSTM4	GEMIN7	STX7	CTDSP1	TRAM1	MET	WDR11	MIR23B	MIR181B2	CDK6	MIR181B1	PPIF	AMIGO2	PPIB	MYO10	CDCP1	LAMC1	MPDU1	LAMTOR5	ADAR	MRPS33	EGFR	TMEM109	MIR27B	PTBP1	EZH2	CHAF1A	ADPGK	CYP1B1	HOXD8	RRP8	MIR181D	MIR181C	MIR101-2	MIR101-1	IQGAP3	NCL	MIR375	RAB34	MIR370	PGC	CAND1	PTPRF	CALCOCO2	YWHAQ	TPM3	MIR26A1	RB1	PPL	BRPF3	ATG3	MIR106A	GAK	AURKB	ARHGDIA	CYP51A1	MIR133B	TERT	SLC25A1	GNA13	SLC4A10	CHD1	ARFIP2	POLD2	MAT2A	ITGB4	PGRMC1	CEBPB	RTN4	LY6K	MIR124-2	MIR124-3	CYR61	RDH10	MTPN	CPNE8	MIRLET7A1	MIRLET7A2	MIRLET7A3	MIR21	TRIP13	NRP1	CSDE1	TXN2	TCL1A	TRMT1	PRKCI	E2F1	PNP	MIR133A2	PTGES3L-AARSD1	FERMT2	NOTCH1	NOTCH2	VEZT	PSAT1	TYMS	PURA	ANKFY1	BCKDHB	TPPP3	VTI1B	SLC1A4	MYLIP	HES1	BACH1	PICALM
+biotin metabolism   homo sapiens  human	BTD	HLCS	OXSM
+slbp dependent processing of replication dependent histone pre mrnas	SLBP	SNRPD3	NCBP1	NCBP2	LSM10	LSM11	SNRPB	ZNF473	SNRPF	SNRPG	SNRPE
+processing of dna double strand break ends	RPA1	RPA3	RPA2
+free fatty acid receptors	GPR31	FFAR2	FFAR1	FFAR4	FFAR3
+dopamine receptors	DRD4	DRD5	DRD2	DRD3	DRD1
+l dopa degradation	COMT
+lactate fermentation  reoxidation of cytosolic nadh	LDHAL6A	LDHAL6B	LDHA	LDHB	LDHC
+tca and urea cycles	FH
+hdms demethylate histones	HIST1H4C	HIST1H4B	KDM1B	HIST1H4F	HIST1H4E	KDM1A	HIST1H4K	HIST1H4J	HIST1H4I	HIST1H4H	HIST1H4A	HIST1H4L	HIST2H4B	HIST2H4A	HIST4H4	JMJD6	HIST1H4D	KDM3B	KDM4C	KDM4B	KDM4A	KDM6A	KDM4D	KDM2A	KDM2B	KDM6B	HIST1H3B	HIST1H3C	HIST2H3D	HIST1H3F	HIST1H3G	HIST2H3A	HIST1H3E	HIST1H3J	HIST1H3H	HIST1H3I	ARID5B	KDM5D	HIST1H3A	PHF8	KDM7A	HIST1H3D	HIST2H3C	KDM3A	PHF2	KDM5A	KDM5B	KDM5C
+gamma  glutamyl cycle	GSS	GCLM	GCLC	GGCT	OPLAH	CNDP2
+cross presentation of soluble exogenous antigens  endosomes	MRC1	MRC2	FCGR1B	FCGR1A	CD207
+arl13b mediated ciliary trafficking of inpp5e	ARL13B	INPP5E	PDE6D
+bicarbonate transporters	SLC4A10	SLC4A5	SLC4A4	SLC4A7	SLC4A1	SLC4A3	SLC4A2	SLC4A9	SLC4A8
+acyl coa hydrolysis	ACOT7	ACOT8	ACOT9
+muscarinic acetylcholine receptors	CHRM5	CHRM4	CHRM3	CHRM2	CHRM1
+synthesis of ips in the er lumen	MINPP1
+ganglio sphingolipid metabolism	B3GALT4	ST3GAL2	ST3GAL1	B4GALNT1	ST3GAL5	A3GALT2	ST8SIA5	ST8SIA3	ST8SIA1	SLC33A1	FUT1	ST6GALNAC6	B3GALT1
+putrescine biosynthesis i	ODC1
+telomere extension by telomerase	RUVBL1	RUVBL2	NHP2	WRAP53	DKC1	TERT
+degradation of gaba	ALDH5A1	ABAT
+o glycosylation of tsr domain containing proteins	SSPO	ADAMTS9	SBSPON	ADAMTS10	ADAMTS13	ADAMTS12	ADAMTS15	ADAMTS14	ADAMTS17	ADAMTS16	ADAMTS19	ADAMTS18	POFUT2	ADAMTSL2	ADAMTS4	ADAMTS7	ADAMTS6	ADAMTS1	ADAMTSL4	ADAMTSL5	THBS2	ADAMTS8	THBS1	B3GLCT	SPON2	SPON1	ADAMTSL3	THSD4	THSD1	THSD7A	ADAMTS5	ADAMTS20	THSD7B	ADAMTS3	SEMA5A	ADAMTS2	SEMA5B	ADAMTSL1	CFP
+arachidonate production from dag	DAGLA	DAGLB	MGLL
+nosip mediated enos trafficking	NOSIP	NOS3
+xav939 inhibits tankyrase  stabilizing axin	TNKS	TNKS2
+gastric gastrin release	GAST
+nef mediated cd8 down regulation	AP2S1	ATP6V1H	AP2M1	AP2A1	AP2A2	CD8B	AP2B1
+mitochondrial translation elongation	MRPL24	MRPL27	MRPL21	MRPL20	MRPL23	MRPL22	MRPL41	MRPL28	MRPS23	MRPS17	MRPS16	MRPS15	MRPS14	MRPS12	MRPS11	MRPS10	MRPL14	MRPL33	DAP3	ICT1	CHCHD1	MRPS9	AURKAIP1	MRPS34	MRPS36	MRPS31	MRPS30	MRPS33	MRPL54	MRPL55	MRPL50	MRPL51	MRPL52	MRPS6	MRPL43	MRPL10	MRPL36	MRPL37	MRPL34	MRPL13	MRPL32	MRPL15	MRPL30	MRPL17	MRPS7	MRPL19	MRPS5	MRPL53	MRPS18A	MRPS18B	MRPL39	MRPS35	MRPL4	MRPL2	MRPL38	MRPS27	MRPL1	MRPL11	MRPS18C	MRPL9	GADD45GIP1	MRPS28	MRPS26	GFM1	MRPS24	MRPS25	MRPS22	PTCD3	MRPL18	MRPS21	MRPL16	MRPL42	MRPL35	MRPL40	MRPL47	MRPL46	MRPL45	MRPL44	MRPL12	MRPL49	MRPL48	TSFM	TUFM	MRPL3
+unwinding of dna	GINS2	GINS3	GINS1	GINS4	MCM7	MCM6	MCM5	MCM4	MCM3	MCM2	CDC45	MCM8
+the retinoid cycle in cones  daylight vision	OPN1SW	RLBP1	DHRS3	OPN1MW3	OPN1MW2	OPN1LW	OPN1MW
+choline degradation	CHDH	ALDH7A1
+sterols are 12 hydroxylated by cyp8b1	CYP8B1	PTGIS
+elevation of cytosolic ca2  levels	STIM1	ORAI1	ITPR2	TRPC3	TRPC6	TRPC7	P2RX1	ITPR3	ITPR1
+hormone ligand binding receptors	LHCGR	LHB	GNRHR2	CGA	TSHB	FSHB	GNRH2	FSHR	GNRH1	TSHR	GNRHR
+sodium calcium exchangers	SLC8B1	SLC24A4	SLC24A5	SLC24A2	SLC24A3	SLC24A1	SLC8A1	SLC8A3	SLC8A2
+acetylation	NAT2	NAT1
+dna pk pathway in nonhomologous end joining	POLL	DNTT	PNKP	PRKDC	LIG4	XRCC4	DCLRE1C	POLM	APTX	XRCC5	APLF	NHEJ1	XRCC6
+deregulation of rab and rab effector genes in bladder cancer	SYTL5	RAB27A	RAB27B	SYTL1	SYTL3	MYRIP	SYTL2	RPH3AL	MADD	GCC2	UNC13D	RPH3A	SYTL4	EXPH5	TBC1D10A	MLPH
+lysosomal glycogen catabolism	GYG1	GAA	GYG2
+orexin and neuropeptides ff and qrfp bind to their respective receptors	HCRTR2	QRFPR	NPFFR2	NPFFR1	HCRTR1	HCRT	NPFF	QRFP
+aripiprazole metabolic pathway	CYP3A43	CYP2D6
+ligand independent caspase activation via dcc	CASP3	UNC5B	MAGED1	UNC5A	DCC	CASP9	APPL1	DAPK3	DAPK2	DAPK1
+dolichol and dolichyl phosphate biosynthesis	SRD5A3	DOLK	DHDDS
+thioguanine metabolism pathway	HPRT1
+t 4 14  translocations of fgfr3	FGFR3
+the activation of arylsulfatases	SUMF2	ARSD	ARSF	ARSG	ARSA	ARSB	ARSE	ARSH	ARSI	ARSJ	ARSK	SUMF1	STS
+signaling by notch4	APH1B	APH1A	NOTCH4	PSEN2	NCSTN	ADAM10	DLL1	DLL4	JAG2	PSENEN	JAG1
+interaction with the zona pellucida	OVGP1	ADAM2	ZP1	ZP3	ZP2	ZP4	ADAM21	ADAM20	ADAM30	B4GALT1
+reuptake of gaba	SLC6A13	SLC6A12	SLC6A11	SLC6A1
+pyrimidine ribonucleosides degradation	UPP2	UPP1	CDA
+signaling by notch2	HES1	HES5	GZMB	FCER2
+aurora c signaling	AURKB	INCENP	H3F3B	H3F3A	AURKC
+mitochondrial transcription initiation	POLRMT	TFB2M	TFAM
+heroin metabolism	CES1	CES2
+mitotic metaphase anaphase transition	PLK1	FBXO5
+transport of ribonucleoproteins into the host nucleus	NUP88	AAAS	NUP133	NUP85	NUP62	SEH1L	NUP107	NUP43	NUP188	NUP214	NUP210	RANBP2	POM121	NUP155	NUP98	NUP160	KPNB1	NUP93	RAE1	NUPL2	NUP50	NUP54	NUP58	NUP35	NUP37	NUP153	KPNA1	NUP205	TPR
+trafficking of myristoylated proteins to the cilium	UNC119B	NPHP3	ARL3	RP2	CYS1
+adenosine p1 receptors	ADORA1	TMIGD3	ADORA3	ADORA2B	ADORA2A
+lipoate metabolism	SLC38A4	SLC7A2	SLC7A3	SLC7A1	SLC22A5	SLC5A6	SLC6A14
+tandem pore domain halothane inhibited k  channel  thik	KCNK13
+homocysteine degradation	CBS	CTH	CBSL
+microtubule dependent trafficking of connexons from golgi to the plasma membrane	GJA1
+trail  signaling	TNFSF10	CFLAR	CASP8	CASP10	TNFRSF10B	TNFRSF10A	FADD
+sodium coupled phosphate cotransporters	SLC20A2	SLC34A1	SLC34A3	SLC34A2	SLC20A1
+mrna capping	CMTR2	RNGTT	CMTR1	RNMT
+cox reactions	PTGS1
+melatonin degradation ii	MAOA
+i s  i  methyl 5 thio  alpha  d ribose 1 phosphate degradation	ADI1	ENOPH1	APIP	MRI1
+glucocorticoid pathway  hpa axis   pharmacodynamics	POMC	UCN	UCN2	UCN3	CRH	CRHR2	CRHR1
+diphthamide biosynthesis	DPH5	DPH6
+endohydrolysis of 1 4 alpha d glucosidic linkages in polysaccharides by alpha amylase	AMY2A	AMY2B	LYZL1	AMY1A	AMY1C	AMY1B
+hyaluronan biosynthesis and export	ABCC5
+creb phosphorylation	RPS6KA1	RPS6KA2	RPS6KA3	RPS6KA5	CREB1	ATF1	MAPKAPK2
+zinc influx into cells by the slc39 gene family	SLC39A10	SLC39A14	SLC39A8	SLC39A1	SLC39A2	SLC39A3	SLC39A4	SLC39A5	SLC39A6	SLC39A7
+calcitonin like ligand receptors	CALCRL	CALCR	RAMP1	RAMP3	RAMP2	IAPP	CALCA	CALCB	ADM	ADM2
+sulfate activation for sulfonation	PAPSS1	PAPSS2
+phosphatidylserine biosynthesis i	PTDSS1
+urea cycle	NAGS	SLC25A2	ARG2	OTC	ARG1	SLC25A15	ASS1	CPS1	ASL
+regulation of commissural axon pathfinding by slit and robo	ROBO1	ROBO3	ROBO2	SLIT2
+inhibition of tsc complex formation by pkb	AKT2	TSC2	TSC1
+selenocysteine biosynthesis	SARS2	SEPHS2	SEPHS1	SEPSECS	PSTK	SARS
+electron transport from nadph to ferredoxin	FDXR	FDX1	FDX1L
+tryptophan degradation to 2 amino 3 carboxymuconate semialdehyde	IDO2	KYNU	KMO	AFMID	IDO1	HAAO	TDO2
+basal transcription factors   homo sapiens  human	TAF15	ERCC2	ERCC3	TAF13	TAF12	TAF11	TAF10	GTF2A1	GTF2A2	TAF1L	GTF2E1	GTF2E2	TAF6L	TAF4B	GTF2B	GTF2A1L	GTF2I	GTF2H2C_2	TAF6	GTF2H3	GTF2H2	GTF2H1	CDK7	GTF2IRD1	GTF2H5	GTF2H4	TAF9B	TAF3	MNAT1	TAF7L	TAF7	TBPL2	TBPL1	TAF4	GTF2F1	TAF2	TAF1	GTF2F2	GTF2H2C	TAF9	TAF8	TBP	TAF5	TAF5L	CCNH
+defective cftr causes cystic fibrosis	CFTR
+potassium transport channels	KCNJ1	KCNJ10	KCNJ16
+negative regulation of tcf dependent signaling by dvl interacting proteins	DVL2	DVL3	CCDC88C	DVL1	CXXC4
+resolvin d biosynthesis	ALOX15	ALOX5
+class c 3  metabotropic glutamate pheromone receptors	TAS2R20	GRM2	GABBR1	GABBR2	TAS2R50	GRM8	TAS2R30	TAS2R31	GRM4	GRM5	GRM6	GRM7	GRM1	TAS2R38	TAS2R39	TAS2R19	TAS2R14	TAS2R16	CASR	TAS2R10	TAS2R13	GPRC6A	TAS1R2	TAS2R8	TAS2R9	TAS2R7	TAS2R4	TAS2R5	TAS2R3	TAS2R1	TAS2R43	TAS2R42	TAS2R41	TAS2R40	TAS2R46	TAS2R45	TAS1R1	TAS1R3	GRM3	TAS2R60
+trafficking and processing of endosomal tlr	CTSK	CTSL	LGMN	CTSB	HSP90B1	TLR3	CNPY3	TLR7	UNC93B1	TLR8	CTSS	CTSV	TLR9
+trna splicing	TRPT1	TSEN34	TSEN15	TSEN2	TSEN54
+epoxysqualene biosynthesis	FDFT1	SQLE
+tetrapyrrole biosynthesis	HMBS	ALAS1	ALAS2	ALAD	UROS
+ephrin a  reverse signaling	EPHA5	FYN	EFNA5
+attachment of gpi anchor to upar	PGAP1	PLAUR	PIGK	PIGS	PIGT	PIGU	GPAA1
+acyl carrier protein metabolism	AASDHPPT
+inhibition of signaling by overexpressed egfr	EGFR	EGF
+chondroitin and dermatan biosynthesis	CHPF2	CHSY3	CHSY1	CHPF	CSGALNACT2	CSGALNACT1
+conversion from apc c cdc20 to apc c cdh1 in late anaphase	CDC16	CDC27	ANAPC11	CDC26P1	FZR1	CDC23	ANAPC10	UBE2E1	UBE2D1	CDC14A	CDC26	ANAPC1	UBE2C	ANAPC2	ANAPC5	ANAPC4	ANAPC7	CDC20
+repression of wnt target genes	HDAC1	AES	TLE3	TLE2	TLE1	TCF7L1	TCF7L2	TLE4	CTBP1	CTBP2
+fosphenytoin  antiarrhythmic  metabolism pathway	SNTA1	SCN5A	SNTB2	SNTB1
+electric transmission across gap junctions	PANX1	GJA10	PANX2	GJD2	GJC1
+thio molybdenum cofactor biosynthesis	MOCOS
+synthesis of pips at the er membrane	PI4K2B	SACM1L	PI4KA
+7  3 amino 3 carboxypropyl  wyosine biosynthesis	TYW1	TYW3
+pyridoxal 5  phosphate salvage	PDXP	ALPI	PDXK	PNPO	PHOSPHO2
+udp d xylose and udp d glucuronate biosynthesis	UGDH	UXS1
+retinoate biosynthesis i	SDR16C5	RBP2	RBP1	RDH16	RBP4	RBP5	ALDH1A1	ALDH1A2	ALDH1A3
+fluorouracil action pathway	TYMS
+classical kir channels	KCNJ12	KCNJ4	KCNJ2	KCNJ14
+hedgehog  on  state	PTCH2	BOC	HHIP
+breakdown of the nuclear lamina	CASP6	LMNA	LMNB1
+deadenylation of mrna	PABPC1	PAN3	PAN2	CNOT8	PARN	CNOT3	CNOT2	CNOT1	CNOT7	CNOT6	CNOT4	RQCD1	CNOT11	CNOT10	TNKS1BP1	EIF4E	EIF4B	CNOT6L	EIF4G1	PAIP1	EIF4A1	EIF4A3	EIF4A2
+recognition and association of dna glycosylase with site containing an affected purine	MUTYH	MPG	OGG1
+smad2 3 phosphorylation motif mutants in cancer	TGFB1	TGFBR1	TGFBR2	SMAD2	SMAD3	ZFYVE9
+l glutamine trna biosynthesis	QRSL1	GATB
+glycine biosynthesis	AGXT	AGXT2
+hydroxycarboxylic acid binding receptors	HCAR3	HCAR2	HCAR1
+activation of na permeable kainate receptors	GRIK1	GRIK2
+rap1 signalling	YWHAZ	RASGRP2	RASGRP1	RAP1GAP	RAP1GAP2	RAPGEF3	RAP1B	RAP1A	RAPGEF4	PRKACG	PRKACB	PRKG1	SIPA1	YWHAB	PRKACA	RAF1
+sphingosine and sphingosine 1 phosphate metabolism	ACER2	SPHK2	SPHK1	ACER1	ASAH1	ASAH2	PTGR1	SGPP2	SGPP1
+vpr mediated induction of apoptosis by mitochondrial outer membrane permeabilization	SLC25A6	SLC25A5	SLC25A4
+class ii gluts	SLC2A7	SLC2A5	SLC2A9	SLC2A11
+activated pkn1 stimulates transcription of ar  androgen receptor  regulated genes klk2 and klk3	KLK2	KLK3
+opposing roles of aif in apoptosis and cell survival	BCL2L1	AIFM1	PARP1
+release of hh np from the secreting cell	SCUBE2	NOTUM	DHH	IHH	GPC5	ADAM17	SHH	DISP2
+scavenging of heme from plasma	LRP1	ALB	HP	AMBP	HBB	CD163	HPX	HPR	HBA1	HBA2	APOA1	APOL1
+interactions of tat with host cellular proteins	CCNT1	CDK9
+sphingomyelin metabolism ceramide salvage	SMPD3	ENPP7	SMPD4	SMPD1	SGMS2	SGMS1	SMPD2	SAMD8
+prpp biosynthesis	PRPS1L1	PRPS2	PRPS1
+omeprazole metabolism pathway	ATP4A	ATP4B
+methylglyoxal degradation iii	AKR1B1	AKR1B10	CYP2E1
+uracil degradation	UPB1	DPYS	DPYD
+synthesis of hepoxilins  hx  and trioxilins  trx	ALOX12
+ca2  activated k  channels	KCNMB1	KCNMB3	KCNMB2	KCNMB4	KCNMA1	KCNN4	KCNN3	KCNN2	KCNN1
+protein citrullination	PADI1	PADI3	PADI2	PADI4	PADI6
+allopregnanolone biosynthesis	AKR1C4	SRD5A2	SRD5A1	AKR1C1	AKR1C2	AKR1C3
+d arginine and d ornithine metabolism   homo sapiens  human	DAO
+propionyl coa catabolism	PCCB	MUT	MCEE	PCCA	MMAA
+tnfs bind their physiological receptors	TNFSF13	TNFSF11	CD70	TNFRSF25	TNFSF15	TNFSF14	TNFSF18	TNFRSF17	TNFRSF14	TNFRSF18	TNFSF13B	TNFRSF4	TNFRSF6B	TNFSF4	EDARADD	CD27	LTA	FASLG	TNFRSF11B	TNFRSF13B	EDA2R	EDA	TNFRSF1B	TNFRSF1A	EDAR
+paos oxidise polyamines to amines	PAOX	SMOX
+tight junction interactions	CLDN12	CLDN10	CLDN11	CLDN16	CLDN17	CLDN14	CLDN15	CLDN18	CLDN19	MPP5	PARD6G	PARD6B	PARD6A	CLDN8	CLDN9	CLDN1	CLDN2	CLDN3	CLDN4	CLDN5	CLDN6	CLDN7	PRKCI	CLDN23	CLDN22	CLDN20	CRB3	F11R	PARD3	INADL
+beta oxidation of myristoyl coa to lauroyl coa	HADHB	HADHA	ACADL
+serotonin and melatonin biosynthesis	DDC	TPH1	TPH2	AANAT	ASMT
+nr1d1  rev erba  represses gene expression	ARNTL	CLOCK	USP46	NPAS2	ELOVL3	NR1D1
+synthesis and processing of env and vpu	FURIN
+tet1 2 3 and tdg demethylate dna	TET1	TET3	TET2	TDG
+olfactory signaling pathway	OR52B2	OR52B6	OR52B4	OR10T2	OR13H1	OR2L5	OR2L2	OR2L3	OR2L8	OR14K1	OR12D2	OR12D3	OR5AK2	OR7D2	OR10S1	OR9I1	OR7D4	OR5J2	OR13C4	OR13C5	OR13C2	OR13C3	OR52K1	OR52K2	OR13C8	OR13C9	OR5A2	OR5A1	OR2L13	OR1B1	OR5D18	OR2W3	OR5D13	OR5D14	OR2W5	OR5D16	OR4K17	OR1I1	OR5AR1	OR2AP1	OR52A4P	OR14C36	OR8D4	OR4E2	OR4E1	OR4K5	OR4K1	OR4K3	OR4K2	OR2H2	OR2H1	OR6Y1	OR2A1	OR4L1	OR2A2	OR2A5	OR2A4	OR2A7	OR2T34	OR2T35	OR1N1	OR4F15	OR4F16	OR4F17	OR4C46	OR4C45	OR6K3	OR6K2	OR6K6	OR14A16	OR8S1	OR6P1	OR10P1	OR1N2	OR51D1	OR2S2	OR5W2	OR11G2	OR6B1	OR6B2	OR6B3	OR52L1	OR14A2	OR2G3	OR3A1	OR3A2	OR3A3	OR13F1	OR2F1	OR6C65	OR2F2	OR6C68	OR2Z1	OR52Z1	OR1G1	OR8H1	OR8H2	OR8H3	OR5P3	OR5P2	OR51Q1	OR2D2	OR2D3	OR9A2	OR10K2	OR10K1	OR5M9	OR9A4	OR51J1	OR5AC2	OR5AC1	OR4A4P	OR10G9	OR14L1P	OR2T12	OR4A47	OR2J1	OR6T1	OR1P1	OR6F1	OR5K4	OR5K1	OR5K2	OR5K3	OR52H1	OR4C15	OR4C16	OR4C11	OR4C13	OR4C12	OR1Q1	OR10AD1	OR1F12	OR5B3	OR5B2	OR2AG2	OR2AG1	OR51G2	OR1C1	OR51G1	OR2V1	OR2V2	OR5T1	OR5T3	OR5T2	OR8D1	OR8D2	OR6A2	OR4P4	OR2A12	OR2A14	OR4C5	OR1J4	OR1J2	OR1J1	OR10G7	OR10G6	OR10G4	OR10G3	OR10G2	OR5AK3P	OR10G8	OR1D5	OR1D4	OR1D2	OR4D9	OR2Y1	OR4D1	OR4D2	OR4D5	OR4D6	OR8K1	OR8K3	OR8K5	OR2K2	GNB1	OR2AJ1	OR6X1	OR10H2	OR10H3	OR10H1	OR7A5	OR10H4	OR10H5	OR2T29	OR5AN1	OR2T27	OR4C6	OR4C3	OR10Z1	OR52D1	OR14I1	OR2W1	OR6S1	OR4Q3	OR4Q2	OR5F1	OR10Q1	OR5H6	OR5H1	OR5H2	OR8A1	OR6C3	OR10AG1	OR11H2	OR1F2P	OR11H1	OR52M1	OR6J1	OR13A1	OR4X1	OR4X2	OR11H6	OR6C75	OR6C74	OR6C76	OR6C70	OR3A4P	OR10C1	OR11H4	OR51B5	OR51B4	OR51B6	OR51B2	OR8G5	OR10J6P	OR8G1	OR8G2	OR52R1	OR10D4P	OR4N2	OR2G2	OR2G6	OR4N4	OR4N5	OR7A2P	OR10D3	OR51I1	OR51I2	OR10V1	OR13J1	OR5M10	OR5M11	OR9K2	OR4D10	OR4D11	OR8B3	OR5L1	OR5L2	OR52I2	OR52I1	OR5C1	OR10AC1	OR8U9	OR8U8	GNAL	OR6N1	OR6N2	OR51F1	OR51F2	OR1L8	OR1L4	OR1L6	OR1L1	OR1L3	OR2A25	OR52N4	OR52N5	OR52N2	OR5AP2	OR52N1	OR13D1	OR1K1	OR1E2	OR51M1	OR1E1	OR1F1	OR4K15	OR4K14	OR7A10	OR7A17	OR4K13	OR8J2	OR8J3	OR8J1	OR2I1P	OR2J2	OR2J3	OR4A16	OR4A15	OR51S1	OR9G4	OR9G1	OR2AK2	OR9G9	OR5H15	OR5H14	OR2T10	OR2T11	OR51T1	OR52L2P	OR2C3	OR2C1	OR4B1	OR52E6	OR52E5	OR52E4	OR52E2	OR52E1	OR5B12	OR5B17	OR52E8	OR2M5	OR2M4	OR2M7	OR2M3	OR2M2	OR14J1	OR7E24	OR8U1	OR5G3	OR7G2	OR7G3	OR10R2	OR7G1	OR51A4	OR5I1	OR1A2	OR51A2	OR1A1	OR52J3	OR6M1	OR2AE1	OR51A7	OR52W1	OR2T8	OR2T6	OR2T7	OR2T4	OR2T5	OR2T2	OR2T3	OR2T1	OR9Q2	OR9Q1	OR56B2P	OR5R1	OR11L1	OR5AS1	OR56A5	OR56A4	OR56A3	OR56A1	OR4F3	OR4F6	OR52P1P	OR4F5	OR51H1	OR2B11	OR52A1	OR52A5	OR6V1	OR7C2	OR7C1	OR4M2	OR4M1	OR5M8	OR5B21	OR5M3	OR5M1	OR11A1	OR4F29	OR1S1	OR1S2	OR4F21	OR10X1	OR51V1	OR6Q1	OR4S1	OR4S2	OR10W1	OR2B8P	OR51E1	OR51E2	OR1M1	OR8B2	OR6C2	OR6C1	OR11H7	OR6C6	OR8B4	OR6C4	OR8B8	OR5V1	OR2T33	OR13G1	OR10A3	OR10A2	OR10A5	OR10A4	OR10A7	OR10A6	OR5AU1	OR51L1	OR9A1P	OR2W6P	OR2A42	OR8I2	OR8B12	OR2AT4	OR10J4	OR10J5	OR10J1	OR10J3	OR5AL1	OR4F4	OR56B4	OR56B1	OR4A8	OR2B6	GNGT1	OR2B2	OR2B3	OR4A5	OR1E3
+wnt5a dependent internalization of fzd2  fzd5 and ror2	WNT5A	FZD2	ROR2	ROR1	FZD5
+hcn channels	HCN1	HCN3	HCN2	HCN4
+betaklotho mediated ligand binding	FGF19	FGFR4	KLB
+alpha  tocopherol degradation	CYP4F2
+mrna decay by 3  to 5  exoribonuclease	DCPS	DIS3	EXOSC8	EXOSC9	EXOSC2	EXOSC3	EXOSC1	EXOSC6	EXOSC7	EXOSC4	EXOSC5
+eptifibatide action pathway	ITGA2B	ITGB3
+activation of noxa and translocation to mitochondria	TP53	PMAIP1	E2F1	TFDP1
+adenylate cyclase activating pathway	ADCY4	ADCY5	ADCY6	ADCY7	ADCY1	ADCY2	ADCY3	ADCY8	ADCY9	GNAL
+acetyl coa biosynthesis from citrate	ACLY
+transport of nucleotide sugars	SLC35B4	SLC35B3	SLC35B2	SLC35A1	SLC35A2	SLC35A3	SLC35D2	SLC35D1	SLC35C1
+estrogen biosynthesis	HSD17B1	CYP19A1
+mitochondrial abc transporters	ABCB8	ABCB7	ABCB6	ABCB10
+phenylalanine degradation tyrosine biosynthesis	PAH	QDPR	PCBD2	PCBD1
+twik related alkaline ph activated k  channel  talk	KCNK16	KCNK17
+lanosterol biosynthesis	LSS
+anthrax toxin mechanism of action	MAP2K2	MAP2K1
+anandamide degradation	FAAH	FAAH2
+serotonin receptors	HTR5A	HTR6	HTR7	HTR4	HTR2A	HTR2C	HTR2B	HTR1D	HTR1E	HTR1F	HTR1A	HTR1B
+cytosolic iron sulfur cluster assembly	NDOR1	CIAPIN1
+g beta gamma signalling through plc beta	PLCB1	PLCB2	PLCB3	GNB5	GNB1	GNB2	GNG10	GNG11	GNB3	GNG13	GNG7	GNG4	GNG5	GNG2	GNGT2	GNGT1	GNB4	GNG12	GNG8	GNG3
+dna damage recognition in gg ner	XPC	RAD23B
+mineralocorticoid biosynthesis HumanCyc	CYP21A2	CYP11B1	CYP11B2
+thiamin salvage iii	TPK1
+inositol transporters	SLC2A13	SLC5A1	SLC5A2	SLC5A11	SLC5A4	SLC5A9	SLC5A3
+zymosterol biosynthesis	MSMO1	LBR	TM7SF2	NSDHL	CYP51A1	HSD17B7
+spermine biosynthesis	SMS	AMD1
+fatty acid elongation    saturated	FASN
+striated muscle contraction	ACTA2	MYOM1	ACTA1	DMD	ACTG1	ACTC1	DES	NEB	MYL4	MYL2	MYL3	TNNC2	MYL1	TMOD1	MYL9	TNNT1	MYH3	TNNT3	TNNT2	MYH6	MYH8	TPM4	TPM3	TPM2	TPM1	TNNI2	TTN	TNNI1	TNNI3	TCAP	ACTN3	ACTN2	ACTN4	VIM	MYBPC3	MYBPC2	MYBPC1	TNNC1
+neurofascin interactions	NRCAM	SDCBP	CNTNAP1	ANK1	NFASC	CNTN1	DCX
+irf3 mediated activation of type 1 ifn	DTX4	NLRP4	TBK1	ZBP1	TMEM173	IRF3
+proton coupled monocarboxylate transport	SLC16A1	SLC16A8	SLC16A3	SLC16A7
+acrosome reaction	ACR
+phospho pla2 pathway	PLA2G4A	MAPK1
+alkbh2 mediated reversal of alkylation damage	ALKBH2
+formation of atp by chemiosmotic coupling	ATP5C1	ATP5F1	ATP5J	ATP5J2	ATP5A1	ATP5S	ATP5I	ATP5H	MT-ATP8	ATP5E	ATP5O	ATP5L	ATP5B	MT-ATP6	ATP5D	ATP5G1	ATP5G3	ATP5G2
+transport of glycerol from adipocytes to the liver by aquaporins	AQP7	AQP9
+synthesis of cl	CRLS1
+gdp l fucose biosynthesis i  from gdp d mannose	TSTA3	GMDS
+cell cycle checkpoints	CDKN1A
+pyrophosphate hydrolysis	PPA2	PPA1
+degradation of beta catenin by the destruction complex	AMER1	AXIN1

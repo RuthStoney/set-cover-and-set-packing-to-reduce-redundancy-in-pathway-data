@@ -1,4 +1,6 @@
 
+Written in python 2.7, requires the packages pandas, os, matplotplib, copy, re, numpy, pylab and time. Anaconda could be useful if you’re struggling to install these packages.
+
 Required Files
 •	If you want to reduce redundancy from your own set of pathways, format them into a text file with the pathway name first then the gene names, on each line. Files should be delimited using tabs or commas. Alternatively you can use the included CPDB files (‘text pathways.txt’, ‘text pathways2.txt’).
 

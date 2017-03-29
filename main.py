@@ -109,7 +109,9 @@ if 'set_cover' in set_overlap:
         print 'mean paths per gene: ' + str(results)
 
         # generate an out file of the pathways
-        functions2.print_dict(set_cov, 'new pathways ' + ths + '.txt')
+        if th>0.0: amount_covered = str(int((1-th)*100))
+        else: amount_covered = '100'
+        functions2.print_dict(set_cov, 'CPDB paths '+ set_overlap + ' ' + amount_covered +' percent genes' + '.txt')
                        
         # store the pathways
         reduced_redundancy_pathways.append([th, set_cov])
@@ -143,7 +145,7 @@ if set_overlap == 'set_packing':
         print 'mean paths per gene: ' + str(results)
 
         # make file of new pathways
-        functions2.print_dict(set_pack, 'set packing SPT '+ str(threshold))
+        functions2.print_dict(set_pack, 'CPDB paths '+ set_overlap + ' ' + str(threshold) + '.txt')
 
 
 
